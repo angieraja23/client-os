@@ -1,0 +1,857 @@
+[2026-05-29 16:51] ==================================================
+[2026-05-29 16:51] LinkedIn Contact Fetch starting
+[2026-05-29 16:51]   Searching: site:linkedin.com/in "amazon agency" "founder" "operations"...
+[2026-05-29 16:51]     → 0 new contacts
+[2026-05-29 16:51]   Searching: site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-05-29 16:51]     → 0 new contacts
+[2026-05-29 16:51]   Searching: site:linkedin.com/in "amazon agency" founder CEO...
+[2026-05-29 16:51]     → 0 new contacts
+[2026-05-29 16:51]   Searching: site:linkedin.com/in "ecommerce agency" "founder" operations...
+[2026-05-29 16:51]     → 0 new contacts
+[2026-05-29 16:51]   Searching: site:linkedin.com/in "amazon seller" "founder" COO...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52]   Searching: site:linkedin.com/in "FBA agency" founder...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52]   Searching: site:linkedin.com/in "amazon brand" "founder" operations...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52]   Searching: site:linkedin.com/in "amazon marketing agency" founder...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52]   Searching: site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52]   Searching: site:linkedin.com/in "amazon consulting" "founder" OR "co-fo...
+[2026-05-29 16:52]     → 0 new contacts
+[2026-05-29 16:52] No new contacts found — skipping deploy
+[2026-06-04 11:54] ==================================================
+[2026-06-04 11:54] Client Acquisition OS — Daily Refresh
+[2026-06-04 11:54] ── JOBS ─────────────────────────────────
+[2026-06-04 11:54]   Fetching: Operations Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Operations Manager): HTTP Error 404: Not Found
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Business Operations Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Business Operations Manager): HTTP Error 404: Not Found
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Chief of Staff…
+[2026-06-04 11:54]   ⚠ Indeed error (Chief of Staff): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Agency Operations Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Agency Operations Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Ecommerce Operations Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Ecommerce Operations Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Amazon Account Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Amazon Account Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Client Success Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Client Success Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Client Services Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Client Services Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Implementation Manager…
+[2026-06-04 11:54]   ⚠ Indeed error (Implementation Manager): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Operations Manager NYC…
+[2026-06-04 11:54]   ⚠ Indeed error (Operations Manager NYC): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Chief of Staff NYC…
+[2026-06-04 11:54]   ⚠ Indeed error (Chief of Staff NYC): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   Fetching: Amazon Account Manager NYC…
+[2026-06-04 11:54]   ⚠ Indeed error (Amazon Account Manager NYC): HTTP Error 429: Too Many Requests
+[2026-06-04 11:54]     → 0 new
+[2026-06-04 11:54]   No new jobs today
+[2026-06-04 11:54] ── CONTACTS — skipped (not Monday) ──────
+[2026-06-04 11:54] Nothing new — skipping deploy
+[2026-06-04 11:54] Done.
+
+[2026-06-04 12:42] ==================================================
+[2026-06-04 12:42] Client Acquisition OS — Weekly Refresh
+[2026-06-04 12:42]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 12:42] ── JOBS ─────────────────────────────────
+[2026-06-04 12:42]   Operations Manager — Remote
+[2026-06-04 12:42]     0 results
+[2026-06-04 12:42]   Operations Manager — New York
+[2026-06-04 12:42]     10 results
+[2026-06-04 12:43] ==================================================
+[2026-06-04 12:43] Client Acquisition OS — Weekly Refresh
+[2026-06-04 12:43]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 12:43] ── JOBS ─────────────────────────────────
+[2026-06-04 12:43]   Operations Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Operations Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Operations and Technology Manager @ Mai Placement (Brooklyn, NY)
+[2026-06-04 12:43]     + Manager Finance Operations and Performance @ NewYork-Presbyterian (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Operations Manager @ Ulta Beauty, Inc. (Garden City, NY) [Indeed · Easily Apply]
+[2026-06-04 12:43]     + Procurement & Operations Manager @ The Contractor Consultants (Newark, NJ) [Indeed · Easily Apply]
+[2026-06-04 12:43]     + Food and Beverage Operations Manager @ Marriott International (Newark, NJ) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Senior Manager - DTC Partner Operations, MS NOW @ Versant Media (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Property Operations Manager (Hospitality) @ Huzzle (New York, NY)
+[2026-06-04 12:43]     + Nursing Operations Manager @ Everly Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Director of Program Operations @ IRI (Elmont, NY) [Indeed · Easily Apply]
+[2026-06-04 12:43]     + Operations Manager: Lead Teams, Drive Efficiency & Safety @ Amazon (New York, NY)
+[2026-06-04 12:43]   Chief of Staff — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Chief of Staff — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Chief of Staff @ DISTRICT 14 (Newark, NJ)
+[2026-06-04 12:43]     + Chief of Staff, Facilities Management and Construction @ City of New York (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Chief of Staff, COO @ Pendo.io (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Chief of Staff @ Raycon (New York, NY)
+[2026-06-04 12:43]     + Chief Of Staff @ Mai Placement (Monsey, NY) [Indeed · Easily Apply]
+[2026-06-04 12:43]     + Chief of Staff, Confidential Family Office @ BoardRoom magazine (New York, NY)
+[2026-06-04 12:43]     + Remote Chief of Staff for CEO/COO Strategy & Growth @ Boulder Care (New York, NY)
+[2026-06-04 12:43]     + Program Manager/Chief of Staff @ Voya Financial (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Chief of Staff to GP — NYC VC Operator & Growth Catalyst @ VC Stack (New York, NY)
+[2026-06-04 12:43]     + Investment Banking Chief of Staff, VP @ Barclays (New York, NY)
+[2026-06-04 12:43]   Ecommerce Operations Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Ecommerce Operations Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Operations Manager 3 (eCommerce Fulfillment Specialist) @ Intelliswift (Englewood Cliffs, NJ)
+[2026-06-04 12:43]     + Remote Ecommerce Content Operations Manager @ OLIVER Agency (New York, NY)
+[2026-06-04 12:43]     + eCommerce Ops & CX Manager — Drive Fulfillment @ Stetson (New York, NY)
+[2026-06-04 12:43]     + Ecommerce Ops Project Manager: Scale & Deliver @ Activate Talent (East Orange, NJ)
+[2026-06-04 12:43]     + Manager, Ecommerce Operations @ Torani (R. Torre & Co.) (San Leandro, CA) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + CS / Operations Manager — E-commerce (Swords) | US Hours - Contract to Hire @ Upwork (Anywhere)
+[2026-06-04 12:43]     + Ecommerce Store Operations Manager (Shopify) – Hybrid @ Russell Tobin (Philadelphia, PA)
+[2026-06-04 12:43]     + DTC Ecommerce Operations Lead 35 @ Hadley Designs (New York, NY)
+[2026-06-04 12:43]     + E-Commerce Operations Lead - Fast-Paced Impact @ Universal Music Group (United States)
+[2026-06-04 12:43]   Amazon Account Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Amazon Account Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Account Manager I, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Startup Growth Account Manager for FinTech & Web3 @ Amazon (New York, NY)
+[2026-06-04 12:43]     + Sr. Partner Account Manager, Global Systems Integrator Sales, WWPS GSI Public Sector Team @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Fintech Sr. Account Manager @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Senior Account Executive (Amazon) @ Adaptive Teams (Floral Park, NY)
+[2026-06-04 12:43]     + Senior Advertising Account Manager @ Amazon (Chicago, IL)
+[2026-06-04 12:43]     + Sr. Amazon Account Manager @ Envision Horizons (Remote, OR)
+[2026-06-04 12:43]     + AWS Principal Enterprise Account Manager, Travel & Hospitality @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Senior Account Manager, AWS Aerospace and Satellite @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]   Client Services Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Client Services Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Senior Client Account Manager @ Lord Abbett (Jersey City, NJ, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Client Services Manager, Retirement Plan Services @ Charles Schwab (Richfield, OH, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Private Wealth Client Services Manager @ Citizens Bank (United States)
+[2026-06-04 12:43]     + Customer Service Project Manager @ Legrand, North America (New London, CT, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Client Services Manager - Emergency Medicine @ Vituity (Winters, CA, United States)
+[2026-06-04 12:43]     + Senior Client Services Manager Remote, USA 21 @ Impiricus (Maryland, United States)
+[2026-06-04 12:43]   Agency Operations Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Agency Operations Manager — New York
+[2026-06-04 12:43]     9 results
+[2026-06-04 12:43]     + Assemble the Agency: Operations Manager (Chief of Staff) - Limited Term @ Arena (New York, NY)
+[2026-06-04 12:43]     + Manager of Agency Operations @ ABCD & Company (Rockville, MD) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Strategic Operations Lead, Media Planning & Activation @ Omnicom Media (New York, NY)
+[2026-06-04 12:43]     + Regional Sales Operations Manager @ US012 Marsh & McLennan Agency LLC (Boston, MA)
+[2026-06-04 12:43]     + Manager of Home Health Agency Operations @ A Care U Need (Stewartsville, NJ)
+[2026-06-04 12:43]     + Franchise Operations Leader: Insurance & Compliance @ Prestige Trucking Insurance (New York)
+[2026-06-04 12:43]     + Senior Client Operations Lead – Transfer Agency @ BNY (Boston, MA)
+[2026-06-04 12:43]     + Remote PR Operations & Projects Lead @ THINKINK (Boston, MA)
+[2026-06-04 12:43]   Business Operations Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Business Operations Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Business Operations Manager @ Starbucks (Little Ferry, NJ)
+[2026-06-04 12:43]     + Supervisor, Operations @ Northwell Careers (Staten Island, NY) [Indeed · Easily Apply]
+[2026-06-04 12:43]     + Business Operations Specialist @ Aston Carter (Carteret, NJ)
+[2026-06-04 12:43]     + Head of Operations & Business Management @ Keurig Dr Pepper Inc. (Woodbridge Township, NJ)
+[2026-06-04 12:43]   Implementation Manager — Remote
+[2026-06-04 12:43]     0 results
+[2026-06-04 12:43]   Implementation Manager — New York
+[2026-06-04 12:43]     10 results
+[2026-06-04 12:43]     + Implementation Project Manager (CONTRACT) REMOTE @ Broadridge (Anywhere)
+[2026-06-04 12:43]     + Implementation Manager (ME, NH, VT, MA, RI, CT, NY, NJ, PA) @ Ecorobotix (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Manager, Implementation @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Implementation Manager, Enterprise Scribe @ Athelas (New York, NY)
+[2026-06-04 12:43]     + Implementation Lead @ Pivotal Health (New York, NY)
+[2026-06-04 12:43]     + Product Implementation Manager @ Vaco by Highspring (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:43]     + Senior Manager, Partner Implementation @ Intuit (Newark, NJ)
+[2026-06-04 12:43]     + Implementation Manager @ Optima Global Solutions (Hamilton Township, NJ)
+[2026-06-04 12:43]     + Technical Manager (Implementations & Delivery) - Remote US @ Smile Digital Health (New York, NY)
+[2026-06-04 12:43]   Added 65 new jobs (total 65)
+[2026-06-04 12:43] ── CONTACTS ─────────────────────────────
+[2026-06-04 12:43]   site:linkedin.com/in "amazon agency" "founder" operatio…
+[2026-06-04 12:43]     + Hamza Muneer — CEO @ CommerceKind @ Amazon Growth ...
+[2026-06-04 12:43]   site:linkedin.com/in "amazon agency" "co-founder"…
+[2026-06-04 12:44]     + James Lovett — Founder of the UK's #1 trusted Amazon ... @ 
+[2026-06-04 12:44]   site:linkedin.com/in "amazon agency" founder CEO…
+[2026-06-04 12:44]     + Ivan Marynych — Founder @ Best Seller Hunter Amazon ...
+[2026-06-04 12:44]   site:linkedin.com/in "ecommerce agency" founder operati…
+[2026-06-04 12:44]     + John Surdakowski — Founder @ Avex. Partnering ...
+[2026-06-04 12:44]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-04 12:44]     + Sergei Ostapenko — Mira Agency CEO 🔹 Building ... @ 
+[2026-06-04 12:44]   site:linkedin.com/in "FBA agency" founder…
+[2026-06-04 12:44]     + Jatinder Kumar — OWNER OF AMAZON ALPHA @ 
+[2026-06-04 12:44]     + Harris Sterling — CEO, The Starren Group, Inc @ 
+[2026-06-04 12:44]   site:linkedin.com/in "amazon seller" founder COO…
+[2026-06-04 12:44]     + Sebastian Eduard — 🟢CEO @ Insiders® Amazon Seller ... @ 
+[2026-06-04 12:44]     + Joe Nilsen — Founder @ MajestIQ @ AI systems for Amazon ...
+[2026-06-04 12:44]     + Amber Norell — CEO & COO - Top 40 Amazon Brand @ 
+[2026-06-04 12:44]     + Steve Yates — CEO of Prime Guidance @ Amazon, Walmart, ...
+[2026-06-04 12:44]     + Jay Fetman — COO @ The Lion Group - top 600 Amazon ... @ 
+[2026-06-04 12:44]     + Blair Forrest — Founder @ AMZ Prep @ 
+[2026-06-04 12:44]     + Amir Nemni — Founder @ PeakSellers.com Helping ...
+[2026-06-04 12:44]   site:linkedin.com/in "amazon brand" founder operations…
+[2026-06-04 12:44]     + Waqar Bajwa — CEO and Founder @ My Brand Genius @ 
+[2026-06-04 12:44]     + Andy Isom — Owner of Weavos - Amazon Brand Management @ 
+[2026-06-04 12:44]     + Cody Metz — Owner & Amazon Consultant @ 1019 Collective @ 
+[2026-06-04 12:44]   site:linkedin.com/in "amazon marketing agency" founder…
+[2026-06-04 12:44]     + Rafael Veloz — CEO and Founder of Share It Studio @ 
+[2026-06-04 12:44]     + Clint George — CEO & Founder of Brand Focus Digital │ex- ... @ 
+[2026-06-04 12:44]     + Guy Heretz — CEO & Co-Founder @ RPGECOM
+[2026-06-04 12:44]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-04 12:44]     + Oleksandr Nyezhnyk — CEO @ Profit Whales
+[2026-06-04 12:44]   site:linkedin.com/in "ecommerce operations" founder CEO…
+[2026-06-04 12:44]     + Mark Rosenberg — CEO/Founder of Hip eCommerce @ 
+[2026-06-04 12:44]     + Andrea Schultz — Founder and CEO of eCommerce ... @ 
+[2026-06-04 12:44]     + Erica Gaier — Vice President, eCommerce Fulfillment ... @ 
+[2026-06-04 12:44]     + Debabrata Bhowmick — Founder and CEO @ Ecomgiantz @ 
+[2026-06-04 12:44]     + Emily Blain — Fractional COO @ Ecommerce Operations & ...
+[2026-06-04 12:44]   site:linkedin.com/in "amazon consulting" founder OR co-…
+[2026-06-04 12:44]     + Shawn Pagano — Founder @ The White Whale LLC @ 
+[2026-06-04 12:44]     + Madeline Masterson — Ex-Amazon. Owner. Founder. E ... @ 
+[2026-06-04 12:44]     + Gal Ezuz — ‏We're Hiring! Co-Founder @ GNO Partners @ 
+[2026-06-04 12:44]   Added 31 contacts (total 72)
+[2026-06-04 12:44] ── DEPLOYING ────────────────────────────
+[2026-06-04 12:44]   ✅ Live: https://client-acquisition-mp6t4oeqe-angieraja23-9144s-projects.vercel.app
+[2026-06-04 12:44] Done.
+
+[2026-06-04 12:53] ==================================================
+[2026-06-04 12:53] Client Acquisition OS — Weekly Refresh
+[2026-06-04 12:53]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 12:53] ── JOBS ─────────────────────────────────
+[2026-06-04 12:53]   Operations Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Operations Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Chief of Staff — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Chief of Staff — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Ecommerce Operations Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Ecommerce Operations Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Amazon Account Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Amazon Account Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Client Services Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Client Services Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Agency Operations Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Agency Operations Manager — New York
+[2026-06-04 12:53]     9 results
+[2026-06-04 12:53]   Business Operations Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Business Operations Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   Implementation Manager — Remote
+[2026-06-04 12:53]     0 results
+[2026-06-04 12:53]   Implementation Manager — New York
+[2026-06-04 12:53]     10 results
+[2026-06-04 12:53]   No new jobs this week
+[2026-06-04 12:53] ── CONTACTS ─────────────────────────────
+[2026-06-04 12:53]   site:linkedin.com/in "amazon agency" "founder" operatio…
+[2026-06-04 12:53]   site:linkedin.com/in "amazon agency" "co-founder"…
+[2026-06-04 12:53]   site:linkedin.com/in "amazon agency" founder CEO…
+[2026-06-04 12:53]   site:linkedin.com/in "ecommerce agency" founder operati…
+[2026-06-04 12:53]   site:linkedin.com/in "FBA agency" founder…
+[2026-06-04 12:53]   site:linkedin.com/in "amazon seller" founder COO…
+[2026-06-04 12:53]   site:linkedin.com/in "amazon brand" founder operations…
+[2026-06-04 12:54]   site:linkedin.com/in "amazon marketing agency" founder…
+[2026-06-04 12:54]   site:linkedin.com/in "ecommerce operations" founder CEO…
+[2026-06-04 12:54]   site:linkedin.com/in "amazon consulting" founder OR co-…
+[2026-06-04 12:54]   No new contacts this week
+[2026-06-04 12:54] Nothing new — skipping deploy
+[2026-06-04 12:54] Done.
+
+[2026-06-04 12:55] ==================================================
+[2026-06-04 12:55] Client Acquisition OS — Weekly Refresh
+[2026-06-04 12:55]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 12:55] ── JOBS ─────────────────────────────────
+[2026-06-04 12:55]   Operations Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Operations Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Operations and Technology Manager @ Mai Placement (Brooklyn, NY)
+[2026-06-04 12:55]     + Manager Finance Operations and Performance @ NewYork-Presbyterian (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Operations Manager @ Ulta Beauty, Inc. (Garden City, NY) [Indeed · Easily Apply]
+[2026-06-04 12:55]     + Procurement & Operations Manager @ The Contractor Consultants (Newark, NJ) [Indeed · Easily Apply]
+[2026-06-04 12:55]     + Food and Beverage Operations Manager @ Marriott International (Newark, NJ) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Senior Manager - DTC Partner Operations, MS NOW @ Versant Media (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Property Operations Manager (Hospitality) @ Huzzle (New York, NY)
+[2026-06-04 12:55]     + Nursing Operations Manager @ Everly Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Director of Program Operations @ IRI (Elmont, NY) [Indeed · Easily Apply]
+[2026-06-04 12:55]     + Operations Manager: Lead Teams, Drive Efficiency & Safety @ Amazon (New York, NY)
+[2026-06-04 12:55]   Chief of Staff — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Chief of Staff — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Chief of Staff @ DISTRICT 14 (Newark, NJ)
+[2026-06-04 12:55]     + Chief of Staff, Facilities Management and Construction @ City of New York (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Chief of Staff, COO @ Pendo.io (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Chief of Staff @ Raycon (New York, NY)
+[2026-06-04 12:55]     + Chief Of Staff @ Mai Placement (Monsey, NY) [Indeed · Easily Apply]
+[2026-06-04 12:55]     + Chief of Staff, Confidential Family Office @ BoardRoom magazine (New York, NY)
+[2026-06-04 12:55]     + Remote Chief of Staff for CEO/COO Strategy & Growth @ Boulder Care (New York, NY)
+[2026-06-04 12:55]     + Program Manager/Chief of Staff @ Voya Financial (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Chief of Staff to GP — NYC VC Operator & Growth Catalyst @ VC Stack (New York, NY)
+[2026-06-04 12:55]     + Investment Banking Chief of Staff, VP @ Barclays (New York, NY)
+[2026-06-04 12:55]   Ecommerce Operations Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Ecommerce Operations Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Operations Manager 3 (eCommerce Fulfillment Specialist) @ Intelliswift (Englewood Cliffs, NJ)
+[2026-06-04 12:55]     + Remote Ecommerce Content Operations Manager @ OLIVER Agency (New York, NY)
+[2026-06-04 12:55]     + eCommerce Ops & CX Manager — Drive Fulfillment @ Stetson (New York, NY)
+[2026-06-04 12:55]     + Ecommerce Ops Project Manager: Scale & Deliver @ Activate Talent (East Orange, NJ)
+[2026-06-04 12:55]     + Manager, Ecommerce Operations @ Torani (R. Torre & Co.) (San Leandro, CA) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + CS / Operations Manager — E-commerce (Swords) | US Hours - Contract to Hire @ Upwork (Anywhere)
+[2026-06-04 12:55]     + Ecommerce Store Operations Manager (Shopify) – Hybrid @ Russell Tobin (Philadelphia, PA)
+[2026-06-04 12:55]     + DTC Ecommerce Operations Lead 35 @ Hadley Designs (New York, NY)
+[2026-06-04 12:55]     + E-Commerce Operations Lead - Fast-Paced Impact @ Universal Music Group (United States)
+[2026-06-04 12:55]   Amazon Account Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Amazon Account Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Account Manager I, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Startup Growth Account Manager for FinTech & Web3 @ Amazon (New York, NY)
+[2026-06-04 12:55]     + Sr. Partner Account Manager, Global Systems Integrator Sales, WWPS GSI Public Sector Team @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Fintech Sr. Account Manager @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Senior Account Executive (Amazon) @ Adaptive Teams (Floral Park, NY)
+[2026-06-04 12:55]     + Senior Advertising Account Manager @ Amazon (Chicago, IL)
+[2026-06-04 12:55]     + Sr. Amazon Account Manager @ Envision Horizons (Remote, OR)
+[2026-06-04 12:55]     + AWS Principal Enterprise Account Manager, Travel & Hospitality @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Senior Account Manager, AWS Aerospace and Satellite @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]   Client Services Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Client Services Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Senior Client Account Manager @ Lord Abbett (Jersey City, NJ, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Client Services Manager, Retirement Plan Services @ Charles Schwab (Richfield, OH, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Private Wealth Client Services Manager @ Citizens Bank (United States)
+[2026-06-04 12:55]     + Customer Service Project Manager @ Legrand, North America (New London, CT, United States) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Client Services Manager - Emergency Medicine @ Vituity (Winters, CA, United States)
+[2026-06-04 12:55]     + Senior Client Services Manager Remote, USA 21 @ Impiricus (Maryland, United States)
+[2026-06-04 12:55]   Agency Operations Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Agency Operations Manager — New York
+[2026-06-04 12:55]     9 results
+[2026-06-04 12:55]     + Assemble the Agency: Operations Manager (Chief of Staff) - Limited Term @ Arena (New York, NY)
+[2026-06-04 12:55]     + Manager of Agency Operations @ ABCD & Company (Rockville, MD) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Strategic Operations Lead, Media Planning & Activation @ Omnicom Media (New York, NY)
+[2026-06-04 12:55]     + Regional Sales Operations Manager @ US012 Marsh & McLennan Agency LLC (Boston, MA)
+[2026-06-04 12:55]     + Manager of Home Health Agency Operations @ A Care U Need (Stewartsville, NJ)
+[2026-06-04 12:55]     + Franchise Operations Leader: Insurance & Compliance @ Prestige Trucking Insurance (New York)
+[2026-06-04 12:55]     + Senior Client Operations Lead – Transfer Agency @ BNY (Boston, MA)
+[2026-06-04 12:55]     + Remote PR Operations & Projects Lead @ THINKINK (Boston, MA)
+[2026-06-04 12:55]   Business Operations Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Business Operations Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Business Operations Manager @ Starbucks (Little Ferry, NJ)
+[2026-06-04 12:55]     + Supervisor, Operations @ Northwell Careers (Staten Island, NY) [Indeed · Easily Apply]
+[2026-06-04 12:55]     + Business Operations Specialist @ Aston Carter (Carteret, NJ)
+[2026-06-04 12:55]     + Head of Operations & Business Management @ Keurig Dr Pepper Inc. (Woodbridge Township, NJ)
+[2026-06-04 12:55]   Implementation Manager — Remote
+[2026-06-04 12:55]     0 results
+[2026-06-04 12:55]   Implementation Manager — New York
+[2026-06-04 12:55]     10 results
+[2026-06-04 12:55]     + Implementation Project Manager (CONTRACT) REMOTE @ Broadridge (Anywhere)
+[2026-06-04 12:55]     + Implementation Manager (ME, NH, VT, MA, RI, CT, NY, NJ, PA) @ Ecorobotix (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Manager, Implementation @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Implementation Manager, Enterprise Scribe @ Athelas (New York, NY)
+[2026-06-04 12:55]     + Implementation Lead @ Pivotal Health (New York, NY)
+[2026-06-04 12:55]     + Product Implementation Manager @ Vaco by Highspring (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:55]     + Senior Manager, Partner Implementation @ Intuit (Newark, NJ)
+[2026-06-04 12:55]     + Implementation Manager @ Optima Global Solutions (Hamilton Township, NJ)
+[2026-06-04 12:55]     + Technical Manager (Implementations & Delivery) - Remote US @ Smile Digital Health (New York, NY)
+[2026-06-04 12:55]   Added 65 new jobs (total 65)
+[2026-06-04 12:55] ── CONTACTS ─────────────────────────────
+[2026-06-04 12:55]   site:linkedin.com/in "amazon agency" "founder" operatio…
+[2026-06-04 12:55]     + Hamza Muneer — CEO @ CommerceKind @ Amazon Growth ...
+[2026-06-04 12:55]   site:linkedin.com/in "amazon agency" "co-founder"…
+[2026-06-04 12:55]     + James Lovett — Founder of the UK's #1 trusted Amazon ... @ 
+[2026-06-04 12:55]   site:linkedin.com/in "amazon agency" founder CEO…
+[2026-06-04 12:55]     + Ivan Marynych — Founder @ Best Seller Hunter Amazon ...
+[2026-06-04 12:55]   site:linkedin.com/in "ecommerce agency" founder operati…
+[2026-06-04 12:55]     + John Surdakowski — Founder @ Avex. Partnering ...
+[2026-06-04 12:55]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-04 12:55]     + Sergei Ostapenko — Mira Agency CEO 🔹 Building ... @ 
+[2026-06-04 12:55]   site:linkedin.com/in "FBA agency" founder…
+[2026-06-04 12:55]     + Jatinder Kumar — OWNER OF AMAZON ALPHA @ 
+[2026-06-04 12:55]     + Harris Sterling — CEO, The Starren Group, Inc @ 
+[2026-06-04 12:55]   site:linkedin.com/in "amazon seller" founder COO…
+[2026-06-04 12:55]     + Sebastian Eduard — 🟢CEO @ Insiders® Amazon Seller ... @ 
+[2026-06-04 12:55]     + Joe Nilsen — Founder @ MajestIQ @ AI systems for Amazon ...
+[2026-06-04 12:55]     + Steve Yates — CEO of Prime Guidance @ Amazon, Walmart, ...
+[2026-06-04 12:55]     + Jay Fetman — COO @ The Lion Group - top 600 Amazon ... @ 
+[2026-06-04 12:55]     + Blair Forrest — Founder @ AMZ Prep @ 
+[2026-06-04 12:55]     + Amir Nemni — Founder @ PeakSellers.com Helping ...
+[2026-06-04 12:55]   site:linkedin.com/in "amazon brand" founder operations…
+[2026-06-04 12:55]     + Waqar Bajwa — CEO and Founder @ My Brand Genius @ 
+[2026-06-04 12:55]     + Andy Isom — Owner of Weavos - Amazon Brand Management @ 
+[2026-06-04 12:55]     + Cody Metz — Owner & Amazon Consultant @ 1019 Collective @ 
+[2026-06-04 12:55]   site:linkedin.com/in "amazon marketing agency" founder…
+[2026-06-04 12:55]     + Rafael Veloz — CEO and Founder of Share It Studio @ 
+[2026-06-04 12:55]     + Clint George — CEO & Founder of Brand Focus Digital │ex- ... @ 
+[2026-06-04 12:55]     + Guy Heretz — CEO & Co-Founder @ RPGECOM
+[2026-06-04 12:55]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-04 12:55]     + Oleksandr Nyezhnyk — CEO @ Profit Whales
+[2026-06-04 12:55]   site:linkedin.com/in "ecommerce operations" founder CEO…
+[2026-06-04 12:55]     + Mark Rosenberg — CEO/Founder of Hip eCommerce @ 
+[2026-06-04 12:55]     + Debabrata Bhowmick — Founder and CEO @ Ecomgiantz @ 
+[2026-06-04 12:55]   site:linkedin.com/in "amazon consulting" founder OR co-…
+[2026-06-04 12:55]     + Shawn Pagano — Founder @ The White Whale LLC @ 
+[2026-06-04 12:55]     + Gal Ezuz — ‏We're Hiring! Co-Founder @ GNO Partners @ 
+[2026-06-04 12:55]   Added 26 contacts (total 67)
+[2026-06-04 12:55] ── DEPLOYING ────────────────────────────
+[2026-06-04 12:55]   ✅ Live: https://client-acquisition-1gxs299p3-angieraja23-9144s-projects.vercel.app
+[2026-06-04 12:55] Done.
+
+[2026-06-04 12:59] ==================================================
+[2026-06-04 12:59] Client Acquisition OS — Weekly Refresh
+[2026-06-04 12:59]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 12:59] ── JOBS ─────────────────────────────────
+[2026-06-04 12:59]   Operations Manager — Remote
+[2026-06-04 12:59]     0 results
+[2026-06-04 12:59]   Operations Manager — New York
+[2026-06-04 12:59]     10 results
+[2026-06-04 12:59]     + Operations and Technology Manager @ Mai Placement (Brooklyn, NY)
+[2026-06-04 12:59]     + Manager Finance Operations and Performance @ NewYork-Presbyterian (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Operations Manager @ Ulta Beauty, Inc. (Garden City, NY) [Indeed · Easily Apply]
+[2026-06-04 12:59]     + Procurement & Operations Manager @ The Contractor Consultants (Newark, NJ) [Indeed · Easily Apply]
+[2026-06-04 12:59]     + Food and Beverage Operations Manager @ Marriott International (Newark, NJ) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Senior Manager - DTC Partner Operations, MS NOW @ Versant Media (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Property Operations Manager (Hospitality) @ Huzzle (New York, NY)
+[2026-06-04 12:59]     + Nursing Operations Manager @ Everly Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Director of Program Operations @ IRI (Elmont, NY) [Indeed · Easily Apply]
+[2026-06-04 12:59]     + Operations Manager: Lead Teams, Drive Efficiency & Safety @ Amazon (New York, NY)
+[2026-06-04 12:59]   Chief of Staff — Remote
+[2026-06-04 12:59]     0 results
+[2026-06-04 12:59]   Chief of Staff — New York
+[2026-06-04 12:59]     10 results
+[2026-06-04 12:59]     + Chief of Staff @ DISTRICT 14 (Newark, NJ)
+[2026-06-04 12:59]     + Chief of Staff, Facilities Management and Construction @ City of New York (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Chief of Staff, COO @ Pendo.io (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Chief of Staff @ Raycon (New York, NY)
+[2026-06-04 12:59]     + Chief Of Staff @ Mai Placement (Monsey, NY) [Indeed · Easily Apply]
+[2026-06-04 12:59]     + Chief of Staff, Confidential Family Office @ BoardRoom magazine (New York, NY)
+[2026-06-04 12:59]     + Remote Chief of Staff for CEO/COO Strategy & Growth @ Boulder Care (New York, NY)
+[2026-06-04 12:59]     + Program Manager/Chief of Staff @ Voya Financial (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + Chief of Staff to GP — NYC VC Operator & Growth Catalyst @ VC Stack (New York, NY)
+[2026-06-04 12:59]     + Investment Banking Chief of Staff, VP @ Barclays (New York, NY)
+[2026-06-04 12:59]   Ecommerce Operations Manager — Remote
+[2026-06-04 12:59]     0 results
+[2026-06-04 12:59]   Ecommerce Operations Manager — New York
+[2026-06-04 12:59]     10 results
+[2026-06-04 12:59]     + Operations Manager 3 (eCommerce Fulfillment Specialist) @ Intelliswift (Englewood Cliffs, NJ)
+[2026-06-04 12:59]     + Remote Ecommerce Content Operations Manager @ OLIVER Agency (New York, NY)
+[2026-06-04 12:59]     + eCommerce Ops & CX Manager — Drive Fulfillment @ Stetson (New York, NY)
+[2026-06-04 12:59]     + Ecommerce Ops Project Manager: Scale & Deliver @ Activate Talent (East Orange, NJ)
+[2026-06-04 12:59]     + Manager, Ecommerce Operations @ Torani (R. Torre & Co.) (San Leandro, CA) [LinkedIn · Easy Apply]
+[2026-06-04 12:59]     + CS / Operations Manager — E-commerce (Swords) | US Hours - Contract to Hire @ Upwork (Anywhere)
+[2026-06-04 12:59]     + Ecommerce Store Operations Manager (Shopify) – Hybrid @ Russell Tobin (Philadelphia, PA)
+[2026-06-04 12:59]     + DTC Ecommerce Operations Lead 35 @ Hadley Designs (New York, NY)
+[2026-06-04 12:59]     + E-Commerce Operations Lead - Fast-Paced Impact @ Universal Music Group (United States)
+[2026-06-04 12:59]   Amazon Account Manager — Remote
+[2026-06-04 12:59]     0 results
+[2026-06-04 13:00]   Amazon Account Manager — New York
+[2026-06-04 13:00]     10 results
+[2026-06-04 13:00]     + Account Manager I, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Startup Growth Account Manager for FinTech & Web3 @ Amazon (New York, NY)
+[2026-06-04 13:00]     + Sr. Partner Account Manager, Global Systems Integrator Sales, WWPS GSI Public Sector Team @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Fintech Sr. Account Manager @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Senior Account Executive (Amazon) @ Adaptive Teams (Floral Park, NY)
+[2026-06-04 13:00]     + Senior Advertising Account Manager @ Amazon (Chicago, IL)
+[2026-06-04 13:00]     + Sr. Amazon Account Manager @ Envision Horizons (Remote, OR)
+[2026-06-04 13:00]     + AWS Principal Enterprise Account Manager, Travel & Hospitality @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Senior Account Manager, AWS Aerospace and Satellite @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]   Client Services Manager — Remote
+[2026-06-04 13:00]     0 results
+[2026-06-04 13:00]   Client Services Manager — New York
+[2026-06-04 13:00]     10 results
+[2026-06-04 13:00]     + Senior Client Account Manager @ Lord Abbett (Jersey City, NJ, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Client Services Manager, Retirement Plan Services @ Charles Schwab (Richfield, OH, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Private Wealth Client Services Manager @ Citizens Bank (United States)
+[2026-06-04 13:00]     + Customer Service Project Manager @ Legrand, North America (New London, CT, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Client Services Manager - Emergency Medicine @ Vituity (Winters, CA, United States)
+[2026-06-04 13:00]     + Senior Client Services Manager Remote, USA 21 @ Impiricus (Maryland, United States)
+[2026-06-04 13:00]   Agency Operations Manager — Remote
+[2026-06-04 13:00]     0 results
+[2026-06-04 13:00]   Agency Operations Manager — New York
+[2026-06-04 13:00]     9 results
+[2026-06-04 13:00]     + Assemble the Agency: Operations Manager (Chief of Staff) - Limited Term @ Arena (New York, NY)
+[2026-06-04 13:00]     + Manager of Agency Operations @ ABCD & Company (Rockville, MD) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Strategic Operations Lead, Media Planning & Activation @ Omnicom Media (New York, NY)
+[2026-06-04 13:00]     + Regional Sales Operations Manager @ US012 Marsh & McLennan Agency LLC (Boston, MA)
+[2026-06-04 13:00]     + Manager of Home Health Agency Operations @ A Care U Need (Stewartsville, NJ)
+[2026-06-04 13:00]     + Franchise Operations Leader: Insurance & Compliance @ Prestige Trucking Insurance (New York)
+[2026-06-04 13:00]     + Senior Client Operations Lead – Transfer Agency @ BNY (Boston, MA)
+[2026-06-04 13:00]     + Remote PR Operations & Projects Lead @ THINKINK (Boston, MA)
+[2026-06-04 13:00]   Business Operations Manager — Remote
+[2026-06-04 13:00]     0 results
+[2026-06-04 13:00]   Business Operations Manager — New York
+[2026-06-04 13:00]     10 results
+[2026-06-04 13:00]     + Business Operations Manager @ Starbucks (Little Ferry, NJ)
+[2026-06-04 13:00]     + Supervisor, Operations @ Northwell Careers (Staten Island, NY) [Indeed · Easily Apply]
+[2026-06-04 13:00]     + Business Operations Specialist @ Aston Carter (Carteret, NJ)
+[2026-06-04 13:00]     + Head of Operations & Business Management @ Keurig Dr Pepper Inc. (Woodbridge Township, NJ)
+[2026-06-04 13:00]   Implementation Manager — Remote
+[2026-06-04 13:00]     0 results
+[2026-06-04 13:00]   Implementation Manager — New York
+[2026-06-04 13:00]     10 results
+[2026-06-04 13:00]     + Implementation Project Manager (CONTRACT) REMOTE @ Broadridge (Anywhere)
+[2026-06-04 13:00]     + Implementation Manager (ME, NH, VT, MA, RI, CT, NY, NJ, PA) @ Ecorobotix (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Manager, Implementation @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Implementation Manager, Enterprise Scribe @ Athelas (New York, NY)
+[2026-06-04 13:00]     + Implementation Lead @ Pivotal Health (New York, NY)
+[2026-06-04 13:00]     + Product Implementation Manager @ Vaco by Highspring (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:00]     + Senior Manager, Partner Implementation @ Intuit (Newark, NJ)
+[2026-06-04 13:00]     + Implementation Manager @ Optima Global Solutions (Hamilton Township, NJ)
+[2026-06-04 13:00]     + Technical Manager (Implementations & Delivery) - Remote US @ Smile Digital Health (New York, NY)
+[2026-06-04 13:00]   Added 65 new jobs (total 65)
+[2026-06-04 13:00] ── CONTACTS ─────────────────────────────
+[2026-06-04 13:00]   site:linkedin.com/in "amazon agency" "founder" operatio…
+[2026-06-04 13:00]     + Hamza Muneer — CEO @ CommerceKind @ Amazon Growth ...
+[2026-06-04 13:00]   site:linkedin.com/in "amazon agency" "co-founder"…
+[2026-06-04 13:00]     + James Lovett — Founder of the UK's #1 trusted Amazon ... @ 
+[2026-06-04 13:00]   site:linkedin.com/in "amazon agency" founder CEO…
+[2026-06-04 13:00]     + Ivan Marynych — Founder @ Best Seller Hunter Amazon ...
+[2026-06-04 13:00]   site:linkedin.com/in "ecommerce agency" founder operati…
+[2026-06-04 13:00]     + John Surdakowski — Founder @ Avex. Partnering ...
+[2026-06-04 13:00]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-04 13:00]     + Sergei Ostapenko — Mira Agency CEO 🔹 Building ... @ 
+[2026-06-04 13:00]   site:linkedin.com/in "FBA agency" founder…
+[2026-06-04 13:00]     + Jatinder Kumar — OWNER OF AMAZON ALPHA @ 
+[2026-06-04 13:00]     + Harris Sterling — CEO, The Starren Group, Inc @ 
+[2026-06-04 13:00]   site:linkedin.com/in "amazon seller" founder COO…
+[2026-06-04 13:00]     + Sebastian Eduard — 🟢CEO @ Insiders® Amazon Seller ... @ 
+[2026-06-04 13:00]     + Joe Nilsen — Founder @ MajestIQ @ AI systems for Amazon ...
+[2026-06-04 13:00]     + Steve Yates — CEO of Prime Guidance @ Amazon, Walmart, ...
+[2026-06-04 13:00]     + Jay Fetman — COO @ The Lion Group - top 600 Amazon ... @ 
+[2026-06-04 13:00]     + Blair Forrest — Founder @ AMZ Prep @ 
+[2026-06-04 13:00]     + Amir Nemni — Founder @ PeakSellers.com Helping ...
+[2026-06-04 13:00]   site:linkedin.com/in "amazon brand" founder operations…
+[2026-06-04 13:00]     + Waqar Bajwa — CEO and Founder @ My Brand Genius @ 
+[2026-06-04 13:00]     + Andy Isom — Owner of Weavos - Amazon Brand Management @ 
+[2026-06-04 13:00]     + Cody Metz — Owner & Amazon Consultant @ 1019 Collective @ 
+[2026-06-04 13:00]   site:linkedin.com/in "amazon marketing agency" founder…
+[2026-06-04 13:00]     + Rafael Veloz — CEO and Founder of Share It Studio @ 
+[2026-06-04 13:00]     + Clint George — CEO & Founder of Brand Focus Digital │ex- ... @ 
+[2026-06-04 13:00]     + Guy Heretz — CEO & Co-Founder @ RPGECOM
+[2026-06-04 13:00]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-04 13:00]     + Oleksandr Nyezhnyk — CEO @ Profit Whales
+[2026-06-04 13:00]   site:linkedin.com/in "ecommerce operations" founder CEO…
+[2026-06-04 13:00]     + Mark Rosenberg — CEO/Founder of Hip eCommerce @ 
+[2026-06-04 13:00]     + Debabrata Bhowmick — Founder and CEO @ Ecomgiantz @ 
+[2026-06-04 13:00]   site:linkedin.com/in "amazon consulting" founder OR co-…
+[2026-06-04 13:00]     + Shawn Pagano — Founder @ The White Whale LLC @ 
+[2026-06-04 13:00]     + Gal Ezuz — ‏We're Hiring! Co-Founder @ GNO Partners @ 
+[2026-06-04 13:00]   Added 26 contacts (total 67)
+[2026-06-04 13:00] ── DEPLOYING ────────────────────────────
+[2026-06-04 13:00]   ✅ Live: https://client-acquisition-jap3v0my4-angieraja23-9144s-projects.vercel.app
+[2026-06-04 13:00] Done.
+
+[2026-06-04 13:10] ==================================================
+[2026-06-04 13:10] Client Acquisition OS — Weekly Refresh
+[2026-06-04 13:10]   Parameters: last 7 days | all types | remote + NYC
+[2026-06-04 13:10] ── JOBS ─────────────────────────────────
+[2026-06-04 13:10]   Operations Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Operations Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Operations and Technology Manager @ Mai Placement (Brooklyn, NY)
+[2026-06-04 13:10]     + Manager Finance Operations and Performance @ NewYork-Presbyterian (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Operations Manager @ Ulta Beauty, Inc. (Garden City, NY) [Indeed · Easily Apply]
+[2026-06-04 13:10]     + Procurement & Operations Manager @ The Contractor Consultants (Newark, NJ) [Indeed · Easily Apply]
+[2026-06-04 13:10]     + Food and Beverage Operations Manager @ Marriott International (Newark, NJ) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Senior Manager - DTC Partner Operations, MS NOW @ Versant Media (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Property Operations Manager (Hospitality) @ Huzzle (New York, NY)
+[2026-06-04 13:10]     + Nursing Operations Manager @ Everly Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Director of Program Operations @ IRI (Elmont, NY) [Indeed · Easily Apply]
+[2026-06-04 13:10]     + Operations Manager: Lead Teams, Drive Efficiency & Safety @ Amazon (New York, NY)
+[2026-06-04 13:10]   Chief of Staff — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Chief of Staff — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Chief of Staff @ DISTRICT 14 (Newark, NJ)
+[2026-06-04 13:10]     + Chief of Staff, Facilities Management and Construction @ City of New York (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Chief of Staff, COO @ Pendo.io (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Chief of Staff @ Raycon (New York, NY)
+[2026-06-04 13:10]     + Chief Of Staff @ Mai Placement (Monsey, NY) [Indeed · Easily Apply]
+[2026-06-04 13:10]     + Chief of Staff, Confidential Family Office @ BoardRoom magazine (New York, NY)
+[2026-06-04 13:10]     + Remote Chief of Staff for CEO/COO Strategy & Growth @ Boulder Care (New York, NY)
+[2026-06-04 13:10]     + Program Manager/Chief of Staff @ Voya Financial (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Chief of Staff to GP — NYC VC Operator & Growth Catalyst @ VC Stack (New York, NY)
+[2026-06-04 13:10]     + Investment Banking Chief of Staff, VP @ Barclays (New York, NY)
+[2026-06-04 13:10]   Ecommerce Operations Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Ecommerce Operations Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Operations Manager 3 (eCommerce Fulfillment Specialist) @ Intelliswift (Englewood Cliffs, NJ)
+[2026-06-04 13:10]     + Remote Ecommerce Content Operations Manager @ OLIVER Agency (New York, NY)
+[2026-06-04 13:10]     + eCommerce Ops & CX Manager — Drive Fulfillment @ Stetson (New York, NY)
+[2026-06-04 13:10]     + Ecommerce Ops Project Manager: Scale & Deliver @ Activate Talent (East Orange, NJ)
+[2026-06-04 13:10]     + Manager, Ecommerce Operations @ Torani (R. Torre & Co.) (San Leandro, CA) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + CS / Operations Manager — E-commerce (Swords) | US Hours - Contract to Hire @ Upwork (Anywhere)
+[2026-06-04 13:10]     + Ecommerce Store Operations Manager (Shopify) – Hybrid @ Russell Tobin (Philadelphia, PA)
+[2026-06-04 13:10]     + DTC Ecommerce Operations Lead 35 @ Hadley Designs (New York, NY)
+[2026-06-04 13:10]     + E-Commerce Operations Lead - Fast-Paced Impact @ Universal Music Group (United States)
+[2026-06-04 13:10]   Amazon Account Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Amazon Account Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Account Manager I, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Startup Growth Account Manager for FinTech & Web3 @ Amazon (New York, NY)
+[2026-06-04 13:10]     + Sr. Partner Account Manager, Global Systems Integrator Sales, WWPS GSI Public Sector Team @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Fintech Sr. Account Manager @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Senior Account Executive (Amazon) @ Adaptive Teams (Floral Park, NY)
+[2026-06-04 13:10]     + Senior Advertising Account Manager @ Amazon (Chicago, IL)
+[2026-06-04 13:10]     + Sr. Amazon Account Manager @ Envision Horizons (Remote, OR)
+[2026-06-04 13:10]     + AWS Principal Enterprise Account Manager, Travel & Hospitality @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Senior Account Manager, AWS Aerospace and Satellite @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]   Client Services Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Client Services Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Senior Client Account Manager @ Lord Abbett (Jersey City, NJ, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Client Services Manager, Retirement Plan Services @ Charles Schwab (Richfield, OH, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Private Wealth Client Services Manager @ Citizens Bank (United States)
+[2026-06-04 13:10]     + Customer Service Project Manager @ Legrand, North America (New London, CT, United States) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Client Services Manager - Emergency Medicine @ Vituity (Winters, CA, United States)
+[2026-06-04 13:10]     + Senior Client Services Manager Remote, USA 21 @ Impiricus (Maryland, United States)
+[2026-06-04 13:10]   Agency Operations Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Agency Operations Manager — New York
+[2026-06-04 13:10]     9 results
+[2026-06-04 13:10]     + Assemble the Agency: Operations Manager (Chief of Staff) - Limited Term @ Arena (New York, NY)
+[2026-06-04 13:10]     + Manager of Agency Operations @ ABCD & Company (Rockville, MD) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Strategic Operations Lead, Media Planning & Activation @ Omnicom Media (New York, NY)
+[2026-06-04 13:10]     + Regional Sales Operations Manager @ US012 Marsh & McLennan Agency LLC (Boston, MA)
+[2026-06-04 13:10]     + Manager of Home Health Agency Operations @ A Care U Need (Stewartsville, NJ)
+[2026-06-04 13:10]     + Franchise Operations Leader: Insurance & Compliance @ Prestige Trucking Insurance (New York)
+[2026-06-04 13:10]     + Senior Client Operations Lead – Transfer Agency @ BNY (Boston, MA)
+[2026-06-04 13:10]     + Remote PR Operations & Projects Lead @ THINKINK (Boston, MA)
+[2026-06-04 13:10]   Business Operations Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Business Operations Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Business Operations Manager @ Starbucks (Little Ferry, NJ)
+[2026-06-04 13:10]     + Supervisor, Operations @ Northwell Careers (Staten Island, NY) [Indeed · Easily Apply]
+[2026-06-04 13:10]     + Business Operations Specialist @ Aston Carter (Carteret, NJ)
+[2026-06-04 13:10]     + Head of Operations & Business Management @ Keurig Dr Pepper Inc. (Woodbridge Township, NJ)
+[2026-06-04 13:10]   Implementation Manager — Remote
+[2026-06-04 13:10]     0 results
+[2026-06-04 13:10]   Implementation Manager — New York
+[2026-06-04 13:10]     10 results
+[2026-06-04 13:10]     + Implementation Project Manager (CONTRACT) REMOTE @ Broadridge (Anywhere)
+[2026-06-04 13:10]     + Implementation Manager (ME, NH, VT, MA, RI, CT, NY, NJ, PA) @ Ecorobotix (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Manager, Implementation @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Implementation Manager, Enterprise Scribe @ Athelas (New York, NY)
+[2026-06-04 13:10]     + Implementation Lead @ Pivotal Health (New York, NY)
+[2026-06-04 13:10]     + Product Implementation Manager @ Vaco by Highspring (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 13:10]     + Senior Manager, Partner Implementation @ Intuit (Newark, NJ)
+[2026-06-04 13:10]     + Implementation Manager @ Optima Global Solutions (Hamilton Township, NJ)
+[2026-06-04 13:10]     + Technical Manager (Implementations & Delivery) - Remote US @ Smile Digital Health (New York, NY)
+[2026-06-04 13:10]   Added 65 new jobs (total 65)
+[2026-06-04 13:10] ── CONTACTS ─────────────────────────────
+[2026-06-04 13:10]   site:linkedin.com/in "amazon agency" "founder" operatio…
+[2026-06-04 13:10]     + Hamza Muneer — CEO @ CommerceKind @ Amazon Growth ...
+[2026-06-04 13:10]   site:linkedin.com/in "amazon agency" "co-founder"…
+[2026-06-04 13:10]     + James Lovett — Founder of the UK's #1 trusted Amazon ... @ 
+[2026-06-04 13:10]   site:linkedin.com/in "amazon agency" founder CEO…
+[2026-06-04 13:10]     + Ivan Marynych — Founder @ Best Seller Hunter Amazon ...
+[2026-06-04 13:10]   site:linkedin.com/in "ecommerce agency" founder operati…
+[2026-06-04 13:10]     + John Surdakowski — Founder @ Avex. Partnering ...
+[2026-06-04 13:10]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-04 13:10]     + Sergei Ostapenko — Mira Agency CEO 🔹 Building ... @ 
+[2026-06-04 13:10]   site:linkedin.com/in "FBA agency" founder…
+[2026-06-04 13:10]     + Jatinder Kumar — OWNER OF AMAZON ALPHA @ 
+[2026-06-04 13:10]     + Harris Sterling — CEO, The Starren Group, Inc @ 
+[2026-06-04 13:10]   site:linkedin.com/in "amazon seller" founder COO…
+[2026-06-04 13:10]     + Sebastian Eduard — 🟢CEO @ Insiders® Amazon Seller ... @ 
+[2026-06-04 13:10]     + Joe Nilsen — Founder @ MajestIQ @ AI systems for Amazon ...
+[2026-06-04 13:10]     + Steve Yates — CEO of Prime Guidance @ Amazon, Walmart, ...
+[2026-06-04 13:10]     + Jay Fetman — COO @ The Lion Group - top 600 Amazon ... @ 
+[2026-06-04 13:10]     + Blair Forrest — Founder @ AMZ Prep @ 
+[2026-06-04 13:10]     + Amir Nemni — Founder @ PeakSellers.com Helping ...
+[2026-06-04 13:10]   site:linkedin.com/in "amazon brand" founder operations…
+[2026-06-04 13:10]     + Waqar Bajwa — CEO and Founder @ My Brand Genius @ 
+[2026-06-04 13:10]     + Andy Isom — Owner of Weavos - Amazon Brand Management @ 
+[2026-06-04 13:10]     + Cody Metz — Owner & Amazon Consultant @ 1019 Collective @ 
+[2026-06-04 13:10]   site:linkedin.com/in "amazon marketing agency" founder…
+[2026-06-04 13:10]     + Rafael Veloz — CEO and Founder of Share It Studio @ 
+[2026-06-04 13:10]     + Clint George — CEO & Founder of Brand Focus Digital │ex- ... @ 
+[2026-06-04 13:10]     + Guy Heretz — CEO & Co-Founder @ RPGECOM
+[2026-06-04 13:10]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-04 13:10]     + Oleksandr Nyezhnyk — CEO @ Profit Whales
+[2026-06-04 13:10]   site:linkedin.com/in "ecommerce operations" founder CEO…
+[2026-06-04 13:10]     + Mark Rosenberg — CEO/Founder of Hip eCommerce @ 
+[2026-06-04 13:10]     + Debabrata Bhowmick — Founder and CEO @ Ecomgiantz @ 
+[2026-06-04 13:10]   site:linkedin.com/in "amazon consulting" founder OR co-…
+[2026-06-04 13:10]     + Shawn Pagano — Founder @ The White Whale LLC @ 
+[2026-06-04 13:10]     + Gal Ezuz — ‏We're Hiring! Co-Founder @ GNO Partners @ 
+[2026-06-04 13:10]   Added 26 contacts (total 67)
+[2026-06-04 13:10] ── DEPLOYING ────────────────────────────
+[2026-06-04 13:11]   ✅ Live: https://client-acquisition-hy3yjfke7-angieraja23-9144s-projects.vercel.app
+[2026-06-04 13:11] Done.
+
+[2026-06-04 14:40] ==================================================
+[2026-06-04 14:40] Client Acquisition OS — Weekly Refresh
+[2026-06-04 14:40] ── JOBS ─────────────────────────────────
+[2026-06-04 14:40]   Operations Manager — Remote
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Operations Manager — New York
+[2026-06-04 14:40]     10 results
+[2026-06-04 14:40]     + Operations and Technology Manager @ Mai Placement (Brooklyn, NY)
+[2026-06-04 14:40]     + Manager Finance Operations and Performance @ NewYork-Presbyterian (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Operations Manager @ Ulta Beauty, Inc. (Garden City, NY) [Indeed · Easily Apply]
+[2026-06-04 14:40]     + Senior Manager - DTC Partner Operations, MS NOW @ Versant Media (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Procurement & Operations Manager @ The Contractor Consultants (Newark, NJ) [Indeed · Easily Apply]
+[2026-06-04 14:40]     + Food and Beverage Operations Manager @ Marriott International (Newark, NJ) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Overnight Operations Manager @ Interstate Waste Services (Staten Island, NY)
+[2026-06-04 14:40]     + Property Operations Manager (Hospitality) @ Huzzle (New York, NY)
+[2026-06-04 14:40]     + Restaurant and Operations Manager @ Dave & Buster (Brooklyn, NY)
+[2026-06-04 14:40]     + Nursing Operations Manager @ Everly Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]   Chief of Staff — Remote
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Chief of Staff — New York
+[2026-06-04 14:40]     10 results
+[2026-06-04 14:40]     + Chief of Staff @ DISTRICT 14 (Newark, NJ)
+[2026-06-04 14:40]     + Chief of Staff, Facilities Management and Construction @ City of New York (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Chief of Staff, COO @ Pendo.io (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Chief of Staff @ Raycon (New York, NY)
+[2026-06-04 14:40]     + Chief Of Staff @ Mai Placement (Monsey, NY) [Indeed · Easily Apply]
+[2026-06-04 14:40]     + Chief of Staff to Chief Administrative and People Officer @ Sprinklr (Florida, NY)
+[2026-06-04 14:40]     + Chief of Staff to GP — NYC VC Operator & Growth Catalyst @ VC Stack (New York, NY)
+[2026-06-04 14:40]     + Remote Chief of Staff for CEO/COO Strategy & Growth @ Boulder Care (New York, NY)
+[2026-06-04 14:40]     + Program Manager/Chief of Staff @ Voya Financial (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Strategic Chief of Staff | Finance Ops & Exec Insights @ Atlas Search (New York, NY)
+[2026-06-04 14:40]   Ecommerce Operations Manager — Remote
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Ecommerce Operations Manager — New York
+[2026-06-04 14:40]     10 results
+[2026-06-04 14:40]     + Operations Manager 3 (eCommerce Fulfillment Specialist) @ Intelliswift (Englewood Cliffs, NJ)
+[2026-06-04 14:40]     + Remote Ecommerce Content Operations Manager @ OLIVER Agency (New York, NY)
+[2026-06-04 14:40]     + Manager, Ecommerce Operations @ Alexander Wang (New York, NY)
+[2026-06-04 14:40]     + eCommerce Ops & CX Manager — Drive Fulfillment @ Stetson (New York, NY)
+[2026-06-04 14:40]     + Ecommerce Ops Project Manager: Scale & Deliver @ Activate Talent (East Orange, NJ)
+[2026-06-04 14:40]     + Manager, Ecommerce Operations @ Torani (R. Torre & Co.) (San Leandro, CA) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + CS / Operations Manager — E-commerce (Swords) | US Hours - Contract to Hire @ Upwork (Anywhere)
+[2026-06-04 14:40]     + DTC Ecommerce Operations Lead 35 @ Hadley Designs (New York, NY)
+[2026-06-04 14:40]     + Ecommerce Store Operations Manager (Shopify) – Hybrid @ Russell Tobin (Philadelphia, PA)
+[2026-06-04 14:40]     + E-Commerce Operations Lead - Fast-Paced Impact @ Universal Music Group (United States)
+[2026-06-04 14:40]   Amazon Account Manager — Remote
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Amazon Account Manager — New York
+[2026-06-04 14:40]     10 results
+[2026-06-04 14:40]     + Account Manager I, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Startup Growth Account Manager for FinTech & Web3 @ Amazon (New York, NY)
+[2026-06-04 14:40]     + Sr. Partner Account Manager, Global Systems Integrator Sales, WWPS GSI Public Sector Team @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Fintech Sr. Account Manager @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Senior Account Executive (Amazon) @ Adaptive Teams (Floral Park, NY)
+[2026-06-04 14:40]     + Senior Advertising Account Manager @ Amazon (Chicago, IL)
+[2026-06-04 14:40]     + Sr. Amazon Account Manager @ Envision Horizons (Remote, OR)
+[2026-06-04 14:40]     + AWS Principal Enterprise Account Manager, Travel & Hospitality @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]     + Senior Account Manager, AWS Aerospace and Satellite @ Amazon Web Services, Inc. (Arlington, VA) [LinkedIn · Easy Apply]
+[2026-06-04 14:40]   Client Services Manager — Remote
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Client Services Manager — New York
+[2026-06-04 14:40]     0 results
+[2026-06-04 14:40]   Agency Operations Manager — Remote
+[2026-06-04 14:41]     0 results
+[2026-06-04 14:41]   Agency Operations Manager — New York
+[2026-06-04 14:41]     9 results
+[2026-06-04 14:41]     + Assemble the Agency: Operations Manager (Chief of Staff) - Limited Term @ Arena (New York, NY)
+[2026-06-04 14:41]     + Manager of Agency Operations @ ABCD & Company (Rockville, MD) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Strategic Operations Lead, Media Planning & Activation @ Omnicom Media (New York, NY)
+[2026-06-04 14:41]     + Regional Sales Operations Manager @ US012 Marsh & McLennan Agency LLC (Boston, MA)
+[2026-06-04 14:41]     + Manager of Home Health Agency Operations @ A Care U Need (Stewartsville, NJ)
+[2026-06-04 14:41]     + Franchise Operations Leader: Insurance & Compliance @ Prestige Trucking Insurance (New York)
+[2026-06-04 14:41]     + Senior Client Operations Lead – Transfer Agency @ BNY (Boston, MA)
+[2026-06-04 14:41]     + Remote PR Operations & Projects Lead @ THINKINK (Boston, MA)
+[2026-06-04 14:41]   Business Operations Manager — Remote
+[2026-06-04 14:41]     0 results
+[2026-06-04 14:41]   Business Operations Manager — New York
+[2026-06-04 14:41]     10 results
+[2026-06-04 14:41]     + Supervisor, Operations @ Northwell Careers (Staten Island, NY, United States) [Indeed · Easily Apply]
+[2026-06-04 14:41]     + Director Operations @ Montefiore Health System (New York, NY, United States) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Program Manager - Operations (Onsite) @ Northwell Careers (New Hyde Park, NY, United States) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Business Operations Manager / People Manager @ Dale WorkForce Solutions (New York, United States) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Strategy & Operations Manager @ Dandy (Mt Vernon, NY, United States)
+[2026-06-04 14:41]     + Strategy and Operations Manager, Devices and Services Marketing @ Google (New York, NY, United States) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Infrastructure Operations Manager @ ERP Suites (New York, NY, United States)
+[2026-06-04 14:41]     + Head of Operations & Business Management @ Keurig Dr Pepper Inc. (Woodbridge Township, NJ, United States)
+[2026-06-04 14:41]   Implementation Manager — Remote
+[2026-06-04 14:41]     0 results
+[2026-06-04 14:41]   Implementation Manager — New York
+[2026-06-04 14:41]     10 results
+[2026-06-04 14:41]     + Implementation Project Manager (CONTRACT) REMOTE @ Broadridge (Anywhere)
+[2026-06-04 14:41]     + Implementation Manager (ME, NH, VT, MA, RI, CT, NY, NJ, PA) @ Ecorobotix (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Manager, Implementation @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Implementation Manager, Enterprise Scribe @ Athelas (New York, NY)
+[2026-06-04 14:41]     + Implementation Lead @ Pivotal Health (New York, NY)
+[2026-06-04 14:41]     + Product Implementation Manager @ Vaco by Highspring (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-04 14:41]     + Implementation Manager @ Optima Global Solutions (Hamilton Township, NJ)
+[2026-06-04 14:41]     + Enterprise Implementation Project Manager @ Blue Bird (New York, NY)
+[2026-06-04 14:41]     + Platform Implementation Manager - Lead Multi-Product Builds @ Lumistry (Jersey City, NJ)
+[2026-06-04 14:41]   Wrote 64 jobs to data/jobs.json (64 new)
+[2026-06-04 14:41] ── CONTACTS ─────────────────────────────
+[2026-06-04 14:41]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-04 14:41]     + Hamza Muneer — CEO @ CommerceKind @ Amazon Growth ...
+[2026-06-04 14:41]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-04 14:41]     + James Lovett — Founder of the UK's #1 trusted Amazon ... @ 
+[2026-06-04 14:41]     + Amir Mustafa — Founder @ Awari Media @ 
+[2026-06-04 14:41]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-04 14:41]     + Ivan Marynych — Founder @ Best Seller Hunter Amazon ...
+[2026-06-04 14:41]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-04 14:41]     + John Surdakowski — Founder @ Avex. Partnering ...
+[2026-06-04 14:41]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-04 14:41]     + Sergei Ostapenko — Mira Agency CEO 🔹 Building ... @ 
+[2026-06-04 14:41]     + Trevor Fenner — Founder of Ecommerce Paradise @ 
+[2026-06-04 14:41]     + Diego Isola — Founder at Tavano Team @ NetSuite ...
+[2026-06-04 14:41]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-04 14:41]     + Jatinder Kumar — OWNER OF AMAZON ALPHA @ 
+[2026-06-04 14:41]     + Harris Sterling — CEO, The Starren Group, Inc @ 
+[2026-06-04 14:41]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-04 14:41]     + Sebastian Eduard — 🟢CEO @ Insiders® Amazon Seller ... @ 
+[2026-06-04 14:41]     + Joe Nilsen — Founder @ MajestIQ @ AI systems for Amazon ...
+[2026-06-04 14:41]     + Steve Yates — CEO of Prime Guidance @ Amazon, Walmart, ...
+[2026-06-04 14:41]     + Jay Fetman — COO @ The Lion Group - top 600 Amazon ... @ 
+[2026-06-04 14:41]     + Blair Forrest — Founder @ AMZ Prep @ 
+[2026-06-04 14:41]     + Amir Nemni — Founder @ PeakSellers.com Helping ...
+[2026-06-04 14:41]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-04 14:41]     + Waqar Bajwa — CEO and Founder @ My Brand Genius @ 
+[2026-06-04 14:41]     + Andy Isom — Owner of Weavos - Amazon Brand Management @ 
+[2026-06-04 14:41]     + Cody Metz — Owner & Amazon Consultant @ 1019 Collective @ 
+[2026-06-04 14:41]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-04 14:41]     + Rafael Veloz — CEO and Founder of Share It Studio @ 
+[2026-06-04 14:41]     + Clint George — CEO & Founder of Brand Focus Digital │ex- ... @ 
+[2026-06-04 14:41]     + Guy Heretz — CEO & Co-Founder @ RPGECOM
+[2026-06-04 14:41]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-04 14:41]     + Oleksandr Nyezhnyk — CEO @ Profit Whales
+[2026-06-04 14:41]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-04 14:41]     + Mark Rosenberg — CEO/Founder of Hip eCommerce @ 
+[2026-06-04 14:41]     + Debabrata Bhowmick — Founder and CEO @ Ecomgiantz @ 
+[2026-06-04 14:41]     + Contact — Co-Founder & CEO @ Progressoedge @ 
+[2026-06-04 14:41]     + Christopher Deck — Founder/CEO @ Deck Commerce
+[2026-06-04 14:41]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-04 14:41]     + Shawn Pagano — Founder @ The White Whale LLC @ 
+[2026-06-04 14:41]     + Sean Leifson — CEO of Retail Ready & Clearday Metrics @ 
+[2026-06-04 14:41]     + Gal Ezuz — ‏We're Hiring! Co-Founder @ GNO Partners @ 
+[2026-06-04 14:41]     + Harsh Darji — Founder @ Ecom Seller's Support, Amazon ...
+[2026-06-04 14:41]   Added 33 contacts (total 74)
+[2026-06-04 14:41] ── DEPLOYING ────────────────────────────
+[2026-06-04 14:41]   Live: https://client-acquisition-5skh5oj9g-angieraja23-9144s-projects.vercel.app
+[2026-06-04 14:41] Done.
+
