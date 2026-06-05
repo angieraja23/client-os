@@ -1306,6 +1306,7 @@ function load() {
     });
   }
   nextId = contacts.reduce((m,c)=>Math.max(m,c.id),0) + 1;
+  if(contacts.length < SEED.length) { contacts = JSON.parse(JSON.stringify(SEED)); }
   save();
 }
 function save() { localStorage.setItem('caos_contacts', JSON.stringify(contacts)); }
