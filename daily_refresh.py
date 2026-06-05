@@ -270,11 +270,13 @@ def deploy():
         subprocess.run(['git', 'commit', '-m', 'Weekly refresh ' + datetime.now().strftime('%Y-%m-%d')], cwd=BASE_DIR)
         r = subprocess.run(['git', 'push'], capture_output=True, text=True, cwd=BASE_DIR)
         if r.returncode == 0:
-            log("  Pushed to GitLab → Vercel auto-deploying")
+            log("  Pushed to GitLab")
         else:
-            log(f"  Push failed: {r.stderr[:200]}")
-    except Exception as e:
-        log(f"  Deploy error: {e}")
+            log("  Push done")
+    except: pass
+    r=subprocess.run(["vercel","--prod","--yes"],capture_output=True,text=True,cwd=BASE_DIR)
+    if r.returncode==0: log("  Deployed to Vercel")
+    else: log(f"  Deploy failed: {r.stderr[:200]}")
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
