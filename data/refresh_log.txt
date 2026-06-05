@@ -972,3 +972,6 @@ test
 [2026-06-05 17:17]     + Harsh Darji — Founder @ Ecom Seller's Support, Amazon ...
 [2026-06-05 17:17]   Added 28 contacts (total 69)
 [2026-06-05 17:17] ── DEPLOYING via GitLab ──────────────────
+[2026-06-05 17:17]   Pushed to GitLab → Vercel auto-deploying
+[2026-06-05 17:17] Done.
+
