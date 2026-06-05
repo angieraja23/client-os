@@ -264,13 +264,17 @@ def run_contacts():
     return added > 0
 
 def deploy():
-    log("── DEPLOYING ────────────────────────────")
-    r = subprocess.run(['vercel', '--prod', '--yes'], capture_output=True, text=True, cwd=BASE_DIR)
-    if r.returncode == 0:
-        m = re.search(r'https://[^\s]+\.app', r.stdout + r.stderr)
-        log(f"  Live: {m.group(0) if m else 'deployed'}")
-    else:
-        log(f"  Deploy failed: {r.stderr[:200]}")
+    log("── DEPLOYING via GitLab ──────────────────")
+    try:
+        subprocess.run(['git', 'add', '-A'], cwd=BASE_DIR)
+        subprocess.run(['git', 'commit', '-m', 'Weekly refresh ' + datetime.now().strftime('%Y-%m-%d')], cwd=BASE_DIR)
+        r = subprocess.run(['git', 'push'], capture_output=True, text=True, cwd=BASE_DIR)
+        if r.returncode == 0:
+            log("  Pushed to GitLab → Vercel auto-deploying")
+        else:
+            log(f"  Push failed: {r.stderr[:200]}")
+    except Exception as e:
+        log(f"  Deploy error: {e}")
 
 def main():
     os.makedirs(DATA_DIR, exist_ok=True)
