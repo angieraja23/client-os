@@ -355,7 +355,13 @@ scrollbar-width:thin;
         <button class="filter-pill" onclick="filterJobs('interviewing',this)">Interviewing</button>
         <button class="filter-pill" onclick="filterJobs('offer',this)">Offer</button>
       </div>
-      <div id="job-list-wrap"><div style="text-align:center;padding:60px 20px;color:var(--text3)">Loading jobs...</div></div>
+      <div style="display:flex;gap:6px;padding:0 16px 12px;flex-wrap:wrap" id="job-source-pills">
+<button class="filter-pill active" onclick="setJobSource('')">All Sources</button>
+<button class="filter-pill" onclick="setJobSource('LinkedIn')">LinkedIn</button>
+<button class="filter-pill" onclick="setJobSource('Indeed')">Indeed</button>
+<button class="filter-pill" onclick="setJobSource('ZipRecruiter')">ZipRecruiter</button>
+</div>
+<div id="job-list-wrap"><div style="text-align:center;padding:60px 20px;color:var(--text3)">Loading jobs...</div></div>
     </div>
   </div>
 </main>
@@ -1938,10 +1944,14 @@ function filterJobs(stage, btn) {
 
 function renderJobs() {
   var q = document.getElementById('search') ? document.getElementById('search').value.toLowerCase() : '';
+  // Sort jobs by dateFound, newest first
+  _jobs.sort(function(a,b){return (b.dateFound||'').localeCompare(a.dateFound||'');});
+  var srcF = window._jobSourceFilter || '';
   var list = _jobs.filter(function(j) {
     var mq = !q || (j.title + j.company + j.location).toLowerCase().indexOf(q) > -1;
     var ms = !_jobFilter || j.stage === _jobFilter;
-    return mq && ms;
+    var msrc = !srcF || (j.source||'').indexOf(srcF) > -1;
+    return mq && ms && msrc;
   });
   var wrap = document.getElementById('job-list-wrap');
   if (!wrap) return;
@@ -1961,7 +1971,7 @@ function renderJobs() {
     var today = new Date(); today.setHours(0,0,0,0);
     var dFound = j.dateFound ? new Date(j.dateFound) : null;
     var daysOld = dFound ? Math.floor((today - dFound) / 86400000) : null;
-    var newBadge = (daysOld !== null && daysOld <= 1) ? '<span style="background:#10b981;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px">NEW</span>' : '';
+    var newBadge = (daysOld !== null && daysOld <= 1) ? '<span style="background:#ff1493;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px">NEW</span>' : '';
     var dateText = j.dateFound ? '<span style="color:var(--text3);font-size:11px;margin-left:6px">&middot; ' + j.dateFound + '</span>' : '';
     var ea = src.indexOf('Easy') > -1 ? '<div style="font-size:10px;background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:10px;margin-top:2px;display:inline-block">' + (isLI ? 'Easy Apply' : 'Easily Apply') + '</div>' : '';
     var link = j.url ? '<a href="' + j.url + '" target="_blank" class="li-btn" onclick="event.stopPropagation()" style="text-decoration:none">&#x2197;</a>' : '';
@@ -2065,6 +2075,8 @@ function openJobDrawer(idx) {
   document.getElementById('drawer').classList.add('open');
   document.getElementById('overlay').classList.add('open');
 }
+function setJobSource(s){window._jobSourceFilter=s;document.querySelectorAll('#job-source-pills .filter-pill').forEach(function(b){b.classList.remove('active');if((s===''&&b.textContent==='All Sources')||b.textContent===s)b.classList.add('active');});renderJobs();}
+
 function setJobStage(idx,stage){_jobs[idx].stage=stage;try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}
 function saveJobNote(idx){var v=document.getElementById('job-note-box').value.trim();if(!v)return;_jobs[idx].notes=_jobs[idx].notes||[];_jobs[idx].notes.unshift({text:v,date:new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})});try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}openJobDrawer(idx);}
 
