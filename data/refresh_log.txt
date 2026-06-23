@@ -975,3 +975,120 @@ test
 [2026-06-05 17:17]   Pushed to GitLab → Vercel auto-deploying
 [2026-06-05 17:17] Done.
 
+[2026-06-23 14:58] ==================================================
+[2026-06-23 14:58] Client Acquisition OS — Weekly Refresh
+[2026-06-23 14:58] ── JOBS ─────────────────────────────────
+[2026-06-23 14:58]   Operations Manager — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Operations Manager — New York
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Chief of Staff — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Chief of Staff — New York
+[2026-06-23 14:59]     10 results
+[2026-06-23 14:59]     + Chief of Staff at Cascade @ Jack & Jill (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Chief of Staff to the GM of Housing @ Flex (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Chief of Staff at Gen Brands in West New York, New Jersey @ Disabledperson, Inc (West New York, NJ (+1 other))
+[2026-06-23 14:59]     + Chief of Staff to the CEO @ Selective Insurance Company of America (Short Hills, NJ) [Indeed · Easily Apply]
+[2026-06-23 14:59]     + Startup Chief of Staff: Ops Leader for Founders (NY) @ Reval (New York, NY)
+[2026-06-23 14:59]     + Chief of Staff to Tech Founder at Career Group in West New York, New Jersey @ Disabledperson, Inc (West New York, NJ (+1 other))
+[2026-06-23 14:59]     + Chief of Staff / Chief Product Officer @ Adaptive Security (New York, NY)
+[2026-06-23 14:59]     + Executive Assistant to the Chief of Staff @ DEPARTMENT OF CORRECTION (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Remote Chief of Staff, Operations & Project Execution @ Itlearn360 (New York, NY)
+[2026-06-23 14:59]     + Chief of Staff @ Office of Chief Counsel (Camp Springs, MD)
+[2026-06-23 14:59]   Ecommerce Operations Manager — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Ecommerce Operations Manager — New York
+[2026-06-23 14:59]     10 results
+[2026-06-23 14:59]     + Ecommerce Operations Manager Fulfillment & Logistics Lead @ JC OUTDOOR international (New York, NY (+1 other))
+[2026-06-23 14:59]     + Associate Manager, Commerce Platform Logistics - Strategy and Operations @ DoorDash (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Associate Manager Supplier Operations @ The New York Times (New York, NY)
+[2026-06-23 14:59]     + Business Virtual Assistant / E-commerce Operations Manager | Shopify Store & Admin Support @ Upwork (Anywhere)
+[2026-06-23 14:59]     + E-Commerce Sales Operations Specialist (HYBRID) @ InBody USA (Cerritos, CA) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + eComm Business Operations Manager @ Kroger (Blue Ash, OH)
+[2026-06-23 14:59]     + Ecommerce Operations Manager @ Hadley Designs (Suffolk, VA)
+[2026-06-23 14:59]     + Senior Manager, eCommerce Fan Services @ Universal Music Group (Philadelphia, PA) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]   Amazon Account Manager — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Amazon Account Manager — New York
+[2026-06-23 14:59]     10 results
+[2026-06-23 14:59]     + Amazon Account Manager @ Ajulia Executive Search (Lancaster, SC) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Sr. Account Manager, WWPS ISV Sales, PARTNERS-PS @ Amazon Web Services, Inc. (United States) [Indeed · Easily Apply]
+[2026-06-23 14:59]     + Amazon Account Manager @ Trivium (Remote, OR)
+[2026-06-23 14:59]     + Senior Account Manager, Enterprise Greenfield Sales, AWS @ Amazon Web Services (AWS) (Austin, TX) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Senior Amazon Account Manager @ Fluenti Commerce (East Orange, NJ)
+[2026-06-23 14:59]     + Sr. Account Manager, WWPS ISV Sales, PARTNERS-PS @ Amazon Web Services (AWS) (Seattle, WA) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Ecommerce Account Manager / Amazon USA Specialist - Part-time jobs online @ frontendnode-production.up.railway.app (Anywhere)
+[2026-06-23 14:59]     + Principal ISV Account Manager @ Amazon Web Services (AWS) (San Francisco, CA) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]   Client Services Manager — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Client Services Manager — New York
+[2026-06-23 14:59]     10 results
+[2026-06-23 14:59]     + Senior Client Account Manager @ Lord Abbett (Jersey City, NJ) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Private Client Services Manager @ Arthur J. Gallagher & Co. (Katonah, NY)
+[2026-06-23 14:59]     + Private Client Services Manager @ Gallagher (Pomona, NY)
+[2026-06-23 14:59]     + Client Account Manager - Remote or in-office in Midvale, UT 35 @ Zions Bancorporation (New York, NY)
+[2026-06-23 14:59]     + Client Services Manager @ Senior Helpers - Lehigh Valley (Allentown, PA)
+[2026-06-23 14:59]     + Client Services Manager @ The Keller Group (Las Vegas Valley, NV) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]   Agency Operations Manager — Remote
+[2026-06-23 14:59]     0 results
+[2026-06-23 14:59]   Agency Operations Manager — New York
+[2026-06-23 14:59]     9 results
+[2026-06-23 14:59]     + Agency Operations Director. LilyLifestyle @ Ivanka Digital (New York, NY)
+[2026-06-23 14:59]     + Sr. Resourcing Operations Manager @ MKG Productions, LLC (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 14:59]     + Operations Manager State Farm Agent Team Member @ Edwin Cabral - State Farm Agency (New York, NY)
+[2026-06-23 14:59]     + Creative Operations Leader: Scale Systems & Growth @ AdHoc Projects (New York, NY)
+[2026-06-23 14:59]     + Director of Internal Services & Operations @ City of New York (New York, NY)
+[2026-06-23 14:59]     + Licensed Insurance Sales Agency Operations Director 32 @ Predictive Strategies (New Jersey)
+[2026-06-23 14:59]     + Court Operations Lead - Remote-First, Data-Driven Leader @ Steno Agency, Inc. (Anywhere)
+[2026-06-23 14:59]   Business Operations Manager — Remote
+[2026-06-23 15:00]     0 results
+[2026-06-23 15:00]   Business Operations Manager — New York
+[2026-06-23 15:00]     10 results
+[2026-06-23 15:00]     + Operations Manager @ Aditi Consulting (Englewood Cliffs, NJ) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Food And Beverage Operations Manager at Food Trends Catering & Events New York, NY @ Food Trends Catering & Events (New York, NY)
+[2026-06-23 15:00]     + Operations Manager: Lead Growth & Scale - 50k + Bonus @ Universal Business Team (New York, NY (+1 other))
+[2026-06-23 15:00]     + Logistics Operations Project Manager @ Fluidstack (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Head of Business Operations - Remote @ Crypto Pro Network (New York, NY)
+[2026-06-23 15:00]     + Strategic Operations Manager: Data-Driven Impact @ brightwheel (Bayonne, NJ)
+[2026-06-23 15:00]     + Manager, Enrollment Fulfillment Operations @ New York Life (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Senior Manager, Technology Operations @ Walmart (Kearny, NJ)
+[2026-06-23 15:00]   Implementation Manager — Remote
+[2026-06-23 15:00]     0 results
+[2026-06-23 15:00]   Implementation Manager — New York
+[2026-06-23 15:00]     10 results
+[2026-06-23 15:00]     + Full-Time Rapid Implementation Specialist @ CBH Care (Westwood, NJ, Estados Unidos) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Implementation Manager @ HR Acuity LLC (Bayonne, NJ, Estados Unidos)
+[2026-06-23 15:00]     + Implementation Manager for Syteline - Remote @ Executive Alliance (Greenville, SC, Estados Unidos) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Platform Implementation Manager @ VirtualVocations (Syracuse, NY, Estados Unidos (+1))
+[2026-06-23 15:00]     + Implementation Manager with Pharmacy License @ VirtualVocations (Lansing, MI, Estados Unidos (+1))
+[2026-06-23 15:00]     + Implementation Project Manager - Remote @ UnitedHealth Group (San Antonio, TX, Estados Unidos) [Indeed · Easily Apply]
+[2026-06-23 15:00]     + Implementation Program Manager @ Baxter (Charleston, SC, Estados Unidos) [LinkedIn · Easy Apply]
+[2026-06-23 15:00]     + Pharmacy Implementation Manager (Client Account Support Advisor) - Evernorth - Remote @ Cigna Healthcare (Bloomfield, CT, Estados Unidos)
+[2026-06-23 15:00]     + Digital Transformation Implementation Manager @ Berlitz (Huntsville, AL, Estados Unidos)
+[2026-06-23 15:00]     + Senior Implementation Manager — Enterprise HR Solutions @ ADP, Inc. (Manchester, NH, Estados Unidos)
+[2026-06-23 15:00]   Wrote 160 jobs to data/jobs.json (57 new)
+[2026-06-23 15:00] ── CONTACTS ─────────────────────────────
+[2026-06-23 15:00]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-23 15:00]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-23 15:00]     + Ryan Flannagan — Co-Founder & CSO, The Big Box Broker @ 
+[2026-06-23 15:00]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-23 15:00]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-23 15:00]     + Richard Hill — 👉 CEO @ eComOne - B Corp
+[2026-06-23 15:00]     + Contact — CEO & Founder @ Atelier Commerce @ 
+[2026-06-23 15:00]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-23 15:00]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-23 15:00]     + Hiba Weber — Co-Founder @ SellerMobile @ 
+[2026-06-23 15:00]     + Contact — Former Co-Founder of ... @ 
+[2026-06-23 15:00]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-23 15:00]     + Michael Shannon II — Founder @ Sprinkle & Sweep @ 
+[2026-06-23 15:00]     + Anthony Brooks — Founder, Brand Conqueror @ 
+[2026-06-23 15:00]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-23 15:00]     + Jason Landro — Co-CEO @Nectar, a Digital Marketing ... @ 
+[2026-06-23 15:00]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-23 15:00]     + Rohit Gupta — Founder & CEO @ Strategic E-Commerce ...
+[2026-06-23 15:00]     + Jason Ho — Founder & CEO, TheShippingStore.com @ 
+[2026-06-23 15:00]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-23 15:00]     + Garet Dove Gardner — Founder and CEO, Bananyas @ 
+[2026-06-23 15:00]   Added 11 contacts (total 80)
+[2026-06-23 15:00] ── DEPLOYING via GitLab ──────────────────
