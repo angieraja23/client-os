@@ -2140,26 +2140,36 @@ function openJobDrawer(idx) {
   document.getElementById('overlay').classList.add('open');
 }
 function setJobFilter(kind,val,btn){
-  if(kind==='stage'){_jobFilter=val;}
-  else if(kind==='source'){window._jobSourceFilter=val;}
-  // Toggle: if clicking the same already-active pill, clear it
-  if(btn.classList.contains('active')&&val!==''){
-    if(kind==='stage')_jobFilter='';
-    if(kind==='source')window._jobSourceFilter='';
-    btn.classList.remove('active');
-    // Re-activate "All" if no stage selected
-    if(kind==='stage'){var allBtn=document.querySelector('#job-filter-pills [data-fval=\"\"]');if(allBtn)allBtn.classList.add('active');}
+  // ALL button: clear everything
+  if(kind==='stage' && val===''){
+    _jobFilter='';
+    window._jobSourceFilter='';
+    document.querySelectorAll('#job-filter-pills .filter-pill').forEach(function(b){b.classList.remove('active');});
+    btn.classList.add('active');
     renderJobs();
     return;
   }
-  // Clear other pills of the same kind, set this one active
+  // Toggle off if clicking the already-active pill
+  if(btn.classList.contains('active')){
+    btn.classList.remove('active');
+    if(kind==='stage')_jobFilter='';
+    if(kind==='source')window._jobSourceFilter='';
+    // If both stage and source are now empty, re-activate All
+    if(!_jobFilter && !window._jobSourceFilter){
+      var allBtn=document.querySelector('#job-filter-pills [data-fkind=\"stage\"][data-fval=\"\"]');
+      if(allBtn)allBtn.classList.add('active');
+    }
+    renderJobs();
+    return;
+  }
+  // Activate this pill, deactivate siblings of same kind
   document.querySelectorAll('#job-filter-pills [data-fkind=\"'+kind+'\"]').forEach(function(b){b.classList.remove('active');});
   btn.classList.add('active');
-  // If picking a specific stage, also clear All
-  if(kind==='stage'&&val===''){
-    document.querySelectorAll('#job-filter-pills [data-fkind=\"stage\"]').forEach(function(b){b.classList.remove('active');});
-    btn.classList.add('active');
-  }
+  if(kind==='stage')_jobFilter=val;
+  if(kind==='source')window._jobSourceFilter=val;
+  // Deactivate All when picking a specific filter
+  var allBtn=document.querySelector('#job-filter-pills [data-fkind=\"stage\"][data-fval=\"\"]');
+  if(allBtn && val!=='')allBtn.classList.remove('active');
   renderJobs();
 }
 
