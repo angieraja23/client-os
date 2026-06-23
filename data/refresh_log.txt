@@ -1099,3 +1099,82 @@ test
 > You can lea
 [2026-06-23 15:00] Done.
 
+[2026-06-23 18:04] ==================================================
+[2026-06-23 18:04] Client Acquisition OS — Weekly Refresh
+[2026-06-23 18:04] ── JOBS ─────────────────────────────────
+[2026-06-23 18:04]   Operations Manager — Remote
+[2026-06-23 18:04]     0 results
+[2026-06-23 18:04]   Operations Manager — New York
+[2026-06-23 18:04]     10 results
+[2026-06-23 18:04]     + Operations Manager @ Compass Group (JOHN F KENNEDY AIRPORT, NY) [Indeed · Easily Apply]
+[2026-06-23 18:04]     + Practice Manager, Operations Manager @ Expert Care Team (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 18:04]     + Wholesale Sales Operations Manager @ Oved Apparel Group (New York, NY) [Indeed · Easily Apply]
+[2026-06-23 18:04]     + Administrative Operations Manager @ advanced portfolio management (Weehawken Township, NJ)
+[2026-06-23 18:04]     + Senior Product Operations Manager @ Rain (New York, NY)
+[2026-06-23 18:04]     + Business Operations Manager/Sr Manager - German or French Speaking @ Whatnot (New York, NY)
+[2026-06-23 18:04]     + Assistant Operations Manager @ Goodwin Recruiting (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 18:04]   Chief of Staff — Remote
+[2026-06-23 18:04]     0 results
+[2026-06-23 18:04]   Chief of Staff — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]     + Strategic Chief of Staff & Ops Leader @ Hill Community Development Corporation (New Rochelle, NY)
+[2026-06-23 18:05]     + Chief of Staff to the CEO @ Selective Insurance (New Jersey) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + Chief of Staff @ Carrum Health (Bayonne, NJ)
+[2026-06-23 18:05]   Ecommerce Operations Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Ecommerce Operations Manager — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]     + Ecommerce Manager @ Zachys Wine & Liquor (Port Chester, NY) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + eCommerce Operations Manager @ Albertsons (Fullerton, CA) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + Ecommerce Operations Lead @ Goodwill Keystone (St Lawrence, PA (+1 other))
+[2026-06-23 18:05]   Amazon Account Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Amazon Account Manager — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]   Client Services Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Client Services Manager — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]     + Senior Account Manager @ Indeed (Dover, DE)
+[2026-06-23 18:05]     + Lead Account Manager, Client Services @ Rxo Corporate Solutions (Vermont)
+[2026-06-23 18:05]   Agency Operations Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Agency Operations Manager — New York
+[2026-06-23 18:05]     8 results
+[2026-06-23 18:05]   Business Operations Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Business Operations Manager — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]     + Operations Manager @ Aramark (Tenafly, NJ)
+[2026-06-23 18:05]   Implementation Manager — Remote
+[2026-06-23 18:05]     0 results
+[2026-06-23 18:05]   Implementation Manager — New York
+[2026-06-23 18:05]     10 results
+[2026-06-23 18:05]     + Data Governance Implementation Manager, Bureau of Data Technology & Strategy @ DEPT OF HEALTH/MENTAL HYGIENE (Long Island City, NY) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + Remote | Program Management & Implementation Planning Consultant — $70–$110/hour @ 24-MAG (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + EOR Implementation Manager - NAMER @ Multiplier (New York, NY)
+[2026-06-23 18:05]     + Client Implementation Project Manager (contract) @ BNY (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-23 18:05]     + Remote AI Implementation Project Manager Contract @ Harnham (New York, NY)
+[2026-06-23 18:05]     + Implementation Manager @ Cinnamon Inc. (New Rochelle, NY)
+[2026-06-23 18:05]     + EOR Implementation Manager - NAMER @ Multiplier Technologies Private Limited (Anywhere)
+[2026-06-23 18:05]     + Implementation Manager REMOTE OR HYBRID TO MA or MI 35 @ The Hanover Insurance Group (New York, NY)
+[2026-06-23 18:05]     + Manager, Oracle Implementation @ Deloitte (New York, NY)
+[2026-06-23 18:05]   Wrote 185 jobs to data/jobs.json (25 new)
+[2026-06-23 18:05] ── CONTACTS ─────────────────────────────
+[2026-06-23 18:05]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-23 18:06]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-23 18:06]     + Ed Sweet — Co-Founder & MD @ Unicorn Orange
+[2026-06-23 18:06]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-23 18:06]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-23 18:06]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-23 18:06]     + Volodymyr Grechukha — Amazon FBA Agency Founder ... @ 
+[2026-06-23 18:06]     + Contact — Founder RankHero @ Helping CPG brands ...
+[2026-06-23 18:06]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-23 18:06]     + Deepak Patel — Founder @ SellerShorts @ Building an AI ...
+[2026-06-23 18:06]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-23 18:06]     + Robert Boniface — CEO & Co-Founder @ ETAIL ROCKET @ 
+[2026-06-23 18:06]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-23 18:06]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-23 18:06]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-23 18:06]   Added 5 contacts (total 85)
+[2026-06-23 18:06] ── DEPLOYING via GitLab ──────────────────
