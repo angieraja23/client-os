@@ -349,15 +349,15 @@ scrollbar-width:thin;
     </div>
     <!-- JOBS VIEW -->
     <div class="view" id="view-jobs">
-      <div style="display:flex;gap:4px;padding:0 12px 10px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch" id="job-source-pills">
-        <button class="filter-pill active" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="filterJobs('',this)">All</button>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="filterJobs('applied',this)">Applied</button>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="filterJobs('interviewing',this)">Interviewing</button>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="filterJobs('offer',this)">Offer</button>
+      <div style="display:flex;gap:4px;padding:0 12px 10px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch" id="job-filter-pills">
+        <button class="filter-pill active" data-fkind="stage" data-fval="" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('stage','',this)">All</button>
+        <button class="filter-pill" data-fkind="stage" data-fval="applied" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('stage','applied',this)">Applied</button>
+        <button class="filter-pill" data-fkind="stage" data-fval="interviewing" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('stage','interviewing',this)">Interviewing</button>
+        <button class="filter-pill" data-fkind="stage" data-fval="offer" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('stage','offer',this)">Offer</button>
         <span style="width:1px;background:var(--border);margin:4px 4px;flex-shrink:0"></span>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('LinkedIn')">LinkedIn</button>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('Indeed')">Indeed</button>
-        <button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('ZipRecruiter')">Zip</button>
+        <button class="filter-pill" data-fkind="source" data-fval="LinkedIn" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','LinkedIn',this)">LinkedIn</button>
+        <button class="filter-pill" data-fkind="source" data-fval="Indeed" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','Indeed',this)">Indeed</button>
+        <button class="filter-pill" data-fkind="source" data-fval="ZipRecruiter" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','ZipRecruiter',this)">Zip</button>
       </div>
 <div id="job-list-wrap"><div style="text-align:center;padding:60px 20px;color:var(--text3)">Loading jobs...</div></div>
     </div>
@@ -2139,7 +2139,29 @@ function openJobDrawer(idx) {
   document.getElementById('drawer').classList.add('open');
   document.getElementById('overlay').classList.add('open');
 }
-function setJobSource(s){window._jobSourceFilter=s;document.querySelectorAll('#job-source-pills .filter-pill').forEach(function(b){b.classList.remove('active');if((s===''&&b.textContent==='All Sources')||b.textContent===s)b.classList.add('active');});renderJobs();}
+function setJobFilter(kind,val,btn){
+  if(kind==='stage'){_jobFilter=val;}
+  else if(kind==='source'){window._jobSourceFilter=val;}
+  // Toggle: if clicking the same already-active pill, clear it
+  if(btn.classList.contains('active')&&val!==''){
+    if(kind==='stage')_jobFilter='';
+    if(kind==='source')window._jobSourceFilter='';
+    btn.classList.remove('active');
+    // Re-activate "All" if no stage selected
+    if(kind==='stage'){var allBtn=document.querySelector('#job-filter-pills [data-fval=\"\"]');if(allBtn)allBtn.classList.add('active');}
+    renderJobs();
+    return;
+  }
+  // Clear other pills of the same kind, set this one active
+  document.querySelectorAll('#job-filter-pills [data-fkind=\"'+kind+'\"]').forEach(function(b){b.classList.remove('active');});
+  btn.classList.add('active');
+  // If picking a specific stage, also clear All
+  if(kind==='stage'&&val===''){
+    document.querySelectorAll('#job-filter-pills [data-fkind=\"stage\"]').forEach(function(b){b.classList.remove('active');});
+    btn.classList.add('active');
+  }
+  renderJobs();
+}
 
 function setJobStage(idx,stage){_jobs[idx].stage=stage;try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}
 function saveJobNote(idx){var v=document.getElementById('job-note-box').value.trim();if(!v)return;_jobs[idx].notes=_jobs[idx].notes||[];_jobs[idx].notes.unshift({text:v,date:new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})});try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}openJobDrawer(idx);}
