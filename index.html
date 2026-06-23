@@ -1958,12 +1958,17 @@ function renderJobs() {
     var iconBg = isLI ? '#0a66c2' : isIN ? '#003a9b' : '#555';
     var iconTxt = isLI ? 'LI' : isIN ? 'IN' : 'GJ';
     var sal = j.salary ? '<div style="font-size:11px;color:var(--client);font-weight:500">' + j.salary + '</div>' : '';
+    var today = new Date(); today.setHours(0,0,0,0);
+    var dFound = j.dateFound ? new Date(j.dateFound) : null;
+    var daysOld = dFound ? Math.floor((today - dFound) / 86400000) : null;
+    var newBadge = (daysOld !== null && daysOld <= 1) ? '<span style="background:#10b981;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px">NEW</span>' : '';
+    var dateText = j.dateFound ? '<span style="color:var(--text3);font-size:11px;margin-left:6px">&middot; ' + j.dateFound + '</span>' : '';
     var ea = src.indexOf('Easy') > -1 ? '<div style="font-size:10px;background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:10px;margin-top:2px;display:inline-block">' + (isLI ? 'Easy Apply' : 'Easily Apply') + '</div>' : '';
     var link = j.url ? '<a href="' + j.url + '" target="_blank" class="li-btn" onclick="event.stopPropagation()" style="text-decoration:none">&#x2197;</a>' : '';
     html += '<div class="contact-row" style="cursor:pointer" onclick="openJobDrawer(' + i + ')">';
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
     html += '<div style="min-width:0"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + j.title + '</div>';
-    html += '<div class="contact-sub">' + j.company + (j.location ? ' &middot; ' + j.location : '') + '</div></div>';
+    html += '<div class="contact-sub">' + newBadge + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
     html += '<div style="text-align:right">' + sal + ea + '</div>';
     var srcTag = isLI ? '<span style="background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">LinkedIn</span>' : isIN ? '<span style="background:rgba(0,58,155,.15);color:#93c5fd;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">Indeed</span>' : '';
     html += '<div style="display:flex;align-items:center;gap:4px">' + srcTag + link + '</div>';
