@@ -355,11 +355,11 @@ scrollbar-width:thin;
         <button class="filter-pill" onclick="filterJobs('interviewing',this)">Interviewing</button>
         <button class="filter-pill" onclick="filterJobs('offer',this)">Offer</button>
       </div>
-      <div style="display:flex;gap:6px;padding:0 16px 12px;flex-wrap:wrap" id="job-source-pills">
-<button class="filter-pill active" onclick="setJobSource('')">All Sources</button>
-<button class="filter-pill" onclick="setJobSource('LinkedIn')">LinkedIn</button>
-<button class="filter-pill" onclick="setJobSource('Indeed')">Indeed</button>
-<button class="filter-pill" onclick="setJobSource('ZipRecruiter')">ZipRecruiter</button>
+      <div style="display:flex;gap:4px;padding:0 12px 10px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch" id="job-source-pills">
+<button class="filter-pill active" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('')">All</button>
+<button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('LinkedIn')">LinkedIn</button>
+<button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('Indeed')">Indeed</button>
+<button class="filter-pill" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobSource('ZipRecruiter')">Zip</button>
 </div>
 <div id="job-list-wrap"><div style="text-align:center;padding:60px 20px;color:var(--text3)">Loading jobs...</div></div>
     </div>
