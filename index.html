@@ -2040,7 +2040,7 @@ function renderJobs() {
     var ea = src.indexOf('Easy') > -1 ? '<div style="font-size:10px;background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:10px;margin-top:2px;display:inline-block">' + (isLI ? 'Easy Apply' : 'Easily Apply') + '</div>' : '';
     var slug = function(s){return (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').substring(0,40);};
     var resumeFile = slug(j.company) + '_' + slug(j.title) + '.docx';
-    var link = j.url ? '<button class="li-btn" onclick="event.stopPropagation();applyToJob(' + i + ',\'' + resumeFile + '\')" style="padding:6px 12px;background:#ff1493;color:#fff;border:none;border-radius:8px;font-size:11px;font-weight:700;cursor:pointer;white-space:nowrap">Apply</button>' : '';
+    var link = j.url ? '<button class="li-btn" onclick="event.stopPropagation();applyToJob(' + i + ',\'' + resumeFile + '\')" style="padding:8px 18px;background:#ff1493;color:#fff;border:none;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;white-space:nowrap;min-width:70px;line-height:1">Apply</button>' : '';
     html += '<div class="contact-row" style="cursor:pointer;grid-template-columns:42px 1fr auto;display:grid" onclick="openJobDrawer(' + i + ')">';
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
     html += '<div style="min-width:0;flex:0 1 auto"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:240px">' + j.title + '</div>';
