@@ -2143,7 +2143,7 @@ function openJobDrawer(idx) {
   var easyBadge = src.indexOf('Easy') > -1 ? '<span style="background:rgba(16,185,129,.12);color:var(--client);padding:3px 8px;border-radius:10px;font-size:11px;margin-left:4px">' + (isLI ? 'Easy Apply' : 'Easily Apply') + '</span>' : '';
 
   document.getElementById('drawer-body').innerHTML =
-    (j.url ? '<div class="drawer-section"><a href="'+j.url+'" target="_blank" style="color:var(--lead);font-size:13px;text-decoration:none;font-weight:500">&#x2197; View &amp; Apply</a></div>' : '') +
+    (j.url ? '<div class="drawer-section" style="display:flex;justify-content:space-between;align-items:center"><a href="'+j.url+'" target="_blank" style="color:var(--lead);font-size:13px;text-decoration:none;font-weight:500">&#x2197; View &amp; Apply</a><button onclick="deleteJob('+idx+')" style="background:transparent;color:#ef4444;border:1px solid #ef4444;border-radius:6px;padding:4px 10px;font-size:11px;font-weight:600;cursor:pointer">Delete</button></div>' : '') +
     '<div class="drawer-section"><div class="drawer-label">Source</div>' + srcBadge + easyBadge + '</div>' +
     (j.salary ? '<div class="drawer-section"><div class="drawer-label">Salary</div><div style="font-size:18px;font-weight:600;color:var(--client)">'+j.salary+'</div></div>' : '') +
     '<div class="drawer-section"><div class="drawer-label">Stage</div><div class="stage-buttons">'+stagesBtns+'</div></div>' +
