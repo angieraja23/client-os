@@ -1341,3 +1341,75 @@ test
 [2026-06-24 10:42]   site:linkedin.com/in "amazon consulting" founder OR co-...
 [2026-06-24 10:42]   Added 1 contacts (total 86)
 [2026-06-24 10:42] ── DEPLOYING via GitLab ──────────────────
+[2026-06-24 10:42]   Pushed to GitLab
+[2026-06-24 10:42]   Deployed to Vercel
+[2026-06-24 10:42] Done.
+
+[2026-06-24 12:31] ==================================================
+[2026-06-24 12:31] Client Acquisition OS — Weekly Refresh
+[2026-06-24 12:31] ── JOBS ─────────────────────────────────
+[2026-06-24 12:31]   Amazon Account Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Amazon Account Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Amazon Brand Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Amazon Brand Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Ecommerce Operations Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Ecommerce Operations Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Ecommerce Brand Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Ecommerce Brand Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   DTC Operations Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   DTC Operations Manager — New York
+[2026-06-24 12:32]     8 results
+[2026-06-24 12:32]   Agency Operations Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Agency Operations Manager — New York
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Client Services Manager agency — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Client Services Manager agency — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]   Chief of Staff ecommerce — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff ecommerce — New York
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff startup — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff startup — New York
+[2026-06-24 12:32]     3 results
+[2026-06-24 12:32]   Head of Operations ecommerce — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Head of Operations ecommerce — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]   Director of Operations DTC — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Director of Operations DTC — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]     + Growth-Focused Paid Media Manager for DTC E-commerce @ KREWE du optic (New York, NY)
+[2026-06-24 12:32]   Marketplace Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Marketplace Manager — New York
+[2026-06-24 12:33]     10 results
+[2026-06-24 12:33]     + Marketplace Monetization Manager (Remote from US) @ vmysmartpros (Anywhere)
+[2026-06-24 12:33]   Wrote 61 jobs to data/jobs.json (2 new)
+[2026-06-24 12:33] ── CONTACTS ─────────────────────────────
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-24 12:33]     + Lee Assoulin — CEO of Stonecutter @ 
+[2026-06-24 12:33]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-24 12:33]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-24 12:33]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-24 12:33]   Added 1 contacts (total 87)
+[2026-06-24 12:33] ── DEPLOYING via GitLab ──────────────────

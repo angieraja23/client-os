@@ -1169,3 +1169,7 @@ Traceback (most recent call last):
 urllib.error.HTTPError: HTTP Error 429: Too Many Requests
 === Tailor complete: 7 tailored, 21 failed at Tue Jun 23 21:54:29 EDT 2026 ===
 === Run started: Wed Jun 24 03:00:00 EDT 2026 ===
+=== Run started: Wed Jun 24 12:31:10 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=MISSING
+--- Running scraper ---
