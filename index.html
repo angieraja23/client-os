@@ -2045,9 +2045,11 @@ function renderJobs() {
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
     html += '<div style="min-width:0"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + j.title + '</div>';
     html += '<div class="contact-sub">' + newBadge + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
-    html += '<div style="text-align:right">' + sal + ea + '</div>';
     var srcTag = isLI ? '<span style="background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">LinkedIn</span>' : isIN ? '<span style="background:rgba(0,58,155,.15);color:#93c5fd;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">Indeed</span>' : '';
-    html += '<div style="display:flex;align-items:center;gap:4px">' + srcTag + link + '</div>';
+    html += '<div style="display:flex;align-items:center;gap:10px;margin-left:auto;padding-right:8px">';
+    html += '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:3px">' + sal + ea + srcTag + '</div>';
+    html += link;
+    html += '</div>';
     html += '</div>';
   }
   html += '</div>';
