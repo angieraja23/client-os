@@ -2077,10 +2077,11 @@ function renderJobs() {
     html += '<div class="contact-row" style="cursor:pointer;grid-template-columns:42px 1fr auto;display:grid" onclick="openJobDrawer(' + i + ')">';
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
     var trackBadge = '';
-    if (j.track === 'amazon') trackBadge = '<span style="background:#3b82f6;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px;vertical-align:middle">AMAZON</span>';
-    else if (j.track === 'ops') trackBadge = '<span style="background:#7c3aed;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px;vertical-align:middle">OPS</span>';
-    html += '<div style="min-width:0;flex:0 1 auto"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:280px">' + trackBadge + j.title + '</div>';
-    html += '<div class="contact-sub">' + newBadge + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
+    if (j.track === 'amazon') trackBadge = '<span style="background:#3b82f6;color:#fff;padding:2px 7px;border-radius:8px;font-size:9px;font-weight:700;letter-spacing:0.3px">AMAZON</span>';
+    else if (j.track === 'ops') trackBadge = '<span style="background:#7c3aed;color:#fff;padding:2px 7px;border-radius:8px;font-size:9px;font-weight:700;letter-spacing:0.3px">OPS</span>';
+    var badgeRow = (trackBadge || newBadge) ? '<div style="display:flex;gap:6px;margin-bottom:4px;align-items:center">' + trackBadge + newBadge + '</div>' : '';
+    html += '<div style="min-width:0;flex:0 1 auto">' + badgeRow + '<div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:280px">' + j.title + '</div>';
+    html += '<div class="contact-sub">' + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
     var srcTag = isLI ? '<span style="background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">LinkedIn</span>' : isIN ? '<span style="background:rgba(0,58,155,.15);color:#93c5fd;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">Indeed</span>' : '';
     html += '<div style="flex:1;display:flex;align-items:center;justify-content:flex-end;gap:12px;min-width:0">';
     html += '<div style="display:flex;flex-direction:column;align-items:flex-end;gap:3px">' + sal + ea + srcTag + '</div>';
