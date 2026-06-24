@@ -22,5 +22,8 @@ if [[ -n $(git status -s data/) ]]; then
   /opt/homebrew/bin/vercel --prod --yes --cwd ~/Projects/client-os >> "$LOG" 2>&1
   echo "=== Deployed: $(date) ===" >> "$LOG"
 else
-  echo "=== No changes: $(date) ===" >> "$LOG"
+  echo "=== No new jobs to commit: $(date) ===" >> "$LOG"
 fi
+
+# Always tailor resumes for any spotted jobs missing a tailored DOCX
+~/Projects/client-os/nightly_tailor.sh

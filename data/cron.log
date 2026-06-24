@@ -1,1 +1,1171 @@
 === Run started: Tue Jun 23 18:04:11 EDT 2026 ===
+=== Tailor started: Tue Jun 23 21:45:45 EDT 2026 ===
+
+Tailoring resume for: Chief of Staff at Cascade at Jack & Jill
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Strategic Planning', 'Cross-functional Leadership', 'Executive Support', 'Operational Excellence', 'Project Management', 'Stakeholder Management']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Strategic Planning', 'Cross-functional Leadership', 'Operational Excellence', 'Project Management', 'Stakeholder Management']
+  Missing: ['Executive Support']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/jack-jill_chief-of-staff-at-cascade.docx
+
+Tailoring resume for: Chief of Staff to the GM of Housing at Flex
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Chief of Staff', 'Strategic Planning', 'Operational Excellence', 'Cross-Functional Leadership', 'Housing Industry', 'Executive Support']
+
+Match score BEFORE tailoring: 50/100
+  Already in resume: ['Strategic Planning', 'Operational Excellence', 'Cross-Functional Leadership']
+  Missing: ['Chief of Staff', 'Housing Industry', 'Executive Support']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/flex_chief-of-staff-to-the-gm-of-housing.docx
+
+Tailoring resume for: Chief of Staff at Gen Brands in West New York, New Jersey at Disabledperson, Inc
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Strategic Planning', 'Cross-Functional Leadership', 'Executive Support', 'Operations Management', 'Program Management', 'Process Improvement']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Strategic Planning', 'Cross-Functional Leadership', 'Operations Management', 'Program Management', 'Process Improvement']
+  Missing: ['Executive Support']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/disabledperson-inc_chief-of-staff-at-gen-brands-in-west-new.docx
+
+Tailoring resume for: Startup Chief of Staff: Ops Leader for Founders (NY) at Reval
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Chief of Staff to Tech Founder at Career Group in West New York, New Jersey at Disabledperson, Inc
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Chief of Staff / Chief Product Officer at Adaptive Security
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Remote Chief of Staff, Operations & Project Execution at Itlearn360
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Ecommerce Operations Manager Fulfillment & Logistics Lead at JC OUTDOOR international
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Ecommerce Operations', 'Fulfillment Management', 'Logistics Management', 'Supply Chain Management', 'Inventory Management', 'Operations Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Ecommerce Operations', 'Fulfillment Management', 'Logistics Management', 'Supply Chain Management', 'Inventory Management', 'Operations Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/jc-outdoor-international_ecommerce-operations-manager-fulfillment.docx
+
+Tailoring resume for: Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Commerce Logistics', 'Strategic Planning', 'Operations Management', 'Supply Chain Management', 'Process Optimization', 'Data Analysis']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Commerce Logistics', 'Strategic Planning', 'Operations Management', 'Supply Chain Management', 'Process Optimization', 'Data Analysis']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/doordash_associate-manager-commerce-platform-logi.docx
+
+Tailoring resume for: Associate Manager Supplier Operations at The New York Times
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Business Virtual Assistant / E-commerce Operations Manager | Shopify Store & Admin Support at Upwork
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Amazon Account Manager at Trivium
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Ecommerce Account Manager / Amazon USA Specialist - Part-time jobs online at frontendnode-production.up.railway.app
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Agency Operations Director. LilyLifestyle at Ivanka Digital
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Sr. Resourcing Operations Manager at MKG Productions, LLC
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Operations Manager State Farm Agent Team Member at Edwin Cabral - State Farm Agency
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Operations Management', 'Customer Service', 'Team Leadership', 'Insurance Operations', 'Client Relations', 'Sales Support']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Operations Management', 'Customer Service', 'Team Leadership', 'Insurance Operations', 'Client Relations']
+  Missing: ['Sales Support']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/edwin-cabral-state-farm-agency_operations-manager-state-farm-agent-team.docx
+
+Tailoring resume for: Creative Operations Leader: Scale Systems & Growth at AdHoc Projects
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Director of Internal Services & Operations at City of New York
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Court Operations Lead - Remote-First, Data-Driven Leader at Steno Agency, Inc.
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Operations Manager: Lead Growth & Scale - 50k + Bonus at Universal Business Team
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Logistics Operations Project Manager at Fluidstack
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Head of Business Operations - Remote at Crypto Pro Network
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Manager, Enrollment Fulfillment Operations at New York Life
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Senior Manager, Technology Operations at Walmart
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Business Operations Manager/Sr Manager - German or French Speaking at Whatnot
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Strategic Chief of Staff & Ops Leader at Hill Community Development Corporation
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Ecommerce Manager at Zachys Wine & Liquor
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 276, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 257, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+=== Tailor complete: 6 tailored, 22 failed at Tue Jun 23 21:47:19 EDT 2026 ===
+=== Tailor started: Tue Jun 23 21:50:59 EDT 2026 ===
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+SKIP (already tailored): Chief of Staff at Gen Brands in West New York, New Jersey at Disabledperson, Inc
+
+Tailoring resume for: Startup Chief of Staff: Ops Leader for Founders (NY) at Reval
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Chief of Staff to Tech Founder at Career Group in West New York, New Jersey at Disabledperson, Inc
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Chief of Staff / Chief Product Officer at Adaptive Security
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Remote Chief of Staff, Operations & Project Execution at Itlearn360
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+SKIP (already tailored): Ecommerce Operations Manager Fulfillment & Logistics Lead at JC OUTDOOR international
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+
+Tailoring resume for: Associate Manager Supplier Operations at The New York Times
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Business Virtual Assistant / E-commerce Operations Manager | Shopify Store & Admin Support at Upwork
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Amazon Account Manager at Trivium
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Ecommerce Account Manager / Amazon USA Specialist - Part-time jobs online at frontendnode-production.up.railway.app
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Agency Operations Director. LilyLifestyle at Ivanka Digital
+Extracting keywords via Gemini Flash...
+Top ATS keywords: ['Agency Operations', 'Operations Management', 'Strategic Leadership', 'Process Improvement', 'Team Leadership', 'Operational Strategy']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Agency Operations', 'Operations Management', 'Strategic Leadership', 'Process Improvement', 'Team Leadership', 'Operational Strategy']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/ivanka-digital_agency-operations-director-lilylifestyle.docx
+
+Tailoring resume for: Sr. Resourcing Operations Manager at MKG Productions, LLC
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+SKIP (already tailored): Operations Manager State Farm Agent Team Member at Edwin Cabral - State Farm Agency
+
+Tailoring resume for: Creative Operations Leader: Scale Systems & Growth at AdHoc Projects
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Director of Internal Services & Operations at City of New York
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Court Operations Lead - Remote-First, Data-Driven Leader at Steno Agency, Inc.
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Operations Manager: Lead Growth & Scale - 50k + Bonus at Universal Business Team
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Logistics Operations Project Manager at Fluidstack
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Head of Business Operations - Remote at Crypto Pro Network
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Manager, Enrollment Fulfillment Operations at New York Life
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Senior Manager, Technology Operations at Walmart
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Business Operations Manager/Sr Manager - German or French Speaking at Whatnot
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Strategic Chief of Staff & Ops Leader at Hill Community Development Corporation
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+
+Tailoring resume for: Ecommerce Manager at Zachys Wine & Liquor
+Extracting keywords via Gemini Flash...
+Traceback (most recent call last):
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 282, in <module>
+    main()
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 263, in main
+    keywords = extract_keywords(job_text, role)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 77, in extract_keywords
+    response = call_gemini(prompt)
+  File "/Users/openclaw/job-search-agent/resume_tailor.py", line 58, in call_gemini
+    with urllib.request.urlopen(req, timeout=30) as resp:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 523, in open
+    response = meth(req, response)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 632, in http_response
+    response = self.parent.error(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 561, in error
+    return self._call_chain(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+=== Tailor complete: 7 tailored, 21 failed at Tue Jun 23 21:54:29 EDT 2026 ===
+=== Run started: Wed Jun 24 03:00:00 EDT 2026 ===
