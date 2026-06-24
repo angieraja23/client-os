@@ -18,20 +18,43 @@ LOG_FILE  = DATA_DIR / "refresh_log.txt"
 
 SERPAPI_KEY = "44a8d64c994f218da81170ca653427ddfe12baac50191c4f6c06b848ac6bd750"
 
-JOB_QUERIES = [
+# Track A: Amazon / E-commerce
+AMAZON_QUERIES = [
     'Amazon Account Manager',
     'Amazon Brand Manager',
-    'Ecommerce Operations Manager',
+    'Senior Amazon Brand Manager',
+    'Amazon Marketplace Manager',
     'Ecommerce Brand Manager',
-    'DTC Operations Manager',
-    'Agency Operations Manager',
-    'Client Services Manager agency',
+    'Ecommerce Account Manager',
+    'Marketplace Manager Walmart Amazon',
+    'Ecommerce Operations Manager',
+    'DTC Brand Manager',
+    'Amazon Agency Account Manager',
+]
+
+# Track B: Strategic Ops / COO / Chief of Staff
+OPS_QUERIES = [
     'Chief of Staff ecommerce',
     'Chief of Staff startup',
+    'Chief of Staff DTC',
+    'Head of Operations DTC',
     'Head of Operations ecommerce',
-    'Director of Operations DTC',
-    'Marketplace Manager',
+    'Director of Operations ecommerce',
+    'EOS Integrator',
+    'Fractional COO',
+    'VP Operations DTC',
+    'Business Operations Lead startup',
 ]
+
+JOB_QUERIES = AMAZON_QUERIES + OPS_QUERIES
+
+# Track classifier
+def get_track(query):
+    return 'amazon' if query in AMAZON_QUERIES else 'ops'
+
+# Salary floor (in thousands): remote min, NY min
+SALARY_REMOTE_MIN = 50
+SALARY_NY_MIN = 70
 
 CONTACT_SEARCHES = [
     'site:linkedin.com/in "amazon agency" "founder" operations',
@@ -180,11 +203,32 @@ def run_jobs():
                 continue
             if not any(term in text_check for term in INDUSTRY_TERMS):
                 continue
+            # Parse salary and apply track-specific floor
+            def parse_min_salary(sal_str):
+                if not sal_str: return None
+                nums = re.findall(r'(\d+)[Kk]?', sal_str.replace(',',''))
+                if not nums: return None
+                vals = [int(n) for n in nums]
+                # Heuristic: if any number > 1000, it's probably already in full dollars
+                vals = [v if v < 1000 else v//1000 for v in vals]
+                return min(vals) if vals else None
+
+            is_remote = 'remote' in (loc or '').lower() or 'remote' in title.lower() or 'anywhere' in (loc or '').lower()
+            min_sal_k = parse_min_salary(salary)
+            # If salary listed, enforce floor
+            if min_sal_k is not None:
+                floor = SALARY_REMOTE_MIN if is_remote else SALARY_NY_MIN
+                if min_sal_k < floor:
+                    continue
+            # If no salary listed, skip (hard rule from user)
+            else:
+                continue
+
             existing.append({
                 'id': jid, 'title': title, 'company': company,
                 'location': loc, 'salary': salary, 'url': link,
                 'source': qa if qa else (via or 'Google Jobs'),
-                'query': query, 'stage': 'spotted',
+                'query': query, 'track': get_track(query), 'stage': 'spotted',
                 'dateFound': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
                 'notes': []
             })

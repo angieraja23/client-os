@@ -358,6 +358,9 @@ scrollbar-width:thin;
         <button class="filter-pill" data-fkind="source" data-fval="LinkedIn" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','LinkedIn',this)">LinkedIn</button>
         <button class="filter-pill" data-fkind="source" data-fval="Indeed" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','Indeed',this)">Indeed</button>
         <button class="filter-pill" data-fkind="source" data-fval="ZipRecruiter" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0" onclick="setJobFilter('source','ZipRecruiter',this)">Zip</button>
+        <span style="width:1px;background:var(--border);margin:4px 4px;flex-shrink:0"></span>
+        <button class="filter-pill" data-fkind="track" data-fval="amazon" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0;border-color:#3b82f6;color:#3b82f6" onclick="setJobFilter('track','amazon',this)">Amazon</button>
+        <button class="filter-pill" data-fkind="track" data-fval="ops" style="padding:5px 10px;font-size:11px;white-space:nowrap;flex-shrink:0;border-color:#7c3aed;color:#7c3aed" onclick="setJobFilter('track','ops',this)">Ops</button>
       </div>
 <div id="job-list-wrap"><div style="text-align:center;padding:60px 20px;color:var(--text3)">Loading jobs...</div></div>
     </div>
@@ -2043,7 +2046,9 @@ function renderJobs() {
     var mq = !q || (j.title + j.company + j.location).toLowerCase().indexOf(q) > -1;
     var ms = !_jobFilter || j.stage === _jobFilter;
     var msrc = !srcF || (j.source||'').indexOf(srcF) > -1;
-    return mq && ms && msrc;
+    var trkF = window._jobTrackFilter || '';
+    var mtrk = !trkF || j.track === trkF;
+    return mq && ms && msrc && mtrk;
   });
   var wrap = document.getElementById('job-list-wrap');
   if (!wrap) return;
@@ -2071,7 +2076,10 @@ function renderJobs() {
     var link = j.url ? '<button class="li-btn" onclick="event.stopPropagation();applyToJob(' + i + ',\'' + resumeFile + '\')" style="padding:8px 18px;background:#7c3aed;color:#fff;border:none;border-radius:8px;font-size:12px;font-weight:700;cursor:pointer;white-space:nowrap;min-width:70px;line-height:1">Apply</button>' : '';
     html += '<div class="contact-row" style="cursor:pointer;grid-template-columns:42px 1fr auto;display:grid" onclick="openJobDrawer(' + i + ')">';
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
-    html += '<div style="min-width:0;flex:0 1 auto"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:240px">' + j.title + '</div>';
+    var trackBadge = '';
+    if (j.track === 'amazon') trackBadge = '<span style="background:#3b82f6;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px;vertical-align:middle">AMAZON</span>';
+    else if (j.track === 'ops') trackBadge = '<span style="background:#7c3aed;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px;vertical-align:middle">OPS</span>';
+    html += '<div style="min-width:0;flex:0 1 auto"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:280px">' + trackBadge + j.title + '</div>';
     html += '<div class="contact-sub">' + newBadge + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
     var srcTag = isLI ? '<span style="background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">LinkedIn</span>' : isIN ? '<span style="background:rgba(0,58,155,.15);color:#93c5fd;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">Indeed</span>' : '';
     html += '<div style="flex:1;display:flex;align-items:center;justify-content:flex-end;gap:12px;min-width:0">';
@@ -2176,6 +2184,7 @@ function setJobFilter(kind,val,btn){
   if(kind==='stage' && val===''){
     _jobFilter='';
     window._jobSourceFilter='';
+    window._jobTrackFilter='';
     document.querySelectorAll('#job-filter-pills .filter-pill').forEach(function(b){b.classList.remove('active');});
     btn.classList.add('active');
     renderJobs();
@@ -2186,8 +2195,9 @@ function setJobFilter(kind,val,btn){
     btn.classList.remove('active');
     if(kind==='stage')_jobFilter='';
     if(kind==='source')window._jobSourceFilter='';
-    // If both stage and source are now empty, re-activate All
-    if(!_jobFilter && !window._jobSourceFilter){
+    if(kind==='track')window._jobTrackFilter='';
+    // If everything is now empty, re-activate All
+    if(!_jobFilter && !window._jobSourceFilter && !window._jobTrackFilter){
       var allBtn=document.querySelector('#job-filter-pills [data-fkind=\"stage\"][data-fval=\"\"]');
       if(allBtn)allBtn.classList.add('active');
     }
@@ -2199,6 +2209,7 @@ function setJobFilter(kind,val,btn){
   btn.classList.add('active');
   if(kind==='stage')_jobFilter=val;
   if(kind==='source')window._jobSourceFilter=val;
+  if(kind==='track')window._jobTrackFilter=val;
   // Deactivate All when picking a specific filter
   var allBtn=document.querySelector('#job-filter-pills [data-fkind=\"stage\"][data-fval=\"\"]');
   if(allBtn && val!=='')allBtn.classList.remove('active');
