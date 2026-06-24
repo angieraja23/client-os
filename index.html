@@ -2038,7 +2038,9 @@ function renderJobs() {
     var newBadge = (daysOld !== null && daysOld <= 1) ? '<span style="background:#ff1493;color:#fff;padding:2px 8px;border-radius:10px;font-size:10px;font-weight:700;margin-right:6px">NEW</span>' : '';
     var dateText = j.dateFound ? '<span style="color:var(--text3);font-size:11px;margin-left:6px">&middot; ' + j.dateFound + '</span>' : '';
     var ea = src.indexOf('Easy') > -1 ? '<div style="font-size:10px;background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:10px;margin-top:2px;display:inline-block">' + (isLI ? 'Easy Apply' : 'Easily Apply') + '</div>' : '';
-    var link = j.url ? '<a href="' + j.url + '" target="_blank" class="li-btn" onclick="event.stopPropagation()" style="text-decoration:none">&#x2197;</a>' : '';
+    var slug = function(s){return (s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-+|-+$/g,'').substring(0,40);};
+    var resumeFile = slug(j.company) + '_' + slug(j.title) + '.docx';
+    var link = j.url ? '<button class="li-btn" onclick="event.stopPropagation();applyToJob(' + i + ',\'' + resumeFile + '\')" style="padding:6px 12px;background:#ff1493;color:#fff;border:none;border-radius:8px;font-size:11px;font-weight:700;cursor:pointer;white-space:nowrap">Apply</button>' : '';
     html += '<div class="contact-row" style="cursor:pointer" onclick="openJobDrawer(' + i + ')">';
     html += '<div style="width:36px;height:36px;border-radius:8px;background:' + iconBg + ';display:flex;align-items:center;justify-content:center;font-size:10px;font-weight:700;color:#fff;flex-shrink:0">' + iconTxt + '</div>';
     html += '<div style="min-width:0"><div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis">' + j.title + '</div>';
@@ -2171,6 +2173,20 @@ function setJobFilter(kind,val,btn){
   var allBtn=document.querySelector('#job-filter-pills [data-fkind=\"stage\"][data-fval=\"\"]');
   if(allBtn && val!=='')allBtn.classList.remove('active');
   renderJobs();
+}
+
+function applyToJob(idx, resumeFile){
+  var j = _jobs[idx];
+  if(!j) return;
+  // Show modal with resume path + open apply URL in new tab
+  var msg = 'Tailored resume ready:\n\n' + resumeFile + '\n\nLocation on Mac Mini:\n~/job-search-agent/resumes/tailored/' + resumeFile + '\n\nClick OK to open the application page.';
+  if(confirm(msg)){
+    window.open(j.url, '_blank');
+    // Mark as applied automatically
+    if(confirm('Mark this job as Applied?')){
+      setJobStage(idx, 'applied');
+    }
+  }
 }
 
 function setJobStage(idx,stage){_jobs[idx].stage=stage;try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}
