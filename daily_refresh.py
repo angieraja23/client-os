@@ -19,14 +19,18 @@ LOG_FILE  = DATA_DIR / "refresh_log.txt"
 SERPAPI_KEY = "44a8d64c994f218da81170ca653427ddfe12baac50191c4f6c06b848ac6bd750"
 
 JOB_QUERIES = [
-    'Operations Manager',
-    'Chief of Staff',
-    'Ecommerce Operations Manager',
     'Amazon Account Manager',
-    'Client Services Manager',
+    'Amazon Brand Manager',
+    'Ecommerce Operations Manager',
+    'Ecommerce Brand Manager',
+    'DTC Operations Manager',
     'Agency Operations Manager',
-    'Business Operations Manager',
-    'Implementation Manager',
+    'Client Services Manager agency',
+    'Chief of Staff ecommerce',
+    'Chief of Staff startup',
+    'Head of Operations ecommerce',
+    'Director of Operations DTC',
+    'Marketplace Manager',
 ]
 
 CONTACT_SEARCHES = [
@@ -163,6 +167,19 @@ def run_jobs():
             if jid in seen or jid in existing_ids: continue
 
             qa = quick_apply_label(link)
+            # Quality filter: NY/remote + relevant industry + exclude noise
+            NY_TERMS = ['new york', 'ny', 'brooklyn', 'queens', 'bronx', 'manhattan', 'staten island', 'remote', 'work from home', 'anywhere']
+            INDUSTRY_TERMS = ['amazon', 'ecommerce', 'e-commerce', 'shopify', 'dtc', 'd2c', 'direct-to-consumer', 'agency', 'brand', 'marketplace', 'seller', 'fba', 'retail', 'consumer', 'cpg', 'marketing', 'digital', 'channel', 'fulfillment', 'chief of staff', 'coo', 'head of operations', 'director of operations', 'vp operations', 'business operations', 'startup', 'saas']
+            EXCLUDE_TERMS = ['restaurant', 'food', 'beverage', 'hotel', 'hospitality', 'nursing', 'nurse', 'medical', 'healthcare', 'clinical', 'patient', 'construction', 'property', 'waste', 'warehouse worker', 'driver', 'maintenance', 'janitorial', 'security guard', 'retail store', 'store manager', 'shift manager', 'cashier', 'server', 'cook', 'kitchen', 'overnight']
+            loc_check = (loc or '').lower()
+            title_check = title.lower()
+            text_check = (title + ' ' + company + ' ' + query).lower()
+            if not (any(t in loc_check for t in NY_TERMS) or 'remote' in title_check):
+                continue
+            if any(ex in text_check for ex in EXCLUDE_TERMS):
+                continue
+            if not any(term in text_check for term in INDUSTRY_TERMS):
+                continue
             existing.append({
                 'id': jid, 'title': title, 'company': company,
                 'location': loc, 'salary': salary, 'url': link,
