@@ -2307,3 +2307,97 @@ Traceback (most recent call last):
   File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 641, in http_error_default
     raise HTTPError(req.full_url, code, msg, hdrs, fp)
 urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+=== Run started: Wed Jun 24 16:32:14 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=MISSING
+--- Running scraper ---
+[2026-06-24 16:32] ==================================================
+[2026-06-24 16:32] Client Acquisition OS — Weekly Refresh
+[2026-06-24 16:32] ── JOBS ─────────────────────────────────
+[2026-06-24 16:32]   Amazon Account Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Account Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Amazon Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Senior Amazon Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Senior Amazon Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Amazon Marketplace Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Marketplace Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Ecommerce Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Account Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Ecommerce Account Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Marketplace Manager Walmart Amazon — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Operations Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Ecommerce Operations Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   DTC Brand Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   DTC Brand Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   Amazon Agency Account Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Amazon Agency Account Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   Chief of Staff ecommerce — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Chief of Staff ecommerce — New York
+[2026-06-24 16:33]     1 results
+[2026-06-24 16:33]   Chief of Staff startup — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Chief of Staff startup — New York
+Traceback (most recent call last):
+  File "/Users/openclaw/Projects/client-os/daily_refresh.py", line 357, in <module>
+    main()
+  File "/Users/openclaw/Projects/client-os/daily_refresh.py", line 350, in main
+    changed = run_jobs()
+  File "/Users/openclaw/Projects/client-os/daily_refresh.py", line 173, in run_jobs
+    jobs = serpapi(params).get('jobs_results', [])
+  File "/Users/openclaw/Projects/client-os/daily_refresh.py", line 120, in serpapi
+    with urllib.request.urlopen(url, timeout=20) as r:
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 517, in open
+    response = self._open(req, data)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 494, in _call_chain
+    result = func(*args)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/urllib/request.py", line 1350, in do_open
+    r = h.getresponse()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 1349, in getresponse
+    response.begin()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 316, in begin
+    version, status, reason = self._read_status()
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/http/client.py", line 277, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1241, in recv_into
+    return self.read(nbytes, buffer)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/ssl.py", line 1099, in read
+    return self._sslobj.read(len, buffer)
+KeyboardInterrupt
+=== Run started: Wed Jun 24 16:34:42 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=SET
+GITHUB_TOKEN=SET
+ANTHROPIC_API_KEY=SET
+--- Running scraper ---

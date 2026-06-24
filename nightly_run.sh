@@ -5,14 +5,17 @@ set -uo pipefail  # Removed -e so failures don't kill the whole script silently
 # Hardcoded PATH for cron (it doesn't inherit from .zshrc)
 export PATH="/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
-# Hardcoded tokens (cron doesn't see shell env vars)
-export GITLAB_TOKEN="$(grep -oE 'export GITLAB_TOKEN=\K[^[:space:]]+' ~/.zshrc | head -1)"
-export GITHUB_TOKEN="$(grep -oE 'export GITHUB_TOKEN=\K[^[:space:]]+' ~/.zshrc | head -1)"
+# Load tokens from .zshrc directly via bash sourcing
+export GITLAB_TOKEN="$(bash -c 'source ~/.zshrc 2>/dev/null; echo $GITLAB_TOKEN')"
+export GITHUB_TOKEN="$(bash -c 'source ~/.zshrc 2>/dev/null; echo $GITHUB_TOKEN')"
+export ANTHROPIC_API_KEY="$(bash -c 'source ~/.zshrc 2>/dev/null; echo $ANTHROPIC_API_KEY')"
 
 LOG=~/Projects/client-os/data/cron.log
 echo "=== Run started: $(date) ===" >> "$LOG"
 echo "PATH=$PATH" >> "$LOG"
 echo "GITLAB_TOKEN=$([ -n "$GITLAB_TOKEN" ] && echo 'SET' || echo 'MISSING')" >> "$LOG"
+echo "GITHUB_TOKEN=$([ -n "$GITHUB_TOKEN" ] && echo 'SET' || echo 'MISSING')" >> "$LOG"
+echo "ANTHROPIC_API_KEY=$([ -n "$ANTHROPIC_API_KEY" ] && echo 'SET' || echo 'MISSING')" >> "$LOG"
 
 cd ~/Projects/client-os || { echo "FAIL: cd failed" >> "$LOG"; exit 1; }
 

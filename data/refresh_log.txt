@@ -1417,3 +1417,151 @@ test
 [2026-06-24 12:33]   Deployed to Vercel
 [2026-06-24 12:33] Done.
 
+[2026-06-24 16:32] ==================================================
+[2026-06-24 16:32] Client Acquisition OS — Weekly Refresh
+[2026-06-24 16:32] ── JOBS ─────────────────────────────────
+[2026-06-24 16:32]   Amazon Account Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Account Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Amazon Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Senior Amazon Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Senior Amazon Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Amazon Marketplace Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Amazon Marketplace Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Brand Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Ecommerce Brand Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Account Manager — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Ecommerce Account Manager — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-24 16:32]     0 results
+[2026-06-24 16:32]   Marketplace Manager Walmart Amazon — New York
+[2026-06-24 16:32]     10 results
+[2026-06-24 16:32]   Ecommerce Operations Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Ecommerce Operations Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   DTC Brand Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   DTC Brand Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   Amazon Agency Account Manager — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Amazon Agency Account Manager — New York
+[2026-06-24 16:33]     10 results
+[2026-06-24 16:33]   Chief of Staff ecommerce — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Chief of Staff ecommerce — New York
+[2026-06-24 16:33]     1 results
+[2026-06-24 16:33]   Chief of Staff startup — Remote
+[2026-06-24 16:33]     0 results
+[2026-06-24 16:33]   Chief of Staff startup — New York
+[2026-06-24 16:34] ==================================================
+[2026-06-24 16:34] Client Acquisition OS — Weekly Refresh
+[2026-06-24 16:34] ── JOBS ─────────────────────────────────
+[2026-06-24 16:34]   Amazon Account Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Amazon Account Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Amazon Brand Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Amazon Brand Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Senior Amazon Brand Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Senior Amazon Brand Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Amazon Marketplace Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Amazon Marketplace Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Ecommerce Brand Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Ecommerce Brand Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Ecommerce Account Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Ecommerce Account Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Marketplace Manager Walmart Amazon — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Ecommerce Operations Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Ecommerce Operations Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   DTC Brand Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   DTC Brand Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Amazon Agency Account Manager — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Amazon Agency Account Manager — New York
+[2026-06-24 16:34]     10 results
+[2026-06-24 16:34]   Chief of Staff ecommerce — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:34]   Chief of Staff ecommerce — New York
+[2026-06-24 16:34]     1 results
+[2026-06-24 16:34]   Chief of Staff startup — Remote
+[2026-06-24 16:34]     0 results
+[2026-06-24 16:35]   Chief of Staff startup — New York
+[2026-06-24 16:35]     3 results
+[2026-06-24 16:35]   Chief of Staff DTC — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   Chief of Staff DTC — New York
+[2026-06-24 16:35]     1 results
+[2026-06-24 16:35]   Head of Operations DTC — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   Head of Operations DTC — New York
+[2026-06-24 16:35]     10 results
+[2026-06-24 16:35]   Head of Operations ecommerce — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   Head of Operations ecommerce — New York
+[2026-06-24 16:35]     10 results
+[2026-06-24 16:35]   Director of Operations ecommerce — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   Director of Operations ecommerce — New York
+[2026-06-24 16:35]     10 results
+[2026-06-24 16:35]   EOS Integrator — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   EOS Integrator — New York
+[2026-06-24 16:35]     9 results
+[2026-06-24 16:35]   Fractional COO — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   Fractional COO — New York
+[2026-06-24 16:35]     10 results
+[2026-06-24 16:35]   VP Operations DTC — Remote
+[2026-06-24 16:35]     0 results
+[2026-06-24 16:35]   VP Operations DTC — New York
+[2026-06-24 16:35]     10 results
+[2026-06-24 16:35]   Business Operations Lead startup — Remote
+[2026-06-24 16:36]     0 results
+[2026-06-24 16:36]   Business Operations Lead startup — New York
+[2026-06-24 16:36]     10 results
+[2026-06-24 16:36]   Wrote 61 jobs to data/jobs.json (0 new)
+[2026-06-24 16:36] ── CONTACTS ─────────────────────────────
+[2026-06-24 16:36]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-24 16:36]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-24 16:36]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-24 16:36]     + Prashant Rana — Founder & CEO of Sipransh Ecommgrowth @ 
+[2026-06-24 16:36]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-24 16:36]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-24 16:36]   Added 1 contacts (total 88)
+[2026-06-24 16:36] ── DEPLOYING via GitLab ──────────────────
