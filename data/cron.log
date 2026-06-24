@@ -1173,3 +1173,92 @@ urllib.error.HTTPError: HTTP Error 429: Too Many Requests
 PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
 GITLAB_TOKEN=MISSING
 --- Running scraper ---
+[main 9b46e08] Weekly refresh 2026-06-24
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 139 insertions(+), 11 deletions(-)
+[2026-06-24 12:31] ==================================================
+[2026-06-24 12:31] Client Acquisition OS — Weekly Refresh
+[2026-06-24 12:31] ── JOBS ─────────────────────────────────
+[2026-06-24 12:31]   Amazon Account Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Amazon Account Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Amazon Brand Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Amazon Brand Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Ecommerce Operations Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Ecommerce Operations Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   Ecommerce Brand Manager — Remote
+[2026-06-24 12:31]     0 results
+[2026-06-24 12:31]   Ecommerce Brand Manager — New York
+[2026-06-24 12:31]     10 results
+[2026-06-24 12:31]   DTC Operations Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   DTC Operations Manager — New York
+[2026-06-24 12:32]     8 results
+[2026-06-24 12:32]   Agency Operations Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Agency Operations Manager — New York
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Client Services Manager agency — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Client Services Manager agency — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]   Chief of Staff ecommerce — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff ecommerce — New York
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff startup — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Chief of Staff startup — New York
+[2026-06-24 12:32]     3 results
+[2026-06-24 12:32]   Head of Operations ecommerce — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Head of Operations ecommerce — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]   Director of Operations DTC — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Director of Operations DTC — New York
+[2026-06-24 12:32]     10 results
+[2026-06-24 12:32]     + Growth-Focused Paid Media Manager for DTC E-commerce @ KREWE du optic (New York, NY)
+[2026-06-24 12:32]   Marketplace Manager — Remote
+[2026-06-24 12:32]     0 results
+[2026-06-24 12:32]   Marketplace Manager — New York
+[2026-06-24 12:33]     10 results
+[2026-06-24 12:33]     + Marketplace Monetization Manager (Remote from US) @ vmysmartpros (Anywhere)
+[2026-06-24 12:33]   Wrote 61 jobs to data/jobs.json (2 new)
+[2026-06-24 12:33] ── CONTACTS ─────────────────────────────
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-24 12:33]     + Lee Assoulin — CEO of Stonecutter @ 
+[2026-06-24 12:33]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-24 12:33]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-24 12:33]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-24 12:33]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-24 12:33]   Added 1 contacts (total 87)
+[2026-06-24 12:33] ── DEPLOYING via GitLab ──────────────────
+[2026-06-24 12:33]   Pushed to GitLab
+[2026-06-24 12:33]   Deployed to Vercel
+[2026-06-24 12:33] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
