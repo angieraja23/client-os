@@ -2108,6 +2108,22 @@ function renderJobs() {
 }
 
 
+function deleteJob(idx){
+  var j = _jobs[idx];
+  if(!j) return;
+  if(!confirm('Delete this job permanently?\n\n' + j.title + ' at ' + j.company)) return;
+  // Persist deletion to localStorage
+  try {
+    var deleted = JSON.parse(localStorage.getItem('caos_jobs_deleted') || '[]');
+    if(deleted.indexOf(j.id) === -1) deleted.push(j.id);
+    localStorage.setItem('caos_jobs_deleted', JSON.stringify(deleted));
+  } catch(e){}
+  _jobs.splice(idx, 1);
+  var drawer = document.getElementById('drawer');
+  if(drawer) drawer.classList.remove('open');
+  renderJobs();
+}
+
 function openJobDrawer(idx) {
   var j = _jobs[idx];
   if (!j) return;
