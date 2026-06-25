@@ -3658,3 +3658,163 @@ After doing this, you may fix the identity used for this commit with:
 
 Scraper exit code: 0
 --- Committing and pushing ---
+[main ae89f66] Nightly auto-sync 2026-06-25
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 126 insertions(+)
+To https://gitlab.com/client-os/client-os.git
+   c34ea2f..ae89f66  main -> main
+To https://github.com/angieraja23/client-os.git
+   eef6779..ae89f66  main -> main
+Vercel CLI 54.10.2 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/354.7KB)
+Uploading [=====---------------] (96.0KB/354.7KB)
+Uploading [==========----------] (192.0KB/354.7KB)
+Uploading [===============-----] (273.5KB/354.7KB)
+Uploading [====================] (354.7KB/354.7KB)
+  Inspect     https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/B4CJcAXKamWJS4BMrFWUHLRpXiyH
+▲ Production  https://client-acquisition-oirr3rted-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-oirr3rted-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 17 deployment files...
+Running "vercel build"
+Vercel CLI 54.17.2
+[2K[1A[2K[G▲ Production  https://client-acquisition-oirr3rted-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased     https://clientos.angieraja.com
+
+✓ Ready in 6s
+=== Deployed: Thu Jun 25 16:31:49 EDT 2026 ===
+--- Running tailor ---
+=== Tailor started: Thu Jun 25 16:31:49 EDT 2026 ===
+Track: ops
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+Track: ops
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+Track: ops
+SKIP (already tailored): Chief of Staff at Gen Brands in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Startup Chief of Staff: Ops Leader for Founders (NY) at Reval
+Track: ops
+SKIP (already tailored): Chief of Staff to Tech Founder at Career Group in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Chief of Staff / Chief Product Officer at Adaptive Security
+Track: ops
+SKIP (already tailored): Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Track: ops
+SKIP (already tailored): Remote Chief of Staff, Operations & Project Execution at Itlearn360
+Track: amazon
+SKIP (already tailored): Ecommerce Operations Manager Fulfillment & Logistics Lead at JC OUTDOOR international
+Track: amazon
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Track: amazon
+SKIP (already tailored): Associate Manager Supplier Operations at The New York Times
+Track: amazon
+SKIP (already tailored): Business Virtual Assistant / E-commerce Operations Manager | Shopify Store & Admin Support at Upwork
+Track: amazon
+SKIP (already tailored): Amazon Account Manager at Trivium
+Track: amazon
+SKIP (already tailored): Ecommerce Account Manager / Amazon USA Specialist - Part-time jobs online at frontendnode-production.up.railway.app
+Track: amazon
+SKIP (already tailored): Agency Operations Director. LilyLifestyle at Ivanka Digital
+Track: amazon
+SKIP (already tailored): Sr. Resourcing Operations Manager at MKG Productions, LLC
+Track: amazon
+SKIP (already tailored): Operations Manager State Farm Agent Team Member at Edwin Cabral - State Farm Agency
+Track: amazon
+SKIP (already tailored): Creative Operations Leader: Scale Systems & Growth at AdHoc Projects
+Track: amazon
+SKIP (already tailored): Director of Internal Services & Operations at City of New York
+Track: amazon
+SKIP (already tailored): Court Operations Lead - Remote-First, Data-Driven Leader at Steno Agency, Inc.
+Track: ops
+SKIP (already tailored): Operations Manager: Lead Growth & Scale - 50k + Bonus at Universal Business Team
+Track: ops
+SKIP (already tailored): Logistics Operations Project Manager at Fluidstack
+Track: ops
+SKIP (already tailored): Head of Business Operations - Remote at Crypto Pro Network
+Track: ops
+SKIP (already tailored): Manager, Enrollment Fulfillment Operations at New York Life
+Track: ops
+SKIP (already tailored): Senior Manager, Technology Operations at Walmart
+Track: ops
+SKIP (already tailored): Business Operations Manager/Sr Manager - German or French Speaking at Whatnot
+Track: ops
+SKIP (already tailored): Strategic Chief of Staff & Ops Leader at Hill Community Development Corporation
+Track: amazon
+SKIP (already tailored): Ecommerce Manager at Zachys Wine & Liquor
+Track: amazon
+SKIP (already tailored): Experienced Amazon Key Account Manager - Driving Sales Growth and Business Excellence in Ecommerce at frontendnode-production.up.railway.app
+Track: amazon
+SKIP (already tailored): [Remote/WFM] Amazon Account Supervisor at frontendnode-production.up.railway.app
+Track: amazon
+SKIP (already tailored): Senior Amazon Brand Manager — Remote, Revenue Share at GNO Partners
+Track: amazon
+SKIP (already tailored): Brand Manager- Amazon Marketplace (Future Opportunity) at frontendnode-production.up.railway.app
+Track: amazon
+SKIP (already tailored): Amazon Brand Manager at Cartograph
+Track: amazon
+SKIP (already tailored): Remote Senior Amazon Brand Manager - High-Impact Growth at Scale Jet
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at SBH Fashion
+Track: amazon
+SKIP (already tailored): Temp eCommerce Listings & Product Optimization at Dormont Manufacturing Company
+Track: amazon
+SKIP (already tailored): Luxury Brand Ecommerce Project Manager | Global Logistics at VISEO - Spain
+Track: amazon
+SKIP (already tailored): Ecommerce Brand Manager, Specialty Skincare at Church and Dwight Co Inc
+Track: amazon
+SKIP (already tailored): Ecommerce Marketplace Manager at Universal Perfumes & Cosmetics
+Track: amazon
+SKIP (already tailored): Account Manager eCommerce at EssilorLuxottica Group
+Track: amazon
+SKIP (already tailored): Ecommerce Growth Manager — Shopify & Marketplaces at Sbhonline
+Track: amazon
+SKIP (already tailored): eCommerce Marketplace Manager (Amazon & Walmart) at Raycon Inc.
+Track: amazon
+SKIP (already tailored): Luxury Omnichannel Operations Lead for DTC at KHAITE
+Track: amazon
+SKIP (already tailored): Director - DTC Partner Operations, MS at Versant Media, LLC
+Track: amazon
+SKIP (already tailored): Director of Customer Operations - Fast Growing DTC Brand Supplements 35 at MNY Ventures
+Track: amazon
+SKIP (already tailored): DTC Subscription Pricing & Growth Lead at Warner Bros. Discovery
+Track: amazon
+SKIP (already tailored): Integrated Marketing Manager - High Growth DTC Brand 35 at MNY Ventures
+Track: amazon
+SKIP (already tailored): Operations Manager - Insurance Agency Team at Edwin Cabral - State Farm Agency
+Track: amazon
+SKIP (already tailored): General Manager Revenue Operations at The Trade Desk
+Track: amazon
+SKIP (already tailored): Client Account Manager, Digital Accounts at Amsive
+Track: amazon
+SKIP (already tailored): Account Manager & Project Manager at 1000heads
+Track: amazon
+SKIP (already tailored): Senior Account Manager - Contract / Remote at Direct Agents
+Track: ops
+SKIP (already tailored): Head of Business Operations for DTC E-commerce Brand Remote, US-Based at Paired Inc
+Track: ops
+SKIP (already tailored): Head of Talent Acquisition - High Growth DTC Brand at MNY Ventures
+Track: ops
+SKIP (already tailored): Director of Growth Marketing — Multi-Brand DTC Leader at Havenly, Inc.
+Track: ops
+SKIP (already tailored): DTC Performance & Growth Marketing Manager at Blueair North America
+Track: amazon
+SKIP (already tailored): Senior Manager, Technology Operations - Marketplace Risk at Walmart
