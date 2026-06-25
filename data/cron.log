@@ -2520,3 +2520,842 @@ After doing this, you may fix the identity used for this commit with:
 
 Scraper exit code: 0
 --- Committing and pushing ---
+[main 620c17b] Nightly auto-sync 2026-06-24
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 123 insertions(+)
+To https://gitlab.com/client-os/client-os.git
+   24f9c30..620c17b  main -> main
+To https://github.com/angieraja23/client-os.git
+   1352f75..620c17b  main -> main
+Vercel CLI 54.10.2 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/284.4KB)
+Uploading [=====---------------] (80.0KB/284.4KB)
+Uploading [==========----------] (144.0KB/284.4KB)
+Uploading [================----] (228.1KB/284.4KB)
+Uploading [====================] (284.4KB/284.4KB)
+  Inspect     https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/8rCZE5Po97w4YVGvEKU9G7KqwuAC
+▲ Production  https://client-acquisition-kt1p3n8ej-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-kt1p3n8ej-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 17 deployment files...
+[2K[1A[2K[G▲ Production  https://client-acquisition-kt1p3n8ej-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased     https://clientos.angieraja.com
+
+✓ Ready in 9s
+=== Deployed: Wed Jun 24 16:36:52 EDT 2026 ===
+--- Running tailor ---
+=== Tailor started: Wed Jun 24 16:36:52 EDT 2026 ===
+Track: ops
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+Track: ops
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+Track: ops
+SKIP (already tailored): Chief of Staff at Gen Brands in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Startup Chief of Staff: Ops Leader for Founders (NY) at Reval
+Track: ops
+SKIP (already tailored): Chief of Staff to Tech Founder at Career Group in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Chief of Staff / Chief Product Officer at Adaptive Security
+Track: ops
+SKIP (already tailored): Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Track: ops
+SKIP (already tailored): Remote Chief of Staff, Operations & Project Execution at Itlearn360
+Track: amazon
+SKIP (already tailored): Ecommerce Operations Manager Fulfillment & Logistics Lead at JC OUTDOOR international
+Track: amazon
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Track: amazon
+SKIP (already tailored): Associate Manager Supplier Operations at The New York Times
+Track: amazon
+SKIP (already tailored): Business Virtual Assistant / E-commerce Operations Manager | Shopify Store & Admin Support at Upwork
+Track: amazon
+SKIP (already tailored): Amazon Account Manager at Trivium
+Track: amazon
+SKIP (already tailored): Ecommerce Account Manager / Amazon USA Specialist - Part-time jobs online at frontendnode-production.up.railway.app
+Track: amazon
+SKIP (already tailored): Agency Operations Director. LilyLifestyle at Ivanka Digital
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Sr. Resourcing Operations Manager at MKG Productions, LLC
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Resourcing Operations', 'Talent Acquisition', 'Workforce Planning', 'Staffing Management', 'Operations Management', 'KPI Tracking']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Resourcing Operations', 'Workforce Planning', 'Staffing Management', 'Operations Management', 'KPI Tracking']
+  Missing: ['Talent Acquisition']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/mkg-productions-llc_sr-resourcing-operations-manager.docx
+Track: amazon
+SKIP (already tailored): Operations Manager State Farm Agent Team Member at Edwin Cabral - State Farm Agency
+Track: amazon
+SKIP (already tailored): Creative Operations Leader: Scale Systems & Growth at AdHoc Projects
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Director of Internal Services & Operations at City of New York
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Operations Management', 'Budget Management', 'Strategic Planning', 'Process Improvement', 'Staff Leadership', 'Government Operations']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Operations Management', 'Budget Management', 'Strategic Planning', 'Process Improvement', 'Staff Leadership', 'Government Operations']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/city-of-new-york_director-of-internal-services-operations.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Court Operations Lead - Remote-First, Data-Driven Leader at Steno Agency, Inc.
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Court Operations', 'Data Analysis', 'Remote Leadership', 'Process Improvement', 'KPI Management', 'Team Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Court Operations', 'Data Analysis', 'Remote Leadership', 'Process Improvement', 'KPI Management', 'Team Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/steno-agency-inc_court-operations-lead-remote-first-data-.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Operations Manager: Lead Growth & Scale - 50k + Bonus at Universal Business Team
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Operations Management', 'Process Improvement', 'Team Leadership', 'P&L Management', 'Business Growth', 'Performance Metrics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Operations Management', 'Process Improvement', 'Team Leadership', 'P&L Management', 'Business Growth', 'Performance Metrics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/universal-business-team_operations-manager-lead-growth-scale-50k.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Logistics Operations Project Manager at Fluidstack
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Project Management', 'Logistics Operations', 'Supply Chain Management', 'Process Optimization', 'Stakeholder Management', 'KPI Tracking']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Project Management', 'Logistics Operations', 'Supply Chain Management', 'Process Optimization', 'Stakeholder Management', 'KPI Tracking']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/fluidstack_logistics-operations-project-manager.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Head of Business Operations - Remote at Crypto Pro Network
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Business Operations', 'P&L Management', 'Process Optimization', 'Cross-Functional Leadership', 'Strategic Planning', 'KPI Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Business Operations', 'P&L Management', 'Process Optimization', 'Cross-Functional Leadership', 'Strategic Planning', 'KPI Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/crypto-pro-network_head-of-business-operations-remote.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Manager, Enrollment Fulfillment Operations at New York Life
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Enrollment Management', 'Operations Management', 'Fulfillment Operations', 'Process Improvement', 'Team Leadership', 'KPI Tracking']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Enrollment Management', 'Operations Management', 'Fulfillment Operations', 'Process Improvement', 'Team Leadership', 'KPI Tracking']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/new-york-life_manager-enrollment-fulfillment-operation.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Senior Manager, Technology Operations at Walmart
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Technology Operations Management', 'Infrastructure Management', 'Team Leadership', 'IT Service Management', 'Process Optimization', 'Project Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Technology Operations Management', 'Infrastructure Management', 'Team Leadership', 'IT Service Management', 'Process Optimization', 'Project Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/walmart_senior-manager-technology-operations.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Business Operations Manager/Sr Manager - German or French Speaking at Whatnot
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Business Operations Management', 'P&L Management', 'Process Improvement', 'Cross-Functional Leadership', 'German or French Language', 'Strategic Planning']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Business Operations Management', 'P&L Management', 'Process Improvement', 'Cross-Functional Leadership', 'Strategic Planning']
+  Missing: ['German or French Language']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/whatnot_business-operations-manager-sr-manager-g.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Strategic Chief of Staff & Ops Leader at Hill Community Development Corporation
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Strategic Planning', 'Operations Management', 'Chief of Staff', 'Cross-Functional Leadership', 'Budget Management', 'Process Improvement']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Strategic Planning', 'Operations Management', 'Chief of Staff', 'Cross-Functional Leadership', 'Budget Management', 'Process Improvement']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/hill-community-development-corporation_strategic-chief-of-staff-ops-leader.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Ecommerce Manager at Zachys Wine & Liquor
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Ecommerce Platform Management', 'P&L Management', 'Digital Marketing Strategy', 'Inventory Management', 'KPI Tracking', 'Vendor Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Ecommerce Platform Management', 'P&L Management', 'Digital Marketing Strategy', 'Inventory Management', 'KPI Tracking', 'Vendor Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/zachys-wine-liquor_ecommerce-manager.docx
+Track: amazon
+SKIP (already tailored): Experienced Amazon Key Account Manager - Driving Sales Growth and Business Excellence in Ecommerce at frontendnode-production.up.railway.app
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: [Remote/WFM] Amazon Account Supervisor at frontendnode-production.up.railway.app
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Account Management', 'Performance Metrics', 'Remote Work', 'Team Leadership', 'Sales Operations']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Seller Central', 'Account Management', 'Performance Metrics', 'Remote Work', 'Team Leadership', 'Sales Operations']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/frontendnode-production-up-railway-app_remote-wfm-amazon-account-supervisor.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Senior Amazon Brand Manager — Remote, Revenue Share at GNO Partners
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Brand Management', 'P&L Management', 'Amazon Advertising', 'Cross-Functional Leadership', 'Revenue Growth']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Seller Central', 'Brand Management', 'P&L Management', 'Amazon Advertising', 'Cross-Functional Leadership', 'Revenue Growth']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/gno-partners_senior-amazon-brand-manager-remote-reven.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Brand Manager- Amazon Marketplace (Future Opportunity) at frontendnode-production.up.railway.app
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Marketplace', 'Brand Management', 'P&L Management', 'Channel Strategy', 'Vendor Relations', 'Performance Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Marketplace', 'Brand Management', 'P&L Management', 'Channel Strategy', 'Vendor Relations', 'Performance Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/frontendnode-production-up-railway-app_brand-manager-amazon-marketplace-future-.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Amazon Brand Manager at Cartograph
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Brand Strategy', 'Amazon Seller Central', 'P&L Management', 'Product Launch', 'Cross-Functional Leadership', 'Market Analysis']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Brand Strategy', 'Amazon Seller Central', 'P&L Management', 'Product Launch', 'Cross-Functional Leadership', 'Market Analysis']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/cartograph_amazon-brand-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Remote Senior Amazon Brand Manager - High-Impact Growth at Scale Jet
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Brand Management', 'P&L Management', 'Amazon Seller Central', 'Growth Strategy', 'Performance Analytics', 'Cross-functional Leadership']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Brand Management', 'P&L Management', 'Amazon Seller Central', 'Growth Strategy', 'Performance Analytics', 'Cross-functional Leadership']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/scale-jet_remote-senior-amazon-brand-manager-high-.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Director of Ecommerce at SBH Fashion
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Ecommerce Strategy', 'P&L Management', 'Digital Marketing', 'Cross-Functional Leadership', 'KPI Analytics', 'Omnichannel Management']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Ecommerce Strategy', 'P&L Management', 'Digital Marketing', 'Cross-Functional Leadership', 'Omnichannel Management']
+  Missing: ['KPI Analytics']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/sbh-fashion_director-of-ecommerce.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Temp eCommerce Listings & Product Optimization at Dormont Manufacturing Company
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['eCommerce Listings', 'Product Optimization', 'Product Data Management', 'SEO Optimization', 'Amazon', 'Inventory Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['eCommerce Listings', 'Product Optimization', 'Product Data Management', 'SEO Optimization', 'Amazon', 'Inventory Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/dormont-manufacturing-company_temp-ecommerce-listings-product-optimiza.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Luxury Brand Ecommerce Project Manager | Global Logistics at VISEO - Spain
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Ecommerce Project Management', 'Global Logistics', 'Luxury Brand Experience', 'Cross-Functional Leadership', 'Supply Chain Management', 'KPI Tracking']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Ecommerce Project Management', 'Luxury Brand Experience', 'Cross-Functional Leadership', 'Supply Chain Management', 'KPI Tracking']
+  Missing: ['Global Logistics']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/viseo-spain_luxury-brand-ecommerce-project-manager-g.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Ecommerce Brand Manager, Specialty Skincare at Church and Dwight Co Inc
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Ecommerce Strategy', 'Brand Management', 'P&L Management', 'Digital Marketing', 'Skincare Industry', 'Channel Management']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Ecommerce Strategy', 'Brand Management', 'P&L Management', 'Digital Marketing', 'Channel Management']
+  Missing: ['Skincare Industry']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/church-and-dwight-co-inc_ecommerce-brand-manager-specialty-skinca.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Ecommerce Marketplace Manager at Universal Perfumes & Cosmetics
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Ecommerce Marketplace Management', 'Amazon Seller Central', 'Inventory Management', 'P&L Management', 'Channel Strategy', 'Vendor Relations']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Ecommerce Marketplace Management', 'Amazon Seller Central', 'Inventory Management', 'P&L Management', 'Channel Strategy', 'Vendor Relations']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/universal-perfumes-cosmetics_ecommerce-marketplace-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Account Manager eCommerce at EssilorLuxottica Group
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['eCommerce Account Management', 'Sales Growth Strategy', 'Client Relationship Management', 'P&L Management', 'Performance Metrics', 'Cross-Functional Collaboration']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['eCommerce Account Management', 'Sales Growth Strategy', 'Client Relationship Management', 'P&L Management', 'Performance Metrics', 'Cross-Functional Collaboration']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/essilorluxottica-group_account-manager-ecommerce.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Ecommerce Growth Manager — Shopify & Marketplaces at Sbhonline
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Shopify', 'Marketplace Management', 'Ecommerce Growth Strategy', 'P&L Management', 'KPI Optimization', 'Channel Marketing']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Shopify', 'Marketplace Management', 'Ecommerce Growth Strategy', 'P&L Management', 'KPI Optimization', 'Channel Marketing']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/sbhonline_ecommerce-growth-manager-shopify-marketp.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: eCommerce Marketplace Manager (Amazon & Walmart) at Raycon Inc.
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Walmart Marketplace Management', 'eCommerce Strategy', 'Inventory Management', 'Sales Optimization', 'Marketplace Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Seller Central', 'Walmart Marketplace Management', 'eCommerce Strategy', 'Inventory Management', 'Sales Optimization', 'Marketplace Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/raycon-inc_ecommerce-marketplace-manager-amazon-wal.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Luxury Omnichannel Operations Lead for DTC at KHAITE
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Omnichannel Operations', 'Direct-to-Consumer (DTC)', 'Luxury Brand Management', 'P&L Management', 'Cross-Functional Leadership', 'Inventory Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Omnichannel Operations', 'Direct-to-Consumer (DTC)', 'Luxury Brand Management', 'P&L Management', 'Cross-Functional Leadership', 'Inventory Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/khaite_luxury-omnichannel-operations-lead-for-d.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Director - DTC Partner Operations, MS at Versant Media, LLC
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['DTC Operations', 'Partner Management', 'P&L Management', 'Cross-Functional Leadership', 'Channel Strategy', 'KPI Tracking']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['DTC Operations', 'Partner Management', 'P&L Management', 'Cross-Functional Leadership', 'Channel Strategy', 'KPI Tracking']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/versant-media-llc_director-dtc-partner-operations-ms.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Director of Customer Operations - Fast Growing DTC Brand Supplements 35 at MNY Ventures
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Customer Operations Management', 'DTC Strategy', 'P&L Management', 'Team Leadership', 'Process Optimization', 'Customer Service Excellence']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Customer Operations Management', 'DTC Strategy', 'P&L Management', 'Team Leadership', 'Process Optimization', 'Customer Service Excellence']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/mny-ventures_director-of-customer-operations-fast-gro.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: DTC Subscription Pricing & Growth Lead at Warner Bros. Discovery
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Subscription Pricing Strategy', 'DTC Growth', 'P&L Management', 'Data Analytics', 'Cross-Functional Leadership', 'Consumer Insights']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Subscription Pricing Strategy', 'DTC Growth', 'P&L Management', 'Cross-Functional Leadership', 'Consumer Insights']
+  Missing: ['Data Analytics']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/warner-bros-discovery_dtc-subscription-pricing-growth-lead.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Integrated Marketing Manager - High Growth DTC Brand 35 at MNY Ventures
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Integrated Marketing Strategy', 'DTC Marketing', 'Marketing Campaign Management', 'Digital Marketing', 'Brand Management', 'Performance Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Integrated Marketing Strategy', 'DTC Marketing', 'Marketing Campaign Management', 'Digital Marketing', 'Brand Management', 'Performance Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/mny-ventures_integrated-marketing-manager-high-growth.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Operations Manager - Insurance Agency Team at Edwin Cabral - State Farm Agency
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Operations Management', 'Insurance Agency', 'P&L Management', 'Team Leadership', 'Process Improvement', 'Customer Service']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Operations Management', 'Insurance Agency', 'P&L Management', 'Team Leadership', 'Process Improvement', 'Customer Service']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/edwin-cabral-state-farm-agency_operations-manager-insurance-agency-team.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: General Manager Revenue Operations at The Trade Desk
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Revenue Operations', 'P&L Management', 'Sales Strategy', 'Process Optimization', 'Cross-Functional Leadership', 'Analytics & Reporting']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Revenue Operations', 'P&L Management', 'Sales Strategy', 'Process Optimization', 'Cross-Functional Leadership', 'Analytics & Reporting']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/the-trade-desk_general-manager-revenue-operations.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Client Account Manager, Digital Accounts at Amsive
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Client Relations', 'Digital Marketing', 'Project Management', 'Campaign Strategy', 'Performance Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Account Management', 'Client Relations', 'Digital Marketing', 'Project Management', 'Campaign Strategy', 'Performance Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/amsive_client-account-manager-digital-accounts.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Account Manager & Project Manager at 1000heads
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Project Management', 'Client Relationship Management', 'Budget Management', 'Stakeholder Communication', 'Timeline & Deadline Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Account Management', 'Project Management', 'Client Relationship Management', 'Budget Management', 'Stakeholder Communication', 'Timeline & Deadline Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/1000heads_account-manager-project-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Senior Account Manager - Contract / Remote at Direct Agents
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Sales Leadership', 'Client Relationship Management', 'Revenue Growth', 'Contract Negotiation', 'Performance Metrics']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Account Management', 'Sales Leadership', 'Client Relationship Management', 'Revenue Growth', 'Performance Metrics']
+  Missing: ['Contract Negotiation']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/direct-agents_senior-account-manager-contract-remote.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Head of Business Operations for DTC E-commerce Brand Remote, US-Based at Paired Inc
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['P&L Management', 'DTC E-commerce Operations', 'Cross-Functional Leadership', 'KPI Optimization', 'Supply Chain Management', 'Business Strategy']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['P&L Management', 'DTC E-commerce Operations', 'Cross-Functional Leadership', 'KPI Optimization', 'Supply Chain Management', 'Business Strategy']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/paired-inc_head-of-business-operations-for-dtc-e-co.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Head of Talent Acquisition - High Growth DTC Brand at MNY Ventures
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Talent Acquisition Strategy', 'Recruitment Leadership', 'High-Growth Scaling', 'Employer Branding', 'Hiring Pipeline Management', 'DTC Experience']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Talent Acquisition Strategy', 'Recruitment Leadership', 'High-Growth Scaling', 'Hiring Pipeline Management', 'DTC Experience']
+  Missing: ['Employer Branding']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/mny-ventures_head-of-talent-acquisition-high-growth-d.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Director of Growth Marketing — Multi-Brand DTC Leader at Havenly, Inc.
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Growth Marketing Strategy', 'DTC E-commerce', 'Multi-Brand Management', 'P&L Ownership', 'Customer Acquisition', 'Marketing Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Growth Marketing Strategy', 'DTC E-commerce', 'Multi-Brand Management', 'P&L Ownership', 'Customer Acquisition', 'Marketing Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/havenly-inc_director-of-growth-marketing-multi-brand.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: DTC Performance & Growth Marketing Manager at Blueair North America
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['DTC Marketing', 'Performance Marketing', 'Growth Strategy', 'Google Analytics', 'Paid Advertising', 'Conversion Optimization']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['DTC Marketing', 'Performance Marketing', 'Growth Strategy', 'Paid Advertising', 'Conversion Optimization']
+  Missing: ['Google Analytics']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/blueair-north-america_dtc-performance-growth-marketing-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Senior Manager, Technology Operations - Marketplace Risk at Walmart
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Risk Management', 'Technology Operations', 'Marketplace Risk', 'Team Leadership', 'Process Optimization', 'Vendor Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Risk Management', 'Technology Operations', 'Marketplace Risk', 'Team Leadership', 'Process Optimization', 'Vendor Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/walmart_senior-manager-technology-operations-mar.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Mid-Market Account Manager, North America at Block
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Sales Pipeline Management', 'P&L Responsibility', 'Customer Relationship Management', 'Revenue Growth', 'Territory Management']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Account Management', 'Sales Pipeline Management', 'Customer Relationship Management', 'Revenue Growth', 'Territory Management']
+  Missing: ['P&L Responsibility']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/block_mid-market-account-manager-north-america.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Marketplace Growth Manager: Walmart, Amazon & TikTok at GN Group
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Marketplace Management', 'Amazon Seller Central', 'Walmart Vendor Portal', 'TikTok Shop', 'Sales Growth Strategy', 'Performance Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Marketplace Management', 'Amazon Seller Central', 'Walmart Vendor Portal', 'TikTok Shop', 'Sales Growth Strategy', 'Performance Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/gn-group_marketplace-growth-manager-walmart-amazo.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Growth-Focused Paid Media Manager for DTC E-commerce at KREWE du optic
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Paid Media Management', 'DTC E-commerce', 'Growth Strategy', 'PPC Advertising', 'Campaign Optimization', 'Budget Management']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Paid Media Management', 'DTC E-commerce', 'Growth Strategy', 'PPC Advertising', 'Campaign Optimization', 'Budget Management']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/krewe-du-optic_growth-focused-paid-media-manager-for-dt.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Marketplace Monetization Manager (Remote from US) at vmysmartpros
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Marketplace Monetization', 'Revenue Growth', 'P&L Management', 'Vendor Management', 'KPI Tracking', 'Cross-Functional Leadership']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Marketplace Monetization', 'Revenue Growth', 'P&L Management', 'Vendor Management', 'KPI Tracking', 'Cross-Functional Leadership']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/vmysmartpros_marketplace-monetization-manager-remote-.docx
+=== Tailor complete: 61 tailored, 0 failed at Wed Jun 24 16:45:04 EDT 2026 ===
+=== Run finished: Wed Jun 24 16:45:04 EDT 2026 ===
+=== Run started: Thu Jun 25 03:00:01 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=SET
+GITHUB_TOKEN=SET
+ANTHROPIC_API_KEY=SET
+--- Running scraper ---
+[2026-06-25 03:00] ==================================================
+[2026-06-25 03:00] Client Acquisition OS — Weekly Refresh
+[2026-06-25 03:00] ── JOBS ─────────────────────────────────
+[2026-06-25 03:00]   Amazon Account Manager — Remote
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Account Manager — New York
+[2026-06-25 03:00]     10 results
+[2026-06-25 03:00]   Amazon Brand Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Brand Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Senior Amazon Brand Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Senior Amazon Brand Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Marketplace Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Marketplace Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Brand Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Brand Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Account Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Account Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Marketplace Manager Walmart Amazon — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Operations Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Ecommerce Operations Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   DTC Brand Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   DTC Brand Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Agency Account Manager — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Amazon Agency Account Manager — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff ecommerce — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff ecommerce — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff startup — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff startup — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff DTC — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Chief of Staff DTC — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Head of Operations DTC — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Head of Operations DTC — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Head of Operations ecommerce — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Head of Operations ecommerce — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Director of Operations ecommerce — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Director of Operations ecommerce — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   EOS Integrator — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   EOS Integrator — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Fractional COO — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Fractional COO — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   VP Operations DTC — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   VP Operations DTC — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Business Operations Lead startup — Remote
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Business Operations Lead startup — New York
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]     0 results
+[2026-06-25 03:00]   Wrote 61 jobs to data/jobs.json (0 new)
+[2026-06-25 03:00] ── CONTACTS ─────────────────────────────
+[2026-06-25 03:00]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-25 03:00]   SerpAPI error: HTTP Error 429: Too Many Requests
+[2026-06-25 03:00]   No new contacts this week
+[2026-06-25 03:00] Nothing new — skipping deploy
+[2026-06-25 03:00] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
