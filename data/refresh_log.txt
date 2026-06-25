@@ -1716,3 +1716,104 @@ test
 [2026-06-25 03:00] Nothing new — skipping deploy
 [2026-06-25 03:00] Done.
 
+[2026-06-25 16:28] ==================================================
+[2026-06-25 16:28] Client Acquisition OS — Weekly Refresh
+[2026-06-25 16:28] ── JOBS ─────────────────────────────────
+[2026-06-25 16:28]   Amazon Account Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Amazon Account Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Amazon Brand Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Amazon Brand Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Senior Amazon Brand Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Senior Amazon Brand Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Amazon Marketplace Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Amazon Marketplace Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Ecommerce Brand Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Ecommerce Brand Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Ecommerce Account Manager — Remote
+[2026-06-25 16:28]     0 results
+[2026-06-25 16:28]   Ecommerce Account Manager — New York
+[2026-06-25 16:28]     10 results
+[2026-06-25 16:28]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Marketplace Manager Walmart Amazon — New York
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Ecommerce Operations Manager — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Ecommerce Operations Manager — New York
+[2026-06-25 16:29]     10 results
+[2026-06-25 16:29]   DTC Brand Manager — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   DTC Brand Manager — New York
+[2026-06-25 16:29]     10 results
+[2026-06-25 16:29]   Amazon Agency Account Manager — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Amazon Agency Account Manager — New York
+[2026-06-25 16:29]     10 results
+[2026-06-25 16:29]   Chief of Staff ecommerce — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Chief of Staff ecommerce — New York
+[2026-06-25 16:29]     1 results
+[2026-06-25 16:29]   Chief of Staff startup — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Chief of Staff startup — New York
+[2026-06-25 16:29]     3 results
+[2026-06-25 16:29]   Chief of Staff DTC — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Chief of Staff DTC — New York
+[2026-06-25 16:29]     2 results
+[2026-06-25 16:29]   Head of Operations DTC — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Head of Operations DTC — New York
+[2026-06-25 16:29]     10 results
+[2026-06-25 16:29]   Head of Operations ecommerce — Remote
+[2026-06-25 16:29]     0 results
+[2026-06-25 16:29]   Head of Operations ecommerce — New York
+[2026-06-25 16:30]     10 results
+[2026-06-25 16:30]   Director of Operations ecommerce — Remote
+[2026-06-25 16:30]     0 results
+[2026-06-25 16:30]   Director of Operations ecommerce — New York
+[2026-06-25 16:30]     10 results
+[2026-06-25 16:30]   EOS Integrator — Remote
+[2026-06-25 16:30]     0 results
+[2026-06-25 16:30]   EOS Integrator — New York
+[2026-06-25 16:30]     10 results
+[2026-06-25 16:30]   Fractional COO — Remote
+[2026-06-25 16:30]     0 results
+[2026-06-25 16:30]   Fractional COO — New York
+[2026-06-25 16:30]     10 results
+[2026-06-25 16:30]   VP Operations DTC — Remote
+[2026-06-25 16:30]     0 results
+[2026-06-25 16:30]   VP Operations DTC — New York
+[2026-06-25 16:30]     10 results
+[2026-06-25 16:30]   Business Operations Lead startup — Remote
+[2026-06-25 16:30]     0 results
+[2026-06-25 16:30]   Business Operations Lead startup — New York
+[2026-06-25 16:30]     9 results
+[2026-06-25 16:30]   Wrote 61 jobs to data/jobs.json (0 new)
+[2026-06-25 16:30] ── CONTACTS ─────────────────────────────
+[2026-06-25 16:30]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-06-25 16:30]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-06-25 16:30]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-06-25 16:30]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-06-25 16:30]     + Anibal Alvarado Dinelli — ECommerce Agency Owner @ 
+[2026-06-25 16:30]   site:linkedin.com/in "FBA agency" founder...
+[2026-06-25 16:30]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-06-25 16:31]     + Jeff O'Bryant — Founder & CEO @ Leap Stores @ 
+[2026-06-25 16:31]     + Craig Barnell — Co-Founder & COO @ Fishers Finery @ 
+[2026-06-25 16:31]     + Michael Giguere — Founder of Step by Step Sellers @ 
+[2026-06-25 16:31]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-06-25 16:31]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-06-25 16:31]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-25 16:31]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-25 16:31]   Added 4 contacts (total 92)
+[2026-06-25 16:31] ── DEPLOYING via GitLab ──────────────────
