@@ -224,7 +224,7 @@ def run_jobs():
             if not any(term in text_check for term in INDUSTRY_TERMS):
                 continue
             # Skip known dead/aggregator domains
-            DEAD_DOMAINS = ['railway.app', 'railway.com', 'frontendnode', 'jobleads.com']
+            DEAD_DOMAINS = ['railway.app', 'railway.com', 'frontendnode', 'jobleads.com', 'talent.com', 'jobilize.com', 'whatjobs.com', 'trabajo.org', 'learn4good.com', 'bebee.com', 'mediabistro.com', 'simplyhired.com', 'glassdoor.com/partner', 'ziprecruiter.com/k/']
             if any(d in (link or '') for d in DEAD_DOMAINS):
                 continue
             # Live URL check — skip 404s and broken domains
