@@ -2303,15 +2303,21 @@ function setJobFilter(kind,val,btn){
 function applyToJob(idx, resumeFile){
   var j = _jobs[idx];
   if(!j) return;
-  // Show modal with resume path + open apply URL in new tab
-  var msg = 'Tailored resume ready:\n\n' + resumeFile + '\n\nLocation on Mac Mini:\n~/job-search-agent/resumes/tailored/' + resumeFile + '\n\nClick OK to open the application page.';
-  if(confirm(msg)){
-    window.open(j.url, '_blank');
-    // Mark as applied automatically
-    if(confirm('Mark this job as Applied?')){
+  // 1. Open the job's apply page in a new tab
+  window.open(j.url, '_blank');
+  // 2. Trigger download of the tailored resume
+  var dl = document.createElement('a');
+  dl.href = 'resumes/tailored/' + resumeFile;
+  dl.download = j.company.replace(/[^a-z0-9]/gi,'_') + '_' + j.title.replace(/[^a-z0-9]/gi,'_').substring(0,40) + '.docx';
+  document.body.appendChild(dl);
+  dl.click();
+  document.body.removeChild(dl);
+  // 3. Ask to mark as applied
+  setTimeout(function(){
+    if(confirm('Resume downloaded.\n\nMark this job as Applied?')){
       setJobStage(idx, 'applied');
     }
-  }
+  }, 500);
 }
 
 function setJobStage(idx,stage){_jobs[idx].stage=stage;try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}

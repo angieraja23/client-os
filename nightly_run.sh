@@ -38,6 +38,10 @@ else
   echo "=== No changes: $(date) ===" >> "$LOG"
 fi
 
+# Copy tailored resumes into web-accessible folder
+mkdir -p ~/Projects/client-os/resumes/tailored
+cp -u ~/job-search-agent/resumes/tailored/*.docx ~/Projects/client-os/resumes/tailored/ 2>/dev/null || true
+
 # Always run tailor
 echo "--- Running tailor ---" >> "$LOG"
 ~/Projects/client-os/nightly_tailor.sh >> "$LOG" 2>&1
