@@ -5,7 +5,27 @@ Jobs:     SerpAPI Google Jobs → writes data/jobs.json (NEVER touches HTML)
 Contacts: SerpAPI Google X-Ray → writes to HTML SEED
 Run manually: python3 daily_refresh.py --force
 """
-import json, urllib.request, urllib.parse
+import json, urllib.request, urllib.parse, urllib.error
+
+def url_is_alive(u, timeout=5):
+    """Quick check that returns False for 404s and broken domains."""
+    if not u:
+        return False
+    try:
+        req = urllib.request.Request(u, method='HEAD', headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.status < 400
+    except urllib.error.HTTPError as e:
+        if e.code in (405, 403):
+            try:
+                req = urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(req, timeout=timeout) as r:
+                    return r.status < 400
+            except Exception:
+                return False
+        return False
+    except Exception:
+        return False
 import hashlib, os, re, subprocess, sys, time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -202,6 +222,13 @@ def run_jobs():
             if any(ex in text_check for ex in EXCLUDE_TERMS):
                 continue
             if not any(term in text_check for term in INDUSTRY_TERMS):
+                continue
+            # Skip known dead/aggregator domains
+            DEAD_DOMAINS = ['railway.app', 'railway.com', 'frontendnode', 'jobleads.com']
+            if any(d in (link or '') for d in DEAD_DOMAINS):
+                continue
+            # Live URL check — skip 404s and broken domains
+            if not url_is_alive(link):
                 continue
             # Parse salary and apply track-specific floor
             def parse_min_salary(sal_str):

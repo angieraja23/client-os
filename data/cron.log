@@ -3935,3 +3935,108 @@ ANTHROPIC_API_KEY=SET
 
 Scraper exit code: 0
 --- Committing and pushing ---
+[main 0936c89] Nightly auto-sync 2026-06-25
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 5 files changed, 218 insertions(+), 380 deletions(-)
+To https://gitlab.com/client-os/client-os.git
+   3ededc6..0936c89  main -> main
+To https://github.com/angieraja23/client-os.git
+   3ededc6..0936c89  main -> main
+Vercel CLI 54.10.2 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/409.1KB)
+Uploading [=====---------------] (116.0KB/409.1KB)
+Uploading [==========----------] (212.0KB/409.1KB)
+Uploading [===============-----] (314.3KB/409.1KB)
+Uploading [====================] (409.1KB/409.1KB)
+  Inspect     https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/6WEiyMkY1SmuM5No7A4UF68JdK6C
+▲ Production  https://client-acquisition-ftcred230-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-ftcred230-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+[2K[1A[2K[G▲ Production  https://client-acquisition-ftcred230-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased     https://clientos.angieraja.com
+
+✓ Ready in 5s
+=== Deployed: Thu Jun 25 16:47:21 EDT 2026 ===
+--- Running tailor ---
+=== Tailor started: Thu Jun 25 16:47:21 EDT 2026 ===
+Track: ops
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+Track: ops
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+Track: ops
+SKIP (already tailored): Chief of Staff at Gen Brands in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Startup Chief of Staff: Ops Leader for Founders (NY) at Reval
+Track: ops
+SKIP (already tailored): Chief of Staff to Tech Founder at Career Group in West New York, New Jersey at Disabledperson, Inc
+Track: ops
+SKIP (already tailored): Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Track: amazon
+SKIP (already tailored): Ecommerce Operations Manager Fulfillment & Logistics Lead at JC OUTDOOR international
+Track: amazon
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Track: amazon
+SKIP (already tailored): Sr. Resourcing Operations Manager at MKG Productions, LLC
+Track: amazon
+SKIP (already tailored): Court Operations Lead - Remote-First, Data-Driven Leader at Steno Agency, Inc.
+Track: ops
+SKIP (already tailored): Operations Manager: Lead Growth & Scale - 50k + Bonus at Universal Business Team
+Track: ops
+SKIP (already tailored): Logistics Operations Project Manager at Fluidstack
+Track: ops
+SKIP (already tailored): Manager, Enrollment Fulfillment Operations at New York Life
+Track: amazon
+SKIP (already tailored): Ecommerce Manager at Zachys Wine & Liquor
+Track: amazon
+SKIP (already tailored): Senior Amazon Brand Manager — Remote, Revenue Share at GNO Partners
+Track: amazon
+SKIP (already tailored): Amazon Brand Manager at Cartograph
+Track: amazon
+SKIP (already tailored): Remote Senior Amazon Brand Manager - High-Impact Growth at Scale Jet
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at SBH Fashion
+Track: amazon
+SKIP (already tailored): Temp eCommerce Listings & Product Optimization at Dormont Manufacturing Company
+Track: amazon
+SKIP (already tailored): Luxury Brand Ecommerce Project Manager | Global Logistics at VISEO - Spain
+Track: amazon
+SKIP (already tailored): Ecommerce Brand Manager, Specialty Skincare at Church and Dwight Co Inc
+Track: amazon
+SKIP (already tailored): Ecommerce Marketplace Manager at Universal Perfumes & Cosmetics
+Track: amazon
+SKIP (already tailored): Luxury Omnichannel Operations Lead for DTC at KHAITE
+Track: amazon
+SKIP (already tailored): Director - DTC Partner Operations, MS at Versant Media, LLC
+Track: amazon
+SKIP (already tailored): Director of Customer Operations - Fast Growing DTC Brand Supplements 35 at MNY Ventures
+Track: amazon
+SKIP (already tailored): Integrated Marketing Manager - High Growth DTC Brand 35 at MNY Ventures
+Track: amazon
+SKIP (already tailored): Client Account Manager, Digital Accounts at Amsive
+Track: amazon
+SKIP (already tailored): Senior Account Manager - Contract / Remote at Direct Agents
+Track: ops
+SKIP (already tailored): Head of Business Operations for DTC E-commerce Brand Remote, US-Based at Paired Inc
+Track: ops
+SKIP (already tailored): DTC Performance & Growth Marketing Manager at Blueair North America
+=== Tailor complete: 30 tailored, 0 failed at Thu Jun 25 16:50:54 EDT 2026 ===
+=== Run finished: Thu Jun 25 16:50:54 EDT 2026 ===
