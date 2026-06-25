@@ -197,6 +197,16 @@ def run_jobs():
     for q in JOB_QUERIES:
         searches.append((q, '', 'Remote', CHIPS + ',work_from_home:1'))
         searches.append((q, 'New York,NY', 'New York', CHIPS))
+    # Priority agency searches — surface jobs at target companies directly
+    PRIORITY_AGENCY_QUERIES = [
+        'Front Row Amazon account manager',
+        'Podean account manager',
+        'Pattern Amazon brand manager',
+        'Tinuiti Amazon manager',
+        'Darkroom Amazon manager',
+    ]
+    for q in PRIORITY_AGENCY_QUERIES:
+        searches.append((q, '', 'Remote', CHIPS + ',work_from_home:1'))
 
     for query, location, loc_label, chips in searches:
         log(f"  {query} — {loc_label}")

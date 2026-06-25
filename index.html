@@ -2120,7 +2120,9 @@ function renderJobs() {
     var msrc = !srcF || (j.source||'').indexOf(srcF) > -1;
     var trkF = window._jobTrackFilter || '';
     var mtrk = !trkF || j.track === trkF;
-    return mq && ms && msrc && mtrk;
+    // When no stage filter is active (All view), hide jobs already moved to applied/interviewing/offer
+    var hideApplied = !_jobFilter && ['applied','interviewing','offer'].indexOf(j.stage) > -1;
+    return mq && ms && msrc && mtrk && !hideApplied;
   });
   var wrap = document.getElementById('job-list-wrap');
   if (!wrap) return;
