@@ -11,7 +11,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   },
   {
     "id": "325d1e2e0208",
@@ -25,7 +26,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   },
   {
     "id": "ea5a48603301",
@@ -39,7 +41,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   },
   {
     "id": "d496830c59d4",
@@ -53,7 +56,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "151b94c1ae0b",
@@ -67,7 +71,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "cc58337098c5",
@@ -81,7 +86,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   },
   {
     "id": "7b65085b54f2",
@@ -95,7 +101,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   },
   {
     "id": "f4d5e092798c",
@@ -109,7 +116,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-23",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "50acb90c20a9",
@@ -123,7 +131,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-24",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": true
   },
   {
     "id": "83b8ed2b3fd3",
@@ -137,7 +146,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-24",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "922464ee4876",
@@ -151,7 +161,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-24",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "e79fbc7cf8e4",
@@ -165,7 +176,8 @@
     "stage": "spotted",
     "dateFound": "2026-06-24",
     "notes": [],
-    "track": "amazon"
+    "track": "amazon",
+    "priority": false
   },
   {
     "id": "ba6579e32687",
@@ -179,6 +191,7 @@
     "stage": "spotted",
     "dateFound": "2026-06-24",
     "notes": [],
-    "track": "ops"
+    "track": "ops",
+    "priority": false
   }
 ]

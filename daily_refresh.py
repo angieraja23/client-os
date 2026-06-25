@@ -74,6 +74,18 @@ def get_track(query):
 
 # Salary floor (in thousands): remote min, NY min
 SALARY_REMOTE_MIN = 50
+
+# Priority agencies — surface these to the top of the dashboard
+PRIORITY_COMPANIES = [
+    'front row', 'podean', 'salesduo', 'levanta', 'darkroom', 'my amazon guy',
+    'luminize', 'amz advisers', 'pattern', 'cartograph', 'gno partners',
+    'avenue7media', 'thrasio', 'acquco', 'kaspien', 'envision horizons',
+    'tinuiti', 'blue wheel', 'channel key', 'bobsled marketing', 'orca pacific',
+    'nuanced media', 'eshopportunity', 'sunken stone', 'the hawkers club'
+]
+
+def is_priority(company):
+    return any(pc in (company or '').lower() for pc in PRIORITY_COMPANIES)
 SALARY_NY_MIN = 70
 
 CONTACT_SEARCHES = [
@@ -256,6 +268,7 @@ def run_jobs():
                 'location': loc, 'salary': salary, 'url': link,
                 'source': qa if qa else (via or 'Google Jobs'),
                 'query': query, 'track': get_track(query), 'stage': 'spotted',
+                'priority': is_priority(company),
                 'dateFound': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
                 'notes': []
             })

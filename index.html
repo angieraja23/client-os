@@ -2107,7 +2107,12 @@ function filterJobs(stage, btn) {
 function renderJobs() {
   var q = document.getElementById('search') ? document.getElementById('search').value.toLowerCase() : '';
   // Sort jobs by dateFound, newest first
-  _jobs.sort(function(a,b){return (b.dateFound||'').localeCompare(a.dateFound||'');});
+  _jobs.sort(function(a,b){
+    // Priority jobs first, then by date
+    if(a.priority && !b.priority) return -1;
+    if(!a.priority && b.priority) return 1;
+    return (b.dateFound||'').localeCompare(a.dateFound||'');
+  });
   var srcF = window._jobSourceFilter || '';
   var list = _jobs.filter(function(j) {
     var mq = !q || (j.title + j.company + j.location).toLowerCase().indexOf(q) > -1;
@@ -2146,7 +2151,8 @@ function renderJobs() {
     var trackBadge = '';
     if (j.track === 'amazon') trackBadge = '<span style="background:#3b82f6;color:#fff;padding:2px 7px;border-radius:8px;font-size:9px;font-weight:700;letter-spacing:0.3px">AMAZON</span>';
     else if (j.track === 'ops') trackBadge = '<span style="background:#7c3aed;color:#fff;padding:2px 7px;border-radius:8px;font-size:9px;font-weight:700;letter-spacing:0.3px">OPS</span>';
-    var badgeRow = (trackBadge || newBadge) ? '<div style="display:flex;gap:6px;margin-bottom:4px;align-items:center">' + trackBadge + newBadge + '</div>' : '';
+    var priBadge = j.priority ? '<span style="background:#fbbf24;color:#000;padding:2px 7px;border-radius:8px;font-size:9px;font-weight:700;letter-spacing:0.3px">★ TARGET</span>' : '';
+    var badgeRow = (trackBadge || newBadge || priBadge) ? '<div style="display:flex;gap:6px;margin-bottom:4px;align-items:center">' + priBadge + trackBadge + newBadge + '</div>' : '';
     html += '<div style="min-width:0;flex:0 1 auto">' + badgeRow + '<div class="contact-name" style="white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:280px">' + j.title + '</div>';
     html += '<div class="contact-sub">' + j.company + (j.location ? ' &middot; ' + j.location : '') + dateText + '</div></div>';
     var srcTag = isLI ? '<span style="background:rgba(10,102,194,.15);color:#60a5fa;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">LinkedIn</span>' : isIN ? '<span style="background:rgba(0,58,155,.15);color:#93c5fd;padding:2px 6px;border-radius:8px;font-size:10px;white-space:nowrap">Indeed</span>' : '';
