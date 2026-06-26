@@ -45,4 +45,7 @@ cp -u ~/job-search-agent/resumes/tailored/*.docx ~/Projects/client-os/resumes/ta
 # Always run tailor
 echo "--- Running tailor ---" >> "$LOG"
 ~/Projects/client-os/nightly_tailor.sh >> "$LOG" 2>&1
+# Send morning digest to Telegram
+/usr/bin/python3 ~/Projects/client-os/morning_digest.py >> "$LOG" 2>&1
+echo "=== Digest sent ===" >> "$LOG"
 echo "=== Run finished: $(date) ===" >> "$LOG"

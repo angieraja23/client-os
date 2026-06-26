@@ -66,7 +66,19 @@ OPS_QUERIES = [
     'Business Operations Lead startup',
 ]
 
-JOB_QUERIES = AMAZON_QUERIES + OPS_QUERIES
+# Role-pattern queries — match the ideal job shape (agency, client portfolio, Seller Central)
+PATTERN_QUERIES = [
+    'Amazon Account Manager agency client portfolio',
+    'Amazon Brand Manager Seller Central agency',
+    'Marketplace Account Manager consumer brands',
+    'Ecommerce Account Manager client facing Amazon',
+    'Amazon Account Director agency',
+    'Senior Account Manager Amazon marketplace agency',
+    'Brand Strategy Manager Amazon ecommerce',
+    'Client Success Manager Amazon agency',
+]
+
+JOB_QUERIES = AMAZON_QUERIES + OPS_QUERIES + PATTERN_QUERIES
 
 # Track classifier
 def get_track(query):
@@ -84,8 +96,19 @@ PRIORITY_COMPANIES = [
     'nuanced media', 'eshopportunity', 'sunken stone', 'the hawkers club'
 ]
 
-def is_priority(company):
-    return any(pc in (company or '').lower() for pc in PRIORITY_COMPANIES)
+# Words that signal an agency / marketplace-management role (your ideal job shape)
+AGENCY_SIGNALS = ['agency', 'partners', 'marketplace', 'consulting', 'commerce', 'collective', 'consultancy']
+
+def is_priority(company, title=''):
+    c = (company or '').lower()
+    t = (title or '').lower()
+    if any(pc in c for pc in PRIORITY_COMPANIES):
+        return True
+    if any(sig in c for sig in AGENCY_SIGNALS):
+        return True
+    if ('account manager' in t or 'account director' in t or 'brand manager' in t) and ('amazon' in t or 'ecommerce' in t or 'marketplace' in t or 'brand' in t):
+        return True
+    return False
 SALARY_NY_MIN = 70
 
 CONTACT_SEARCHES = [
@@ -197,16 +220,6 @@ def run_jobs():
     for q in JOB_QUERIES:
         searches.append((q, '', 'Remote', CHIPS + ',work_from_home:1'))
         searches.append((q, 'New York,NY', 'New York', CHIPS))
-    # Priority agency searches — surface jobs at target companies directly
-    PRIORITY_AGENCY_QUERIES = [
-        'Front Row Amazon account manager',
-        'Podean account manager',
-        'Pattern Amazon brand manager',
-        'Tinuiti Amazon manager',
-        'Darkroom Amazon manager',
-    ]
-    for q in PRIORITY_AGENCY_QUERIES:
-        searches.append((q, '', 'Remote', CHIPS + ',work_from_home:1'))
 
     for query, location, loc_label, chips in searches:
         log(f"  {query} — {loc_label}")
@@ -264,21 +277,19 @@ def run_jobs():
 
             is_remote = 'remote' in (loc or '').lower() or 'remote' in title.lower() or 'anywhere' in (loc or '').lower()
             min_sal_k = parse_min_salary(salary)
-            # If salary listed, enforce floor
+            # Soft salary filter: only reject jobs that EXPLICITLY list pay below floor.
+            # Jobs with no disclosed salary are kept (most legit agency jobs don't publish it).
             if min_sal_k is not None:
                 floor = SALARY_REMOTE_MIN if is_remote else SALARY_NY_MIN
                 if min_sal_k < floor:
                     continue
-            # If no salary listed, skip (hard rule from user)
-            else:
-                continue
 
             existing.append({
                 'id': jid, 'title': title, 'company': company,
                 'location': loc, 'salary': salary, 'url': link,
                 'source': qa if qa else (via or 'Google Jobs'),
                 'query': query, 'track': get_track(query), 'stage': 'spotted',
-                'priority': is_priority(company),
+                'priority': is_priority(company, title),
                 'dateFound': datetime.now(timezone.utc).strftime('%Y-%m-%d'),
                 'notes': []
             })
@@ -398,7 +409,10 @@ def main():
     log("=" * 50)
     log("Client Acquisition OS — Weekly Refresh")
     changed = run_jobs()
-    changed = run_contacts() or changed
+    # Contacts only run on Mondays (weekday 0) to save SerpAPI budget
+    from datetime import datetime as _dt
+    if _dt.now().weekday() == 0:
+        changed = run_contacts() or changed
     if changed: deploy()
     else: log("Nothing new — skipping deploy")
     log("Done.\n")

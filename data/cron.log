@@ -4177,3 +4177,223 @@ ANTHROPIC_API_KEY=SET
 
 Scraper exit code: 0
 --- Committing and pushing ---
+[main 88d6b49] Nightly auto-sync 2026-06-26
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 267 insertions(+), 1 deletion(-)
+failed to store: -61
+To https://gitlab.com/client-os/client-os.git
+   1e9da22..88d6b49  main -> main
+To https://github.com/angieraja23/client-os.git
+   1e9da22..88d6b49  main -> main
+Vercel CLI 54.10.2 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/529.6KB)
+Uploading [=====---------------] (137.5KB/529.6KB)
+Uploading [==========----------] (267.0KB/529.6KB)
+Uploading [===============-----] (411.0KB/529.6KB)
+Uploading [====================] (529.6KB/529.6KB)
+  Inspect     https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/Cg4NVZxBjhMLwkVaAvqmjtFmQBVD
+▲ Production  https://client-acquisition-eiwxwk61c-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-eiwxwk61c-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 82 deployment files...
+Running "vercel build"
+Vercel CLI 54.17.2
+Build Completed in /vercel/output [119ms]
+Deploying outputs...
+[2K[1A[2K[G▲ Production  https://client-acquisition-eiwxwk61c-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased     https://clientos.angieraja.com
+
+✓ Ready in 7s
+=== Deployed: Fri Jun 26 03:05:13 EDT 2026 ===
+--- Running tailor ---
+=== Tailor started: Fri Jun 26 03:05:13 EDT 2026 ===
+Track: ops
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+Track: ops
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+Track: ops
+SKIP (already tailored): Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Track: amazon
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Track: amazon
+SKIP (already tailored): Sr. Resourcing Operations Manager at MKG Productions, LLC
+Track: ops
+SKIP (already tailored): Logistics Operations Project Manager at Fluidstack
+Track: ops
+SKIP (already tailored): Manager, Enrollment Fulfillment Operations at New York Life
+Track: amazon
+SKIP (already tailored): Ecommerce Manager at Zachys Wine & Liquor
+Track: amazon
+SKIP (already tailored): Amazon Brand Manager at Cartograph
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at SBH Fashion
+Track: amazon
+SKIP (already tailored): Ecommerce Marketplace Manager at Universal Perfumes & Cosmetics
+Track: amazon
+SKIP (already tailored): Client Account Manager, Digital Accounts at Amsive
+Track: ops
+SKIP (already tailored): DTC Performance & Growth Marketing Manager at Blueair North America
+=== Tailor complete: 13 tailored, 0 failed at Fri Jun 26 03:06:47 EDT 2026 ===
+=== Digest sent ===
+=== Run finished: Fri Jun 26 03:06:48 EDT 2026 ===
+=== Run started: Fri Jun 26 17:17:29 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=SET
+GITHUB_TOKEN=SET
+ANTHROPIC_API_KEY=SET
+--- Running scraper ---
+[2026-06-26 17:17] ==================================================
+[2026-06-26 17:17] Client Acquisition OS — Weekly Refresh
+[2026-06-26 17:17] ── JOBS ─────────────────────────────────
+[2026-06-26 17:17]   Amazon Account Manager — Remote
+[2026-06-26 17:17]     0 results
+[2026-06-26 17:17]   Amazon Account Manager — New York
+[2026-06-26 17:17]     10 results
+[2026-06-26 17:17]     + AWS Sr. Enterprise Account Manager, Automotive & Manufacturing @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:17]   Amazon Brand Manager — Remote
+[2026-06-26 17:17]     0 results
+[2026-06-26 17:17]   Amazon Brand Manager — New York
+[2026-06-26 17:18]   SerpAPI error: The read operation timed out
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Senior Amazon Brand Manager — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Senior Amazon Brand Manager — New York
+[2026-06-26 17:18]     10 results
+[2026-06-26 17:18]     + Senior Amazon Brand Manager @ GNO Partners (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]     + Campaign & Creative Manager, Campaign & Creative Management, Amazon @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]     + Sr. Marketing Manager, Engagement, WW Amazon Flex, Amazon Flex @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]     + Director, Amazon @ Nécessaire, Inc. (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]   Amazon Marketplace Manager — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Amazon Marketplace Manager — New York
+[2026-06-26 17:18]     10 results
+[2026-06-26 17:18]     + Amazon & Marketplace Account Growth Manager @ The PCA Group (Babylon, NY)
+[2026-06-26 17:18]     + Remote Amazon Marketplace Manager at Foxelli Group Remote @ Foxelli Group (BETHEL, WA)
+[2026-06-26 17:18]   Ecommerce Brand Manager — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Ecommerce Brand Manager — New York
+[2026-06-26 17:18]     10 results
+[2026-06-26 17:18]     + E-commerce Growth Manager @ BURDLIFE (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]     + Marketplace Manager @ PetsWorld Inc (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]   Ecommerce Account Manager — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Ecommerce Account Manager — New York
+[2026-06-26 17:18]     10 results
+[2026-06-26 17:18]     + TikTok Shop Account Manager @ KAMP Agency (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]     + Sales Account Manager, US LCS, Consumer Electronics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:18]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Marketplace Manager Walmart Amazon — New York
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Ecommerce Operations Manager — Remote
+[2026-06-26 17:18]     0 results
+[2026-06-26 17:18]   Ecommerce Operations Manager — New York
+[2026-06-26 17:19]     10 results
+[2026-06-26 17:19]     + Director of Operations — Digital & Ecommerce @ Maxima Apparel (Westbury, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:19]     + Senior Manager, Ecommerce @ SBH Fashion (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:19]   DTC Brand Manager — Remote
+[2026-06-26 17:19]     0 results
+[2026-06-26 17:19]   DTC Brand Manager — New York
+[2026-06-26 17:19]     10 results
+[2026-06-26 17:19]   Amazon Agency Account Manager — Remote
+[2026-06-26 17:19]     0 results
+[2026-06-26 17:19]   Amazon Agency Account Manager — New York
+[2026-06-26 17:19]     10 results
+[2026-06-26 17:19]     + Sales Account Manager, LCS Acquisitions @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:19]   Chief of Staff ecommerce — Remote
+[2026-06-26 17:19]     0 results
+[2026-06-26 17:19]   Chief of Staff ecommerce — New York
+[2026-06-26 17:19]     1 results
+[2026-06-26 17:19]   Chief of Staff startup — Remote
+[2026-06-26 17:19]     0 results
+[2026-06-26 17:19]   Chief of Staff startup — New York
+[2026-06-26 17:19]     3 results
+[2026-06-26 17:19]     + Chief of Staff - AI-native startup is rewiring a trillion-dollar consumer industry @ Big Wave Digital (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:19]   Chief of Staff DTC — Remote
+[2026-06-26 17:19]     0 results
+[2026-06-26 17:20]   Chief of Staff DTC — New York
+[2026-06-26 17:20]     1 results
+[2026-06-26 17:20]   Head of Operations DTC — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   Head of Operations DTC — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]   Head of Operations ecommerce — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   Head of Operations ecommerce — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]   Director of Operations ecommerce — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   Director of Operations ecommerce — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]   EOS Integrator — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   EOS Integrator — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]     + COO/EOS Integrator @ CBIZ Talent Solutions (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:20]   Fractional COO — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   Fractional COO — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]   VP Operations DTC — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   VP Operations DTC — New York
+[2026-06-26 17:20]     10 results
+[2026-06-26 17:20]   Business Operations Lead startup — Remote
+[2026-06-26 17:20]     0 results
+[2026-06-26 17:20]   Business Operations Lead startup — New York
+[2026-06-26 17:21]     10 results
+[2026-06-26 17:21]     + Office Operations at Series B AI Startup @ Bloom Talent (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:21]     + Office & Operations Lead — Startup NYC (Equity) @ The Talent Post (New York, NY)
+[2026-06-26 17:21]   Amazon Account Manager agency client portfolio — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Amazon Account Manager agency client portfolio — New York
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Amazon Brand Manager Seller Central agency — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Amazon Brand Manager Seller Central agency — New York
+[2026-06-26 17:21]     6 results
+[2026-06-26 17:21]   Marketplace Account Manager consumer brands — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Marketplace Account Manager consumer brands — New York
+[2026-06-26 17:21]     1 results
+[2026-06-26 17:21]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Ecommerce Account Manager client facing Amazon — New York
+[2026-06-26 17:21]     3 results
+[2026-06-26 17:21]     + Jr. Amazon Account Coordinator @ Tiide Commerce (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-26 17:21]   Amazon Account Director agency — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Amazon Account Director agency — New York
+[2026-06-26 17:21]     5 results
+[2026-06-26 17:21]     + Amazon Account Coordinator - Affiliate Marketing Agency @ Ikon Digital Media (Anywhere) [LinkedIn · Easy Apply]
+[2026-06-26 17:21]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-06-26 17:21]     0 results
+[2026-06-26 17:21]   Senior Account Manager Amazon marketplace agency — New York
+[2026-06-26 17:21]     7 results
+[2026-06-26 17:21]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-06-26 17:22]     0 results
+[2026-06-26 17:22]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-06-26 17:22]     10 results
+[2026-06-26 17:22]     + Manager, Amazon - Origins @ DECIEM | THE ABNORMAL BEAUTY COMPANY (New York, NY) [LinkedIn · Easy Apply]
+[2026-06-26 17:22]   Client Success Manager Amazon agency — Remote
+[2026-06-26 17:22]     0 results
+[2026-06-26 17:22]   Client Success Manager Amazon agency — New York

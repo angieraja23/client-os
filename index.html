@@ -2328,7 +2328,7 @@ function applyToJob(idx, resumeFile){
   }, 500);
 }
 
-function setJobStage(idx,stage){_jobs[idx].stage=stage;try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}
+function setJobStage(idx,stage){_jobs[idx].stage=stage;if(stage==='applied'&&!_jobs[idx].appliedDate){_jobs[idx].appliedDate=new Date().toISOString().split('T')[0];}try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}renderJobs();openJobDrawer(idx);}
 function saveJobNote(idx){var v=document.getElementById('job-note-box').value.trim();if(!v)return;_jobs[idx].notes=_jobs[idx].notes||[];_jobs[idx].notes.unshift({text:v,date:new Date().toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})});try{localStorage.setItem('caos_jobs_stages',JSON.stringify(_jobs.map(function(j){return{id:j.id,stage:j.stage,notes:j.notes};})));}catch(e){}openJobDrawer(idx);}
 
 </script>
