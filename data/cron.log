@@ -4397,3 +4397,29 @@ ANTHROPIC_API_KEY=SET
 [2026-06-26 17:22]   Client Success Manager Amazon agency — Remote
 [2026-06-26 17:22]     0 results
 [2026-06-26 17:22]   Client Success Manager Amazon agency — New York
+[main 921301d] Weekly refresh 2026-06-26
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 9 files changed, 831 insertions(+), 21 deletions(-)
+ create mode 100644 followup_nudge.py
+ create mode 100644 morning_digest.py
+[2026-06-26 17:22]     10 results
+[2026-06-26 17:22]   Wrote 34 jobs to data/jobs.json (21 new)
+[2026-06-26 17:22] ── DEPLOYING via GitLab ──────────────────
+[2026-06-26 17:22]   Pushed to GitLab
+[2026-06-26 17:22]   Deployed to Vercel
+[2026-06-26 17:22] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
