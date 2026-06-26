@@ -4040,3 +4040,140 @@ Track: ops
 SKIP (already tailored): DTC Performance & Growth Marketing Manager at Blueair North America
 === Tailor complete: 30 tailored, 0 failed at Thu Jun 25 16:50:54 EDT 2026 ===
 === Run finished: Thu Jun 25 16:50:54 EDT 2026 ===
+=== Run started: Fri Jun 26 03:00:01 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=SET
+GITHUB_TOKEN=SET
+ANTHROPIC_API_KEY=SET
+--- Running scraper ---
+[2026-06-26 03:00] ==================================================
+[2026-06-26 03:00] Client Acquisition OS — Weekly Refresh
+[2026-06-26 03:00] ── JOBS ─────────────────────────────────
+[2026-06-26 03:00]   Amazon Account Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Amazon Account Manager — New York
+[2026-06-26 03:00]     10 results
+[2026-06-26 03:00]   Amazon Brand Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Amazon Brand Manager — New York
+[2026-06-26 03:00]     10 results
+[2026-06-26 03:00]   Senior Amazon Brand Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Senior Amazon Brand Manager — New York
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Amazon Marketplace Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Amazon Marketplace Manager — New York
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Ecommerce Brand Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Ecommerce Brand Manager — New York
+[2026-06-26 03:00]     10 results
+[2026-06-26 03:00]   Ecommerce Account Manager — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Ecommerce Account Manager — New York
+[2026-06-26 03:00]     10 results
+[2026-06-26 03:00]   Marketplace Manager Walmart Amazon — Remote
+[2026-06-26 03:00]     0 results
+[2026-06-26 03:00]   Marketplace Manager Walmart Amazon — New York
+[2026-06-26 03:00]     8 results
+[2026-06-26 03:00]   Ecommerce Operations Manager — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   Ecommerce Operations Manager — New York
+[2026-06-26 03:01]     10 results
+[2026-06-26 03:01]   DTC Brand Manager — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   DTC Brand Manager — New York
+[2026-06-26 03:01]     10 results
+[2026-06-26 03:01]   Amazon Agency Account Manager — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   Amazon Agency Account Manager — New York
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   Chief of Staff ecommerce — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   Chief of Staff ecommerce — New York
+[2026-06-26 03:01]     2 results
+[2026-06-26 03:01]   Chief of Staff startup — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:01]   Chief of Staff startup — New York
+[2026-06-26 03:01]     2 results
+[2026-06-26 03:01]   Chief of Staff DTC — Remote
+[2026-06-26 03:01]     0 results
+[2026-06-26 03:02]   Chief of Staff DTC — New York
+[2026-06-26 03:02]     1 results
+[2026-06-26 03:02]   Head of Operations DTC — Remote
+[2026-06-26 03:02]     0 results
+[2026-06-26 03:02]   Head of Operations DTC — New York
+[2026-06-26 03:02]     10 results
+[2026-06-26 03:02]   Head of Operations ecommerce — Remote
+[2026-06-26 03:02]     0 results
+[2026-06-26 03:02]   Head of Operations ecommerce — New York
+[2026-06-26 03:02]     10 results
+[2026-06-26 03:02]   Director of Operations ecommerce — Remote
+[2026-06-26 03:02]     0 results
+[2026-06-26 03:02]   Director of Operations ecommerce — New York
+[2026-06-26 03:02]     10 results
+[2026-06-26 03:02]   EOS Integrator — Remote
+[2026-06-26 03:02]     0 results
+[2026-06-26 03:02]   EOS Integrator — New York
+[2026-06-26 03:02]     10 results
+[2026-06-26 03:02]   Fractional COO — Remote
+[2026-06-26 03:02]     0 results
+[2026-06-26 03:02]   Fractional COO — New York
+[2026-06-26 03:03]     10 results
+[2026-06-26 03:03]   VP Operations DTC — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   VP Operations DTC — New York
+[2026-06-26 03:03]     10 results
+[2026-06-26 03:03]   Business Operations Lead startup — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Business Operations Lead startup — New York
+[2026-06-26 03:03]     9 results
+[2026-06-26 03:03]   Amazon Account Manager agency client portfolio — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Amazon Account Manager agency client portfolio — New York
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Amazon Brand Manager Seller Central agency — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Amazon Brand Manager Seller Central agency — New York
+[2026-06-26 03:03]     5 results
+[2026-06-26 03:03]   Marketplace Account Manager consumer brands — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Marketplace Account Manager consumer brands — New York
+[2026-06-26 03:03]     1 results
+[2026-06-26 03:03]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-06-26 03:03]     0 results
+[2026-06-26 03:03]   Ecommerce Account Manager client facing Amazon — New York
+[2026-06-26 03:04]     3 results
+[2026-06-26 03:04]   Amazon Account Director agency — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Amazon Account Director agency — New York
+[2026-06-26 03:04]     6 results
+[2026-06-26 03:04]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Senior Account Manager Amazon marketplace agency — New York
+[2026-06-26 03:04]     5 results
+[2026-06-26 03:04]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-06-26 03:04]     10 results
+[2026-06-26 03:04]   Client Success Manager Amazon agency — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Client Success Manager Amazon agency — New York
+[2026-06-26 03:04]     9 results
+[2026-06-26 03:04]   Front Row Amazon account manager — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Podean account manager — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Pattern Amazon brand manager — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Tinuiti Amazon manager — Remote
+[2026-06-26 03:04]     0 results
+[2026-06-26 03:04]   Darkroom Amazon manager — Remote
+[2026-06-26 03:05]     0 results
+[2026-06-26 03:05]   Wrote 13 jobs to data/jobs.json (0 new)
+[2026-06-26 03:05] Nothing new — skipping deploy
+[2026-06-26 03:05] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
