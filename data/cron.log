@@ -4942,3 +4942,31 @@ ANTHROPIC_API_KEY=SET
 [2026-06-29 03:08]   site:linkedin.com/in "amazon brand" founder operations...
 [2026-06-29 03:08]   site:linkedin.com/in "amazon marketing agency" founder...
 [2026-06-29 03:09]     + Yuvrajsinh Bhadoriya — Co-Founder, Amazon Growth ... @ 
+[main 0e7d713] Weekly refresh 2026-06-29
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 897 insertions(+), 2 deletions(-)
+[2026-06-29 03:09]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-06-29 03:09]     + Contact — Founder-Operator at Sendegaro @ Shopify Growth ...
+[2026-06-29 03:09]     + Christopher Deck — Founder/CEO @ Deck Commerce
+[2026-06-29 03:09]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-06-29 03:09]     + Eli Coen — CEO at Lero @ Amazon Dude
+[2026-06-29 03:09]   Added 7 contacts (total 99)
+[2026-06-29 03:09] ── DEPLOYING via GitLab ──────────────────
+[2026-06-29 03:09]   Pushed to GitLab
+[2026-06-29 03:09]   Deployed to Vercel
+[2026-06-29 03:09] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
