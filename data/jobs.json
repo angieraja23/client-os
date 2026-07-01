@@ -643,5 +643,50 @@
     "priority": true,
     "dateFound": "2026-06-29",
     "notes": []
+  },
+  {
+    "id": "c966151c0b06",
+    "title": "AWS Account Manager, FSI",
+    "company": "Amazon Web Services (AWS)",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://www.linkedin.com/jobs/view/aws-account-manager-fsi-at-amazon-web-services-aws-4435337910?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "source": "LinkedIn \u00b7 Easy Apply",
+    "query": "Amazon Agency Account Manager",
+    "track": "amazon",
+    "stage": "spotted",
+    "priority": false,
+    "dateFound": "2026-07-01",
+    "notes": []
+  },
+  {
+    "id": "fee0237b35f8",
+    "title": "Sr. Account Manager-RRT, Startups",
+    "company": "Amazon Web Services (AWS)",
+    "location": "New York, NY",
+    "salary": "",
+    "url": "https://www.linkedin.com/jobs/view/sr-account-manager-rrt-startups-at-amazon-web-services-aws-4434412351?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "source": "LinkedIn \u00b7 Easy Apply",
+    "query": "Amazon Agency Account Manager",
+    "track": "amazon",
+    "stage": "spotted",
+    "priority": false,
+    "dateFound": "2026-07-01",
+    "notes": []
+  },
+  {
+    "id": "cbc558fb97b7",
+    "title": "Amazon Specialist",
+    "company": "My Amazon Guy",
+    "location": "Anywhere",
+    "salary": "",
+    "url": "https://builtin.com/job/amazon-specialist/9902348?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "source": "Built In",
+    "query": "Senior Account Manager Amazon marketplace agency",
+    "track": "ops",
+    "stage": "spotted",
+    "priority": true,
+    "dateFound": "2026-07-01",
+    "notes": []
   }
 ]

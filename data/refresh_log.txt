@@ -2345,3 +2345,124 @@ test
 [2026-06-29 03:09]   Deployed to Vercel
 [2026-06-29 03:09] Done.
 
+[2026-07-01 03:00] ==================================================
+[2026-07-01 03:00] Client Acquisition OS — Weekly Refresh
+[2026-07-01 03:00] ── JOBS ─────────────────────────────────
+[2026-07-01 03:00]   Amazon Account Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Amazon Account Manager — New York
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Amazon Brand Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Amazon Brand Manager — New York
+[2026-07-01 03:00]     10 results
+[2026-07-01 03:00]   Senior Amazon Brand Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Senior Amazon Brand Manager — New York
+[2026-07-01 03:00]     10 results
+[2026-07-01 03:00]   Amazon Marketplace Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Amazon Marketplace Manager — New York
+[2026-07-01 03:00]     10 results
+[2026-07-01 03:00]   Ecommerce Brand Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Ecommerce Brand Manager — New York
+[2026-07-01 03:00]     10 results
+[2026-07-01 03:00]   Ecommerce Account Manager — Remote
+[2026-07-01 03:00]     0 results
+[2026-07-01 03:00]   Ecommerce Account Manager — New York
+[2026-07-01 03:01]     10 results
+[2026-07-01 03:01]   Marketplace Manager Walmart Amazon — Remote
+[2026-07-01 03:01]     0 results
+[2026-07-01 03:01]   Marketplace Manager Walmart Amazon — New York
+[2026-07-01 03:01]   SerpAPI error: The read operation timed out
+[2026-07-01 03:01]     0 results
+[2026-07-01 03:01]   Ecommerce Operations Manager — Remote
+[2026-07-01 03:01]     0 results
+[2026-07-01 03:01]   Ecommerce Operations Manager — New York
+[2026-07-01 03:01]     10 results
+[2026-07-01 03:01]   DTC Brand Manager — Remote
+[2026-07-01 03:01]     0 results
+[2026-07-01 03:01]   DTC Brand Manager — New York
+[2026-07-01 03:01]     10 results
+[2026-07-01 03:01]   Amazon Agency Account Manager — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Amazon Agency Account Manager — New York
+[2026-07-01 03:02]     10 results
+[2026-07-01 03:02]     + AWS Account Manager, FSI @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-01 03:02]     + Sr. Account Manager-RRT, Startups @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-01 03:02]   Chief of Staff ecommerce — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Chief of Staff ecommerce — New York
+[2026-07-01 03:02]     2 results
+[2026-07-01 03:02]   Chief of Staff startup — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Chief of Staff startup — New York
+[2026-07-01 03:02]     3 results
+[2026-07-01 03:02]   Chief of Staff DTC — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Chief of Staff DTC — New York
+[2026-07-01 03:02]     1 results
+[2026-07-01 03:02]   Head of Operations DTC — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Head of Operations DTC — New York
+[2026-07-01 03:02]     10 results
+[2026-07-01 03:02]   Head of Operations ecommerce — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Head of Operations ecommerce — New York
+[2026-07-01 03:02]     10 results
+[2026-07-01 03:02]   Director of Operations ecommerce — Remote
+[2026-07-01 03:02]     0 results
+[2026-07-01 03:02]   Director of Operations ecommerce — New York
+[2026-07-01 03:02]     10 results
+[2026-07-01 03:02]   EOS Integrator — Remote
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   EOS Integrator — New York
+[2026-07-01 03:03]     10 results
+[2026-07-01 03:03]   Fractional COO — Remote
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   Fractional COO — New York
+[2026-07-01 03:03]     10 results
+[2026-07-01 03:03]   VP Operations DTC — Remote
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   VP Operations DTC — New York
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   Business Operations Lead startup — Remote
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   Business Operations Lead startup — New York
+[2026-07-01 03:03]     4 results
+[2026-07-01 03:03]   Amazon Account Manager agency client portfolio — Remote
+[2026-07-01 03:03]     0 results
+[2026-07-01 03:03]   Amazon Account Manager agency client portfolio — New York
+[2026-07-01 03:04]     1 results
+[2026-07-01 03:04]   Amazon Brand Manager Seller Central agency — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Amazon Brand Manager Seller Central agency — New York
+[2026-07-01 03:04]     6 results
+[2026-07-01 03:04]   Marketplace Account Manager consumer brands — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Marketplace Account Manager consumer brands — New York
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Ecommerce Account Manager client facing Amazon — New York
+[2026-07-01 03:04]     4 results
+[2026-07-01 03:04]   Amazon Account Director agency — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Amazon Account Director agency — New York
+[2026-07-01 03:04]     8 results
+[2026-07-01 03:04]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Senior Account Manager Amazon marketplace agency — New York
+[2026-07-01 03:04]     6 results
+[2026-07-01 03:04]     + Amazon Specialist @ My Amazon Guy (Anywhere)
+[2026-07-01 03:04]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-07-01 03:04]     0 results
+[2026-07-01 03:04]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-07-01 03:05]     10 results
+[2026-07-01 03:05]   Client Success Manager Amazon agency — Remote
+[2026-07-01 03:05]     0 results
+[2026-07-01 03:05]   Client Success Manager Amazon agency — New York
+[2026-07-01 03:05]     8 results
+[2026-07-01 03:05]   Wrote 46 jobs to data/jobs.json (3 new)
+[2026-07-01 03:05] ── DEPLOYING via GitLab ──────────────────
