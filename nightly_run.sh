@@ -38,13 +38,21 @@ else
   echo "=== No changes: $(date) ===" >> "$LOG"
 fi
 
-# Copy tailored resumes into web-accessible folder
-mkdir -p ~/Projects/client-os/resumes/tailored
-cp -u ~/job-search-agent/resumes/tailored/*.docx ~/Projects/client-os/resumes/tailored/ 2>/dev/null || true
-
 # Always run tailor
 echo "--- Running tailor ---" >> "$LOG"
 ~/Projects/client-os/nightly_tailor.sh >> "$LOG" 2>&1
+
+# Copy freshly tailored resumes into web folder and push them
+mkdir -p ~/Projects/client-os/resumes/tailored
+cp ~/job-search-agent/resumes/tailored/*.docx ~/Projects/client-os/resumes/tailored/ 2>/dev/null || true
+if [[ -n $(git status -s resumes/) ]]; then
+  git add resumes/ >> "$LOG" 2>&1
+  git commit -m "Sync tailored resumes $(date +%Y-%m-%d)" >> "$LOG" 2>&1
+  git push origin main >> "$LOG" 2>&1
+  git push github main >> "$LOG" 2>&1
+  /opt/homebrew/bin/vercel --prod --yes --cwd ~/Projects/client-os >> "$LOG" 2>&1
+  echo "=== Resumes synced and deployed ===" >> "$LOG"
+fi
 # Send morning digest to Telegram
 /usr/bin/python3 ~/Projects/client-os/morning_digest.py >> "$LOG" 2>&1
 echo "=== Digest sent ===" >> "$LOG"
