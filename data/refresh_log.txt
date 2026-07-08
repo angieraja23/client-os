@@ -2601,3 +2601,140 @@ test
 [2026-07-03 03:05]   Deployed to Vercel
 [2026-07-03 03:05] Done.
 
+[2026-07-08 03:00] ==================================================
+[2026-07-08 03:00] Client Acquisition OS — Weekly Refresh
+[2026-07-08 03:00] ── JOBS ─────────────────────────────────
+[2026-07-08 03:00]   Amazon Account Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Amazon Account Manager — New York
+[2026-07-08 03:00]     10 results
+[2026-07-08 03:00]     + Account Manager I, Hub Delivery @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Sales Account Manager, Fashion, Sales, Advertising, & Account Management @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + National Account Manager, Amazon @ ACCO Brands (Anywhere) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]   Amazon Brand Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Amazon Brand Manager — New York
+[2026-07-08 03:00]     10 results
+[2026-07-08 03:00]   Senior Amazon Brand Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Senior Amazon Brand Manager — New York
+[2026-07-08 03:00]     10 results
+[2026-07-08 03:00]     + Sr. Product Marketing Manager , Amazon Live Creator Partnerships @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Senior Amazon Brand Growth Lead Remote @ Ballard House (Ypsilanti, MI)
+[2026-07-08 03:00]   Amazon Marketplace Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Amazon Marketplace Manager — New York
+[2026-07-08 03:00]     10 results
+[2026-07-08 03:00]     + Ecommerce Assistant Manager (Amazon Focus) @ Kiss Beauty Group (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Ecommerce Specialist (Amazon Focus) @ Kiss Beauty Group (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Digital Commerce Specialist- Amazon @ Kiss Beauty Group (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]   Ecommerce Brand Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Ecommerce Brand Manager — New York
+[2026-07-08 03:00]     10 results
+[2026-07-08 03:00]     + eCommerce Manager Delivery Claims & Incidents @ Hermès (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Ecommerce Assistant Manager @ Kiss Beauty Group (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + eCommerce Lead FT @ Guggenheim @ Event Network, LLC (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]     + Director, eCommerce - Stuart Weitzman @ Caleres, Inc. (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:00]   Ecommerce Account Manager — Remote
+[2026-07-08 03:00]     0 results
+[2026-07-08 03:00]   Ecommerce Account Manager — New York
+[2026-07-08 03:01]     0 results
+[2026-07-08 03:01]   Marketplace Manager Walmart Amazon — Remote
+[2026-07-08 03:01]     0 results
+[2026-07-08 03:01]   Marketplace Manager Walmart Amazon — New York
+[2026-07-08 03:01]     7 results
+[2026-07-08 03:01]   Ecommerce Operations Manager — Remote
+[2026-07-08 03:01]     0 results
+[2026-07-08 03:01]   Ecommerce Operations Manager — New York
+[2026-07-08 03:01]     10 results
+[2026-07-08 03:01]     + Operations Manager, Social Commerce @ AMOREPACIFIC (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:01]   DTC Brand Manager — Remote
+[2026-07-08 03:01]     0 results
+[2026-07-08 03:01]   DTC Brand Manager — New York
+[2026-07-08 03:01]     10 results
+[2026-07-08 03:01]   Amazon Agency Account Manager — Remote
+[2026-07-08 03:01]     0 results
+[2026-07-08 03:01]   Amazon Agency Account Manager — New York
+[2026-07-08 03:01]     10 results
+[2026-07-08 03:01]     + Sales Account Manager, Live Sports @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:01]     + Sales Account Manager, Fashion Advertising Account Management, Fashion Advertising Account Management @ Amazon Advertising LLC (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:01]     + Principal Account Manager, ISV @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:01]     + Sales Account Manager (Fashion, Sales, Advertising, & Account Management) @ Amazon (New York, NY)
+[2026-07-08 03:02]   Chief of Staff ecommerce — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Chief of Staff ecommerce — New York
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Chief of Staff startup — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Chief of Staff startup — New York
+[2026-07-08 03:02]     1 results
+[2026-07-08 03:02]     + Chief Operations Officer In Residence – Startup Fintech @ Scalata.ai (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:02]   Chief of Staff DTC — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Chief of Staff DTC — New York
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Head of Operations DTC — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Head of Operations DTC — New York
+[2026-07-08 03:02]     10 results
+[2026-07-08 03:02]   Head of Operations ecommerce — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Head of Operations ecommerce — New York
+[2026-07-08 03:02]     10 results
+[2026-07-08 03:02]   Director of Operations ecommerce — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   Director of Operations ecommerce — New York
+[2026-07-08 03:02]     10 results
+[2026-07-08 03:02]   EOS Integrator — Remote
+[2026-07-08 03:02]     0 results
+[2026-07-08 03:02]   EOS Integrator — New York
+[2026-07-08 03:03]     10 results
+[2026-07-08 03:03]   Fractional COO — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Fractional COO — New York
+[2026-07-08 03:03]     10 results
+[2026-07-08 03:03]     + Fractional CEO for Small Businesses @ How to Manage a Small Law Firm II, Incorporated (Anywhere)
+[2026-07-08 03:03]   VP Operations DTC — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   VP Operations DTC — New York
+[2026-07-08 03:03]     10 results
+[2026-07-08 03:03]   Business Operations Lead startup — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Business Operations Lead startup — New York
+[2026-07-08 03:03]     9 results
+[2026-07-08 03:03]   Amazon Account Manager agency client portfolio — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Amazon Account Manager agency client portfolio — New York
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Amazon Brand Manager Seller Central agency — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Amazon Brand Manager Seller Central agency — New York
+[2026-07-08 03:03]     1 results
+[2026-07-08 03:03]   Marketplace Account Manager consumer brands — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Marketplace Account Manager consumer brands — New York
+[2026-07-08 03:03]     1 results
+[2026-07-08 03:03]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:03]   Ecommerce Account Manager client facing Amazon — New York
+[2026-07-08 03:03]     6 results
+[2026-07-08 03:03]   Amazon Account Director agency — Remote
+[2026-07-08 03:03]     0 results
+[2026-07-08 03:04]   Amazon Account Director agency — New York
+[2026-07-08 03:04]     10 results
+[2026-07-08 03:04]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-07-08 03:04]     0 results
+[2026-07-08 03:04]   Senior Account Manager Amazon marketplace agency — New York
+[2026-07-08 03:04]     3 results
+[2026-07-08 03:04]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-07-08 03:04]     0 results
+[2026-07-08 03:04]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-07-08 03:04]     10 results
+[2026-07-08 03:04]     + Manager, Digital Merchandising, Amazon @ Kiss Beauty Group (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-08 03:04]   Client Success Manager Amazon agency — Remote
+[2026-07-08 03:04]     0 results
+[2026-07-08 03:04]   Client Success Manager Amazon agency — New York
+[2026-07-08 03:04]     8 results
+[2026-07-08 03:04]   Wrote 76 jobs to data/jobs.json (20 new)
+[2026-07-08 03:04] ── DEPLOYING via GitLab ──────────────────
