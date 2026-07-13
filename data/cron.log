@@ -7349,3 +7349,38 @@ ANTHROPIC_API_KEY=SET
 [2026-07-13 03:04]   site:linkedin.com/in "amazon agency" founder CEO...
 [2026-07-13 03:04]   site:linkedin.com/in "ecommerce agency" founder operati...
 [2026-07-13 03:04]   site:linkedin.com/in "FBA agency" founder...
+[main c14c8c9] Weekly refresh 2026-07-13
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 982 insertions(+), 2 deletions(-)
+[2026-07-13 03:04]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-07-13 03:04]     + Jimi Patel — Co-founder & COO @ eStore Factory
+[2026-07-13 03:04]     + Sean Anderson — Co-founder @ Fox Ecommerce @ 
+[2026-07-13 03:04]     + Ash Rex — CEO @ Seller Initiative @ Pro Amazon Seller
+[2026-07-13 03:04]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-07-13 03:04]     + Cory Martin — CEO @ Fractional Amazon 1P & 3P Leadership
+[2026-07-13 03:04]     + Drew Hart — Founder & CEO, Vinculum @ Built & Exited 2 ...
+[2026-07-13 03:04]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-07-13 03:05]     + Muhammad Faisal — Founder @ Aduplifters @ 
+[2026-07-13 03:05]     + Dylan Heathcote — Amazon seller turned founder. Built the ... @ 
+[2026-07-13 03:05]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-07-13 03:05]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-07-13 03:05]   Added 9 contacts (total 108)
+[2026-07-13 03:05] ── DEPLOYING via GitLab ──────────────────
+[2026-07-13 03:05]   Pushed to GitLab
+[2026-07-13 03:05]   Deployed to Vercel
+[2026-07-13 03:05] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
