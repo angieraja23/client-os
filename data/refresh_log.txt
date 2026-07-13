@@ -2870,3 +2870,155 @@ test
 [2026-07-10 03:03]   Deployed to Vercel
 [2026-07-10 03:03] Done.
 
+[2026-07-13 03:00] ==================================================
+[2026-07-13 03:00] Client Acquisition OS — Weekly Refresh
+[2026-07-13 03:00] ── JOBS ─────────────────────────────────
+[2026-07-13 03:00]   Amazon Account Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Amazon Account Manager — New York
+[2026-07-13 03:00]     10 results
+[2026-07-13 03:00]     + Account Manager I, Business Development, Amazon Global Logistics @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:00]   Amazon Brand Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Amazon Brand Manager — New York
+[2026-07-13 03:00]     10 results
+[2026-07-13 03:00]     + Remote Amazon Brand Manager | Growth & Strategy Lead @ Tiide Commerce (California, MO)
+[2026-07-13 03:00]   Senior Amazon Brand Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Senior Amazon Brand Manager — New York
+[2026-07-13 03:00]     10 results
+[2026-07-13 03:00]     + Senior Applied Science Manager, Amazon Sponsored Products & Brands @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:00]   Amazon Marketplace Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Amazon Marketplace Manager — New York
+[2026-07-13 03:00]     10 results
+[2026-07-13 03:00]     + Amazon Marketplace Manager | Amazon US & AU | PPC, SEO, Seller Central & Growth Any Posted on 2026-07-09 12:19:24 @ Amazon Marketplace Manager — Amazon US, Amazon AU & Walmart US (Anywhere)
+[2026-07-13 03:00]   Ecommerce Brand Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Ecommerce Brand Manager — New York
+[2026-07-13 03:00]     10 results
+[2026-07-13 03:00]     + Ecommerce Merchandising Manager @ Dana-co LLC (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:00]     + Ecommerce Assistant Manager @ Kiss Products (Port Washington, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:00]   Ecommerce Account Manager — Remote
+[2026-07-13 03:00]     0 results
+[2026-07-13 03:00]   Ecommerce Account Manager — New York
+[2026-07-13 03:01]     10 results
+[2026-07-13 03:01]     + Senior Ecommerce Account Manager, Beauty @ The PCA Companies (Islip, NY)
+[2026-07-13 03:01]     + eCommerce Account Manager - Hybrid/Remote @ Vtldesign (Portsmouth, NH)
+[2026-07-13 03:01]     + Strategic Ecommerce Account Manager | Growth & Partnerships @ scandiweb (Poland, NY)
+[2026-07-13 03:01]   Marketplace Manager Walmart Amazon — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Marketplace Manager Walmart Amazon — New York
+[2026-07-13 03:01]     10 results
+[2026-07-13 03:01]   Ecommerce Operations Manager — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Ecommerce Operations Manager — New York
+[2026-07-13 03:01]     10 results
+[2026-07-13 03:01]     + Senior Manager of Ecommerce Operations @ Hadley Designs (Anywhere)
+[2026-07-13 03:01]   DTC Brand Manager — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   DTC Brand Manager — New York
+[2026-07-13 03:01]     10 results
+[2026-07-13 03:01]   Amazon Agency Account Manager — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Amazon Agency Account Manager — New York
+[2026-07-13 03:01]     10 results
+[2026-07-13 03:01]     + Sr. Account Manager, ISV, ISV @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:01]     + AWS Sr. Enterprise Account Manager, FSI-Capital Markets, FSI-Capital Markets @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:01]   Chief of Staff ecommerce — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Chief of Staff ecommerce — New York
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Chief of Staff startup — Remote
+[2026-07-13 03:01]     0 results
+[2026-07-13 03:01]   Chief of Staff startup — New York
+[2026-07-13 03:01]     2 results
+[2026-07-13 03:01]   Chief of Staff DTC — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Chief of Staff DTC — New York
+[2026-07-13 03:02]     2 results
+[2026-07-13 03:02]   Head of Operations DTC — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Head of Operations DTC — New York
+[2026-07-13 03:02]     10 results
+[2026-07-13 03:02]   Head of Operations ecommerce — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Head of Operations ecommerce — New York
+[2026-07-13 03:02]     10 results
+[2026-07-13 03:02]   Director of Operations ecommerce — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Director of Operations ecommerce — New York
+[2026-07-13 03:02]     10 results
+[2026-07-13 03:02]   EOS Integrator — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   EOS Integrator — New York
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Fractional COO — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Fractional COO — New York
+[2026-07-13 03:02]     10 results
+[2026-07-13 03:02]     + Remote Fractional COO: Scale Operations for Owners @ How To MANAGE a Small Law Firm (Miami, FL)
+[2026-07-13 03:02]   VP Operations DTC — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   VP Operations DTC — New York
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Business Operations Lead startup — Remote
+[2026-07-13 03:02]     0 results
+[2026-07-13 03:02]   Business Operations Lead startup — New York
+[2026-07-13 03:03]     7 results
+[2026-07-13 03:03]   Amazon Account Manager agency client portfolio — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Amazon Account Manager agency client portfolio — New York
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Amazon Brand Manager Seller Central agency — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Amazon Brand Manager Seller Central agency — New York
+[2026-07-13 03:03]     7 results
+[2026-07-13 03:03]   Marketplace Account Manager consumer brands — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Marketplace Account Manager consumer brands — New York
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Ecommerce Account Manager client facing Amazon — New York
+[2026-07-13 03:03]     2 results
+[2026-07-13 03:03]   Amazon Account Director agency — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Amazon Account Director agency — New York
+[2026-07-13 03:03]     10 results
+[2026-07-13 03:03]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-07-13 03:03]     0 results
+[2026-07-13 03:03]   Senior Account Manager Amazon marketplace agency — New York
+[2026-07-13 03:04]     2 results
+[2026-07-13 03:04]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-07-13 03:04]     0 results
+[2026-07-13 03:04]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-07-13 03:04]     10 results
+[2026-07-13 03:04]     + Contracts Manager, Buy with Prime & Amazon Multi-Channel Fulfillment @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-13 03:04]   Client Success Manager Amazon agency — Remote
+[2026-07-13 03:04]     0 results
+[2026-07-13 03:04]   Client Success Manager Amazon agency — New York
+[2026-07-13 03:04]     3 results
+[2026-07-13 03:04]   Wrote 97 jobs to data/jobs.json (14 new)
+[2026-07-13 03:04] ── CONTACTS ─────────────────────────────
+[2026-07-13 03:04]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-07-13 03:04]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-07-13 03:04]     + Michael Leahy — Founder, Amplifyr Marketing @ 
+[2026-07-13 03:04]     + Juan Francisco Agolio — Co-Founder @ The 80-20 Amazon ... @ 
+[2026-07-13 03:04]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-07-13 03:04]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-07-13 03:04]   site:linkedin.com/in "FBA agency" founder...
+[2026-07-13 03:04]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-07-13 03:04]     + Jimi Patel — Co-founder & COO @ eStore Factory
+[2026-07-13 03:04]     + Sean Anderson — Co-founder @ Fox Ecommerce @ 
+[2026-07-13 03:04]     + Ash Rex — CEO @ Seller Initiative @ Pro Amazon Seller
+[2026-07-13 03:04]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-07-13 03:04]     + Cory Martin — CEO @ Fractional Amazon 1P & 3P Leadership
+[2026-07-13 03:04]     + Drew Hart — Founder & CEO, Vinculum @ Built & Exited 2 ...
+[2026-07-13 03:04]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-07-13 03:05]     + Muhammad Faisal — Founder @ Aduplifters @ 
+[2026-07-13 03:05]     + Dylan Heathcote — Amazon seller turned founder. Built the ... @ 
+[2026-07-13 03:05]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-07-13 03:05]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-07-13 03:05]   Added 9 contacts (total 108)
+[2026-07-13 03:05] ── DEPLOYING via GitLab ──────────────────
