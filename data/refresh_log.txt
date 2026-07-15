@@ -3155,3 +3155,7 @@ test
 [2026-07-15 03:04]     4 results
 [2026-07-15 03:04]   Wrote 108 jobs to data/jobs.json (11 new)
 [2026-07-15 03:04] ── DEPLOYING via GitLab ──────────────────
+[2026-07-15 03:04]   Pushed to GitLab
+[2026-07-15 03:04]   Deployed to Vercel
+[2026-07-15 03:04] Done.
+
