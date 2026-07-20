@@ -9217,3 +9217,31 @@ ANTHROPIC_API_KEY=SET
 [2026-07-20 03:04]     + Josh Shaw — Co-Founder & Amazon Brand Specialist ... @ 
 [2026-07-20 03:04]   site:linkedin.com/in "amazon marketing agency" founder...
 [2026-07-20 03:04]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[main db078fa] Weekly refresh 2026-07-20
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 6 files changed, 1014 insertions(+), 2 deletions(-)
+[2026-07-20 03:04]     + Joseph Anderson — Founder & CEO @ Connex
+[2026-07-20 03:04]     + Contact — Co-Founder & CEO @ Progressoedge @ 
+[2026-07-20 03:04]     + Jon Jessup — Founder & CEO @ 1440.io. We help brands ...
+[2026-07-20 03:04]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-07-20 03:04]     + Fahad Rabbani — Founder & Amazon Seller Consultant @ 
+[2026-07-20 03:04]   Added 7 contacts (total 115)
+[2026-07-20 03:04] ── DEPLOYING via GitLab ──────────────────
+[2026-07-20 03:04]   Pushed to GitLab
+[2026-07-20 03:04]   Deployed to Vercel
+[2026-07-20 03:04] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
