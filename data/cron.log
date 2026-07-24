@@ -10422,3 +10422,157 @@ GITLAB_TOKEN=SET
 GITHUB_TOKEN=SET
 ANTHROPIC_API_KEY=SET
 --- Running scraper ---
+[main 82ce52f] Weekly refresh 2026-07-24
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 899 insertions(+), 1 deletion(-)
+[2026-07-24 03:00] ==================================================
+[2026-07-24 03:00] Client Acquisition OS — Weekly Refresh
+[2026-07-24 03:00] ── JOBS ─────────────────────────────────
+[2026-07-24 03:00]   Amazon Account Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Amazon Account Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]     + Amazon 1P Vendor Account Manager | Brooklyn, NY · $175K–$200K + Commission - 2447 @ Bhired (New York, NY)
+[2026-07-24 03:00]   Amazon Brand Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Amazon Brand Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]   Senior Amazon Brand Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Senior Amazon Brand Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]   Amazon Marketplace Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Amazon Marketplace Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]     + Amazon Marketplace Director – remote freelance @ 24 Seven Talent (Marina Del Rey, CA) [LinkedIn · Easy Apply]
+[2026-07-24 03:00]   Ecommerce Brand Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Ecommerce Brand Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]     + Ecommerce Manager, Amazon & eRetailers (Hybrid Role - New York) @ OLAPLEX (New York, NY, United States) [LinkedIn · Easy Apply]
+[2026-07-24 03:00]     + US Market + Marketing Manager (m/f/d) - 3x German Shopify E-Commerce Brands - 100% remote @ Lyto Brands Group GmbH (New York, NY, United States) [LinkedIn · Easy Apply]
+[2026-07-24 03:00]     + Pandora Manager, Customer Insights + Analytics (Ecommerce) @ Pandora (New York, NY, United States)
+[2026-07-24 03:00]   Ecommerce Account Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Ecommerce Account Manager — New York
+[2026-07-24 03:00]     10 results
+[2026-07-24 03:00]   Marketplace Manager Walmart Amazon — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Marketplace Manager Walmart Amazon — New York
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Ecommerce Operations Manager — Remote
+[2026-07-24 03:00]     0 results
+[2026-07-24 03:00]   Ecommerce Operations Manager — New York
+[2026-07-24 03:01]     10 results
+[2026-07-24 03:01]   DTC Brand Manager — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   DTC Brand Manager — New York
+[2026-07-24 03:01]     10 results
+[2026-07-24 03:01]   Amazon Agency Account Manager — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Amazon Agency Account Manager — New York
+[2026-07-24 03:01]     10 results
+[2026-07-24 03:01]     + Sales Account Manager, Gold Accelerator @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:01]   Chief of Staff ecommerce — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Chief of Staff ecommerce — New York
+[2026-07-24 03:01]     1 results
+[2026-07-24 03:01]   Chief of Staff startup — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Chief of Staff startup — New York
+[2026-07-24 03:01]     8 results
+[2026-07-24 03:01]   Chief of Staff DTC — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Chief of Staff DTC — New York
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Head of Operations DTC — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Head of Operations DTC — New York
+[2026-07-24 03:01]     10 results
+[2026-07-24 03:01]     + Sr. Manager DTC Operations & Support @ Ralph Lauren (New York, NY, États-Unis) [LinkedIn · Easy Apply]
+[2026-07-24 03:01]   Head of Operations ecommerce — Remote
+[2026-07-24 03:01]     0 results
+[2026-07-24 03:01]   Head of Operations ecommerce — New York
+[2026-07-24 03:02]     10 results
+[2026-07-24 03:02]   Director of Operations ecommerce — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Director of Operations ecommerce — New York
+[2026-07-24 03:02]     10 results
+[2026-07-24 03:02]   EOS Integrator — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   EOS Integrator — New York
+[2026-07-24 03:02]     3 results
+[2026-07-24 03:02]     + COO - Integrator @ 6AM City, LLC (New York, NY)
+[2026-07-24 03:02]   Fractional COO — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Fractional COO — New York
+[2026-07-24 03:02]     10 results
+[2026-07-24 03:02]     + Fractional CFO/CEO/COO/CIO/CRO - B.O. @ Save with Denise (Anywhere) [LinkedIn · Easy Apply]
+[2026-07-24 03:02]   VP Operations DTC — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   VP Operations DTC — New York
+[2026-07-24 03:02]     10 results
+[2026-07-24 03:02]   Business Operations Lead startup — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Business Operations Lead startup — New York
+[2026-07-24 03:02]     9 results
+[2026-07-24 03:02]     + Head of Operations ($150k–$170k + Equity) at well-funded healthtech startup @ CareersElite.com (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:02]     + Workplace & Talent Operations Specialist - AI Startup @ BURKE + CO. (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:02]     + Revenue Operations Manager (B2B SaaS Startup) at PINATA New York, NY @ PINATA (New York, NY)
+[2026-07-24 03:02]     + Senior Portfolio Growth Manager, Professional Services, AWS Worldwide Startups @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:02]   Amazon Account Manager agency client portfolio — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Amazon Account Manager agency client portfolio — New York
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Amazon Brand Manager Seller Central agency — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:02]   Amazon Brand Manager Seller Central agency — New York
+[2026-07-24 03:02]     9 results
+[2026-07-24 03:02]   Marketplace Account Manager consumer brands — Remote
+[2026-07-24 03:02]     0 results
+[2026-07-24 03:03]   Marketplace Account Manager consumer brands — New York
+[2026-07-24 03:03]     3 results
+[2026-07-24 03:03]     + Category Insights Account Manager @ UNFI (Anywhere) [LinkedIn · Easy Apply]
+[2026-07-24 03:03]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-07-24 03:03]     0 results
+[2026-07-24 03:03]   Ecommerce Account Manager client facing Amazon — New York
+[2026-07-24 03:03]     3 results
+[2026-07-24 03:03]   Amazon Account Director agency — Remote
+[2026-07-24 03:03]     0 results
+[2026-07-24 03:03]   Amazon Account Director agency — New York
+[2026-07-24 03:03]     9 results
+[2026-07-24 03:03]     + Global Agency Development Manager, Amazon Ads @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:03]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-07-24 03:03]     0 results
+[2026-07-24 03:03]   Senior Account Manager Amazon marketplace agency — New York
+[2026-07-24 03:03]     1 results
+[2026-07-24 03:03]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-07-24 03:03]     0 results
+[2026-07-24 03:03]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-07-24 03:03]     10 results
+[2026-07-24 03:03]     + Merchandising Manager, Amazon @ AS Beauty Group (New York, NY) [LinkedIn · Easy Apply]
+[2026-07-24 03:03]   Client Success Manager Amazon agency — Remote
+[2026-07-24 03:03]     0 results
+[2026-07-24 03:03]   Client Success Manager Amazon agency — New York
+[2026-07-24 03:03]     5 results
+[2026-07-24 03:03]   Wrote 155 jobs to data/jobs.json (16 new)
+[2026-07-24 03:03] ── DEPLOYING via GitLab ──────────────────
+[2026-07-24 03:03]   Push done
+[2026-07-24 03:04]   Deployed to Vercel
+[2026-07-24 03:04] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
