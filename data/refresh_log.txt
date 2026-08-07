@@ -4385,3 +4385,127 @@ test
 [2026-08-05 03:07]   Deployed to Vercel
 [2026-08-05 03:07] Done.
 
+[2026-08-07 03:00] ==================================================
+[2026-08-07 03:00] Client Acquisition OS — Weekly Refresh
+[2026-08-07 03:00] ── JOBS ─────────────────────────────────
+[2026-08-07 03:00]   Amazon Account Manager — Remote
+[2026-08-07 03:00]     0 results
+[2026-08-07 03:00]   Amazon Account Manager — New York
+[2026-08-07 03:00]     10 results
+[2026-08-07 03:00]   Amazon Brand Manager — Remote
+[2026-08-07 03:00]     0 results
+[2026-08-07 03:00]   Amazon Brand Manager — New York
+[2026-08-07 03:00]     10 results
+[2026-08-07 03:00]   Senior Amazon Brand Manager — Remote
+[2026-08-07 03:00]     0 results
+[2026-08-07 03:00]   Senior Amazon Brand Manager — New York
+[2026-08-07 03:00]     10 results
+[2026-08-07 03:00]     + Sr. Content Strategist, Amazon Music Brand and Copy Strategy @ Amazon Music (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-07 03:00]   Amazon Marketplace Manager — Remote
+[2026-08-07 03:00]     0 results
+[2026-08-07 03:00]   Amazon Marketplace Manager — New York
+[2026-08-07 03:01]     10 results
+[2026-08-07 03:01]   Ecommerce Brand Manager — Remote
+[2026-08-07 03:01]     0 results
+[2026-08-07 03:01]   Ecommerce Brand Manager — New York
+[2026-08-07 03:01]     10 results
+[2026-08-07 03:01]     + Specialist, eCommerce Trading & Web Merchandising @ Pandora (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-07 03:01]   Ecommerce Account Manager — Remote
+[2026-08-07 03:01]   SerpAPI error: The read operation timed out
+[2026-08-07 03:01]     0 results
+[2026-08-07 03:01]   Ecommerce Account Manager — New York
+[2026-08-07 03:01]     10 results
+[2026-08-07 03:01]   Marketplace Manager Walmart Amazon — Remote
+[2026-08-07 03:01]     0 results
+[2026-08-07 03:01]   Marketplace Manager Walmart Amazon — New York
+[2026-08-07 03:01]     4 results
+[2026-08-07 03:01]   Ecommerce Operations Manager — Remote
+[2026-08-07 03:01]     0 results
+[2026-08-07 03:01]   Ecommerce Operations Manager — New York
+[2026-08-07 03:02]     10 results
+[2026-08-07 03:02]   DTC Brand Manager — Remote
+[2026-08-07 03:02]     0 results
+[2026-08-07 03:02]   DTC Brand Manager — New York
+[2026-08-07 03:02]     10 results
+[2026-08-07 03:02]     + DTC Growth Marketing Manager (CRO, Loyalty, AOV) @ People Architects (New York)
+[2026-08-07 03:02]   Amazon Agency Account Manager — Remote
+[2026-08-07 03:02]     0 results
+[2026-08-07 03:02]   Amazon Agency Account Manager — New York
+[2026-08-07 03:02]     10 results
+[2026-08-07 03:02]   Chief of Staff ecommerce — Remote
+[2026-08-07 03:02]     0 results
+[2026-08-07 03:02]   Chief of Staff ecommerce — New York
+[2026-08-07 03:02]     0 results
+[2026-08-07 03:02]   Chief of Staff startup — Remote
+[2026-08-07 03:02]     0 results
+[2026-08-07 03:02]   Chief of Staff startup — New York
+[2026-08-07 03:03]     1 results
+[2026-08-07 03:03]   Chief of Staff DTC — Remote
+[2026-08-07 03:03]     0 results
+[2026-08-07 03:03]   Chief of Staff DTC — New York
+[2026-08-07 03:03]     2 results
+[2026-08-07 03:03]   Head of Operations DTC — Remote
+[2026-08-07 03:03]     0 results
+[2026-08-07 03:03]   Head of Operations DTC — New York
+[2026-08-07 03:03]     10 results
+[2026-08-07 03:03]   Head of Operations ecommerce — Remote
+[2026-08-07 03:03]     0 results
+[2026-08-07 03:03]   Head of Operations ecommerce — New York
+[2026-08-07 03:03]     7 results
+[2026-08-07 03:03]     + Co-Founder & CEO - AI E-commerce Operations System @ FutureSight (Anywhere) [LinkedIn · Easy Apply]
+[2026-08-07 03:03]   Director of Operations ecommerce — Remote
+[2026-08-07 03:04]   SerpAPI error: The read operation timed out
+[2026-08-07 03:04]     0 results
+[2026-08-07 03:04]   Director of Operations ecommerce — New York
+[2026-08-07 03:04]     10 results
+[2026-08-07 03:04]   EOS Integrator — Remote
+[2026-08-07 03:04]     0 results
+[2026-08-07 03:04]   EOS Integrator — New York
+[2026-08-07 03:04]     3 results
+[2026-08-07 03:04]   Fractional COO — Remote
+[2026-08-07 03:04]     0 results
+[2026-08-07 03:04]   Fractional COO — New York
+[2026-08-07 03:04]     10 results
+[2026-08-07 03:04]   VP Operations DTC — Remote
+[2026-08-07 03:04]     0 results
+[2026-08-07 03:04]   VP Operations DTC — New York
+[2026-08-07 03:04]     10 results
+[2026-08-07 03:04]   Business Operations Lead startup — Remote
+[2026-08-07 03:05]     0 results
+[2026-08-07 03:05]   Business Operations Lead startup — New York
+[2026-08-07 03:05]     3 results
+[2026-08-07 03:05]     + Growth Content Lead (SEO) @ Valur (Anywhere) [LinkedIn · Easy Apply]
+[2026-08-07 03:05]   Amazon Account Manager agency client portfolio — Remote
+[2026-08-07 03:05]     0 results
+[2026-08-07 03:05]   Amazon Account Manager agency client portfolio — New York
+[2026-08-07 03:05]     4 results
+[2026-08-07 03:05]   Amazon Brand Manager Seller Central agency — Remote
+[2026-08-07 03:05]     0 results
+[2026-08-07 03:05]   Amazon Brand Manager Seller Central agency — New York
+[2026-08-07 03:06]     8 results
+[2026-08-07 03:06]   Marketplace Account Manager consumer brands — Remote
+[2026-08-07 03:06]     0 results
+[2026-08-07 03:06]   Marketplace Account Manager consumer brands — New York
+[2026-08-07 03:06]     0 results
+[2026-08-07 03:06]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-08-07 03:06]     0 results
+[2026-08-07 03:06]   Ecommerce Account Manager client facing Amazon — New York
+[2026-08-07 03:06]     4 results
+[2026-08-07 03:06]   Amazon Account Director agency — Remote
+[2026-08-07 03:06]     0 results
+[2026-08-07 03:06]   Amazon Account Director agency — New York
+[2026-08-07 03:06]     3 results
+[2026-08-07 03:06]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-08-07 03:07]     0 results
+[2026-08-07 03:07]   Senior Account Manager Amazon marketplace agency — New York
+[2026-08-07 03:07]     2 results
+[2026-08-07 03:07]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-08-07 03:07]     0 results
+[2026-08-07 03:07]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-08-07 03:07]     10 results
+[2026-08-07 03:07]   Client Success Manager Amazon agency — Remote
+[2026-08-07 03:07]     0 results
+[2026-08-07 03:07]   Client Success Manager Amazon agency — New York
+[2026-08-07 03:07]     2 results
+[2026-08-07 03:07]   Wrote 192 jobs to data/jobs.json (5 new)
+[2026-08-07 03:07] ── DEPLOYING via GitLab ──────────────────
