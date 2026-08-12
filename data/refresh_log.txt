@@ -4655,3 +4655,130 @@ test
 [2026-08-10 03:08]   Deployed to Vercel
 [2026-08-10 03:08] Done.
 
+[2026-08-12 03:00] ==================================================
+[2026-08-12 03:00] Client Acquisition OS — Weekly Refresh
+[2026-08-12 03:00] ── JOBS ─────────────────────────────────
+[2026-08-12 03:00]   Amazon Account Manager — Remote
+[2026-08-12 03:00]     0 results
+[2026-08-12 03:00]   Amazon Account Manager — New York
+[2026-08-12 03:00]     10 results
+[2026-08-12 03:00]     + Account Manager, Startups, AWS Early Startups, US East @ Amazon Web Services (AWS) (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:00]   Amazon Brand Manager — Remote
+[2026-08-12 03:00]     0 results
+[2026-08-12 03:00]   Amazon Brand Manager — New York
+[2026-08-12 03:00]     10 results
+[2026-08-12 03:00]     + Head of  Amazon Brand Management @ Heap (Anywhere)
+[2026-08-12 03:00]   Senior Amazon Brand Manager — Remote
+[2026-08-12 03:00]     0 results
+[2026-08-12 03:00]   Senior Amazon Brand Manager — New York
+[2026-08-12 03:00]     10 results
+[2026-08-12 03:00]     + Sr. Manager, Amazon Strategic Initiatives @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:00]     + Advertising Senior Manager, Amazon @ AS Beauty Group (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:00]     + Sr. Account Manager, Agency, Advertising, Account Management, Agency @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:00]   Amazon Marketplace Manager — Remote
+[2026-08-12 03:01]     0 results
+[2026-08-12 03:01]   Amazon Marketplace Manager — New York
+[2026-08-12 03:01]     10 results
+[2026-08-12 03:01]   Ecommerce Brand Manager — Remote
+[2026-08-12 03:01]     0 results
+[2026-08-12 03:01]   Ecommerce Brand Manager — New York
+[2026-08-12 03:01]     10 results
+[2026-08-12 03:01]     + Ecommerce Manager - B2B @ Confidential (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:01]   Ecommerce Account Manager — Remote
+[2026-08-12 03:01]     0 results
+[2026-08-12 03:01]   Ecommerce Account Manager — New York
+[2026-08-12 03:01]     10 results
+[2026-08-12 03:01]   Marketplace Manager Walmart Amazon — Remote
+[2026-08-12 03:01]     0 results
+[2026-08-12 03:01]   Marketplace Manager Walmart Amazon — New York
+[2026-08-12 03:01]     6 results
+[2026-08-12 03:01]   Ecommerce Operations Manager — Remote
+[2026-08-12 03:02]     0 results
+[2026-08-12 03:02]   Ecommerce Operations Manager — New York
+[2026-08-12 03:02]     10 results
+[2026-08-12 03:02]     + ECOMMERCE OPERATIONS COORDINATOR @ MCM WORLDWIDE (New York, NY) [LinkedIn · Easy Apply]
+[2026-08-12 03:02]   DTC Brand Manager — Remote
+[2026-08-12 03:02]     0 results
+[2026-08-12 03:02]   DTC Brand Manager — New York
+[2026-08-12 03:02]     10 results
+[2026-08-12 03:02]     + Senior Growth Marketing Lead — DTC Brand Portfolio @ People Architects (New York)
+[2026-08-12 03:02]   Amazon Agency Account Manager — Remote
+[2026-08-12 03:02]     0 results
+[2026-08-12 03:02]   Amazon Agency Account Manager — New York
+[2026-08-12 03:02]     10 results
+[2026-08-12 03:02]   Chief of Staff ecommerce — Remote
+[2026-08-12 03:02]     0 results
+[2026-08-12 03:02]   Chief of Staff ecommerce — New York
+[2026-08-12 03:02]     0 results
+[2026-08-12 03:02]   Chief of Staff startup — Remote
+[2026-08-12 03:03]     0 results
+[2026-08-12 03:03]   Chief of Staff startup — New York
+[2026-08-12 03:03]     2 results
+[2026-08-12 03:03]   Chief of Staff DTC — Remote
+[2026-08-12 03:03]     0 results
+[2026-08-12 03:03]   Chief of Staff DTC — New York
+[2026-08-12 03:03]     1 results
+[2026-08-12 03:03]   Head of Operations DTC — Remote
+[2026-08-12 03:03]     0 results
+[2026-08-12 03:03]   Head of Operations DTC — New York
+[2026-08-12 03:03]     10 results
+[2026-08-12 03:03]   Head of Operations ecommerce — Remote
+[2026-08-12 03:04]     0 results
+[2026-08-12 03:04]   Head of Operations ecommerce — New York
+[2026-08-12 03:04]     10 results
+[2026-08-12 03:04]   Director of Operations ecommerce — Remote
+[2026-08-12 03:04]     0 results
+[2026-08-12 03:04]   Director of Operations ecommerce — New York
+[2026-08-12 03:04]     10 results
+[2026-08-12 03:04]   EOS Integrator — Remote
+[2026-08-12 03:04]     0 results
+[2026-08-12 03:04]   EOS Integrator — New York
+[2026-08-12 03:04]     6 results
+[2026-08-12 03:04]   Fractional COO — Remote
+[2026-08-12 03:04]     0 results
+[2026-08-12 03:04]   Fractional COO — New York
+[2026-08-12 03:05]     10 results
+[2026-08-12 03:05]     + Fractional COO @ FlexBoard (Anywhere)
+[2026-08-12 03:05]   VP Operations DTC — Remote
+[2026-08-12 03:05]     0 results
+[2026-08-12 03:05]   VP Operations DTC — New York
+[2026-08-12 03:05]     8 results
+[2026-08-12 03:05]   Business Operations Lead startup — Remote
+[2026-08-12 03:05]     0 results
+[2026-08-12 03:05]   Business Operations Lead startup — New York
+[2026-08-12 03:05]     9 results
+[2026-08-12 03:05]   Amazon Account Manager agency client portfolio — Remote
+[2026-08-12 03:05]     0 results
+[2026-08-12 03:05]   Amazon Account Manager agency client portfolio — New York
+[2026-08-12 03:05]     0 results
+[2026-08-12 03:05]   Amazon Brand Manager Seller Central agency — Remote
+[2026-08-12 03:06]     0 results
+[2026-08-12 03:06]   Amazon Brand Manager Seller Central agency — New York
+[2026-08-12 03:06]     6 results
+[2026-08-12 03:06]   Marketplace Account Manager consumer brands — Remote
+[2026-08-12 03:06]     0 results
+[2026-08-12 03:06]   Marketplace Account Manager consumer brands — New York
+[2026-08-12 03:06]     1 results
+[2026-08-12 03:06]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-08-12 03:06]     0 results
+[2026-08-12 03:06]   Ecommerce Account Manager client facing Amazon — New York
+[2026-08-12 03:06]     6 results
+[2026-08-12 03:06]   Amazon Account Director agency — Remote
+[2026-08-12 03:07]     0 results
+[2026-08-12 03:07]   Amazon Account Director agency — New York
+[2026-08-12 03:07]     10 results
+[2026-08-12 03:07]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-08-12 03:07]     0 results
+[2026-08-12 03:07]   Senior Account Manager Amazon marketplace agency — New York
+[2026-08-12 03:07]     1 results
+[2026-08-12 03:07]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-08-12 03:07]     0 results
+[2026-08-12 03:07]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-08-12 03:07]     10 results
+[2026-08-12 03:07]   Client Success Manager Amazon agency — Remote
+[2026-08-12 03:07]     0 results
+[2026-08-12 03:07]   Client Success Manager Amazon agency — New York
+[2026-08-12 03:08]     2 results
+[2026-08-12 03:08]     + Client Success Manager - Trivium Group @ Trivium Group (Anywhere)
+[2026-08-12 03:08]   Wrote 207 jobs to data/jobs.json (10 new)
+[2026-08-12 03:08] ── DEPLOYING via GitLab ──────────────────
