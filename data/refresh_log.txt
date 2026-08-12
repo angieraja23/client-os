@@ -4782,3 +4782,7 @@ test
 [2026-08-12 03:08]     + Client Success Manager - Trivium Group @ Trivium Group (Anywhere)
 [2026-08-12 03:08]   Wrote 207 jobs to data/jobs.json (10 new)
 [2026-08-12 03:08] ── DEPLOYING via GitLab ──────────────────
+[2026-08-12 03:08]   Push done
+[2026-08-12 03:08]   Deployed to Vercel
+[2026-08-12 03:08] Done.
+
