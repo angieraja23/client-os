@@ -17885,3 +17885,647 @@ After doing this, you may fix the identity used for this commit with:
 
 Scraper exit code: 0
 --- Committing and pushing ---
+[main 92f73e3] Nightly auto-sync 2026-08-17
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 166 insertions(+)
+failed to store: -61
+To https://gitlab.com/client-os/client-os.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://gitlab.com/client-os/client-os.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+To https://github.com/angieraja23/client-os.git
+   ccc51ef..92f73e3  main -> main
+Vercel CLI 56.4.1 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/1.2MB)
+Uploading [=====---------------] (320.0KB/1.2MB)
+Uploading [==========----------] (624.0KB/1.2MB)
+Uploading [===============-----] (928.0KB/1.2MB)
+Uploading [====================] (1.2MB/1.2MB)
+  Inspect         https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/jsjuLqp7X84z7xfcErTnZt2Ps62X
+  Production      https://client-acquisition-czsdvvaa4-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-czsdvvaa4-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 284 deployment files...
+Running "vercel build"
+Vercel CLI 58.1.0
+Build Completed in /vercel/output [235ms]
+Deploying outputs...
+[2K[1A[2K[G  Production      https://client-acquisition-czsdvvaa4-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased         https://clientos.angieraja.com
+
+✓ Ready in 7s
+=== Deployed: Mon Aug 17 03:09:22 EDT 2026 ===
+--- Running tailor ---
+=== Tailor started: Mon Aug 17 03:09:22 EDT 2026 ===
+Track: ops
+SKIP (already tailored): Chief of Staff at Cascade at Jack & Jill
+Track: ops
+SKIP (already tailored): Chief of Staff to the GM of Housing at Flex
+Track: ops
+SKIP (already tailored): Executive Assistant to the Chief of Staff at DEPARTMENT OF CORRECTION
+Track: amazon
+SKIP (already tailored): Associate Manager, Commerce Platform Logistics - Strategy and Operations at DoorDash
+Track: amazon
+SKIP (already tailored): Sr. Resourcing Operations Manager at MKG Productions, LLC
+Track: ops
+SKIP (already tailored): Logistics Operations Project Manager at Fluidstack
+Track: ops
+SKIP (already tailored): Manager, Enrollment Fulfillment Operations at New York Life
+Track: amazon
+SKIP (already tailored): Ecommerce Manager at Zachys Wine & Liquor
+Track: amazon
+SKIP (already tailored): Amazon Brand Manager at Cartograph
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at SBH Fashion
+Track: amazon
+SKIP (already tailored): Ecommerce Marketplace Manager at Universal Perfumes & Cosmetics
+Track: amazon
+SKIP (already tailored): Client Account Manager, Digital Accounts at Amsive
+Track: ops
+SKIP (already tailored): DTC Performance & Growth Marketing Manager at Blueair North America
+Track: amazon
+SKIP (already tailored): AWS Sr. Enterprise Account Manager, Automotive & Manufacturing at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Senior Amazon Brand Manager at GNO Partners
+Track: amazon
+SKIP (already tailored): Campaign & Creative Manager, Campaign & Creative Management, Amazon at Amazon
+Track: amazon
+SKIP (already tailored): Sr. Marketing Manager, Engagement, WW Amazon Flex, Amazon Flex at Amazon
+Track: amazon
+SKIP (already tailored): Director, Amazon at Nécessaire, Inc.
+Track: amazon
+SKIP (already tailored): Amazon & Marketplace Account Growth Manager at The PCA Group
+Track: amazon
+SKIP (already tailored): Remote Amazon Marketplace Manager at Foxelli Group Remote at Foxelli Group
+Track: amazon
+SKIP (already tailored): E-commerce Growth Manager at BURDLIFE
+Track: amazon
+SKIP (already tailored): Marketplace Manager at PetsWorld Inc
+Track: amazon
+SKIP (already tailored): TikTok Shop Account Manager at KAMP Agency
+Track: amazon
+SKIP (already tailored): Sales Account Manager, US LCS, Consumer Electronics at Amazon
+Track: amazon
+SKIP (already tailored): Director of Operations — Digital & Ecommerce at Maxima Apparel
+Track: amazon
+SKIP (already tailored): Senior Manager, Ecommerce at SBH Fashion
+Track: amazon
+SKIP (already tailored): Sales Account Manager, LCS Acquisitions at Amazon
+Track: ops
+SKIP (already tailored): Chief of Staff - AI-native startup is rewiring a trillion-dollar consumer industry at Big Wave Digital
+Track: ops
+SKIP (already tailored): COO/EOS Integrator at CBIZ Talent Solutions
+Track: ops
+SKIP (already tailored): Office Operations at Series B AI Startup at Bloom Talent
+Track: ops
+SKIP (already tailored): Office & Operations Lead — Startup NYC (Equity) at The Talent Post
+Track: ops
+SKIP (already tailored): Jr. Amazon Account Coordinator at Tiide Commerce
+Track: ops
+SKIP (already tailored): Amazon Account Coordinator - Affiliate Marketing Agency at Ikon Digital Media
+Track: ops
+SKIP (already tailored): Manager, Amazon - Origins at DECIEM | THE ABNORMAL BEAUTY COMPANY
+Track: amazon
+SKIP (already tailored): Website for Amazon Account Management at Upwork
+Track: amazon
+SKIP (already tailored): Sr Product Marketing Manager, WW New Customer Registration, Amazon Business at Amazon
+Track: amazon
+SKIP (already tailored): Amazon Marketplace Specialist at Master Wholesale International, Inc.
+Track: amazon
+SKIP (already tailored): Senior Brand Manager, eCommerce Agency at Jobot
+Track: amazon
+SKIP (already tailored): Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA) at TikTok
+Track: amazon
+SKIP (already tailored): Ecommerce Optimization Manager at Clean Simple Eats, LLC.
+Track: amazon
+SKIP (already tailored): National Account Manager - Amazon at Scholastic
+Track: amazon
+SKIP (already tailored): Sales Account Manager, US LCS, Consumer Electronics at Amazon Advertising LLC
+Track: ops
+SKIP (already tailored): Director of Business Operations, SaaS | AI | eCommerce at Get Plus - The Autonomous Commerce OS
+Track: amazon
+SKIP (already tailored): AWS Account Manager, FSI at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Sr. Account Manager-RRT, Startups at Amazon Web Services (AWS)
+Track: ops
+SKIP (already tailored): Amazon Specialist at My Amazon Guy
+Track: amazon
+SKIP (already tailored): Strategic Account Manager, Amazon Publisher Services at Amazon
+Track: amazon
+SKIP (already tailored): Account Manager I, Amazon Global Logistics at Amazon Global Logistics
+Track: amazon
+SKIP (already tailored): VP, Ecommerce at Grüns
+Track: amazon
+SKIP (already tailored): Senior Director of Ecommerce & Growth at CleanBoss Inc.
+Track: amazon
+SKIP (already tailored): National Account Manager, Beauty (Direct eCommerce) at Dyson Direct Inc
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Fashion Advertising Account Management, Fashion Advertising Account Management at Amazon
+Track: amazon
+SKIP (already tailored): Sales Account Manager, US LCS at Amazon
+Track: amazon
+SKIP (already tailored): Sr. Account Manager-RRT, Startups at Amazon Web Services, Inc.
+Track: ops
+SKIP (already tailored): Executive Assistant to Founder & Operations at Early-stage, Mission-driven Startup at Bloom Talent
+Track: ops
+SKIP (already tailored): Sr.  Amazon Ads Account Manager at Freshdesk
+Track: amazon
+SKIP (already tailored): Account Manager I, Hub Delivery at Amazon
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Fashion, Sales, Advertising, & Account Management at Amazon
+Track: amazon
+SKIP (already tailored): National Account Manager, Amazon at ACCO Brands
+Track: amazon
+SKIP (already tailored): Sr. Product Marketing Manager , Amazon Live Creator Partnerships at Amazon
+Track: amazon
+SKIP (already tailored): Senior Amazon Brand Growth Lead Remote at Ballard House
+Track: amazon
+SKIP (already tailored): Ecommerce Assistant Manager (Amazon Focus) at Kiss Beauty Group
+Track: amazon
+SKIP (already tailored): Ecommerce Specialist (Amazon Focus) at Kiss Beauty Group
+Track: amazon
+SKIP (already tailored): Digital Commerce Specialist- Amazon at Kiss Beauty Group
+Track: amazon
+SKIP (already tailored): eCommerce Manager Delivery Claims & Incidents at Hermès
+Track: amazon
+SKIP (already tailored): Ecommerce Assistant Manager at Kiss Beauty Group
+Track: amazon
+SKIP (already tailored): eCommerce Lead FT @ Guggenheim at Event Network, LLC
+Track: amazon
+SKIP (already tailored): Director, eCommerce - Stuart Weitzman at Caleres, Inc.
+Track: amazon
+SKIP (already tailored): Operations Manager, Social Commerce at AMOREPACIFIC
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Live Sports at Amazon
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Fashion Advertising Account Management, Fashion Advertising Account Management at Amazon Advertising LLC
+Track: amazon
+SKIP (already tailored): Principal Account Manager, ISV at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Sales Account Manager (Fashion, Sales, Advertising, & Account Management) at Amazon
+Track: ops
+SKIP (already tailored): Chief Operations Officer In Residence – Startup Fintech at Scalata.ai
+Track: ops
+SKIP (already tailored): Fractional CEO for Small Businesses at How to Manage a Small Law Firm II, Incorporated
+Track: ops
+SKIP (already tailored): Manager, Digital Merchandising, Amazon at Kiss Beauty Group
+Track: amazon
+SKIP (already tailored): Amazon Account Strategist -  Amazon Seller & Vendor Central required! at VENDO – A PLTFRM Company
+Track: amazon
+SKIP (already tailored): E-Commerce Operations Manager at TOM FORD FASHION
+Track: amazon
+SKIP (already tailored): Ecommerce Manager (Beauty) at Solomon Page
+Track: amazon
+SKIP (already tailored): Manager, Book Sales & eCommerce at AWA Studios
+Track: amazon
+SKIP (already tailored): Ecommerce Assistant Manager at Ivy Enterprises, Inc.
+Track: amazon
+SKIP (already tailored): Account Manager, US Govtech Mid-Market at Amazon Web Services (AWS)
+Track: ops
+SKIP (already tailored): eCommerce Operations Manager at Adecco
+Track: amazon
+SKIP (already tailored): Account Manager I, Business Development, Amazon Global Logistics at Amazon
+Track: amazon
+SKIP (already tailored): Remote Amazon Brand Manager | Growth & Strategy Lead at Tiide Commerce
+Track: amazon
+SKIP (already tailored): Senior Applied Science Manager, Amazon Sponsored Products & Brands at Amazon
+Track: amazon
+SKIP (already tailored): Amazon Marketplace Manager | Amazon US & AU | PPC, SEO, Seller Central & Growth Any Posted on 2026-07-09 12:19:24 at Amazon Marketplace Manager — Amazon US, Amazon AU & Walmart US
+Track: amazon
+SKIP (already tailored): Ecommerce Merchandising Manager at Dana-co LLC
+Track: amazon
+SKIP (already tailored): Ecommerce Assistant Manager at Kiss Products
+Track: amazon
+SKIP (already tailored): Senior Ecommerce Account Manager, Beauty at The PCA Companies
+Track: amazon
+SKIP (already tailored): eCommerce Account Manager - Hybrid/Remote at Vtldesign
+Track: amazon
+SKIP (already tailored): Strategic Ecommerce Account Manager | Growth & Partnerships at scandiweb
+Track: amazon
+SKIP (already tailored): Senior Manager of Ecommerce Operations at Hadley Designs
+Track: amazon
+SKIP (already tailored): Sr. Account Manager, ISV, ISV at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): AWS Sr. Enterprise Account Manager, FSI-Capital Markets, FSI-Capital Markets at Amazon Web Services (AWS)
+Track: ops
+SKIP (already tailored): Remote Fractional COO: Scale Operations for Owners at How To MANAGE a Small Law Firm
+Track: ops
+SKIP (already tailored): Contracts Manager, Buy with Prime & Amazon Multi-Channel Fulfillment at Amazon
+Track: amazon
+SKIP (already tailored): Global Creative Strategist, Brand Innovation Lab, Amazon Ads Brand Innovation Lab at Amazon
+Track: amazon
+SKIP (already tailored): Sr. Paid Media Marketing Manager, Amazon Ads, Paid and Social Media Team, Amazon Ads at Amazon
+Track: amazon
+SKIP (already tailored): Head of Ecommerce at CHARLES & KEITH GROUP
+Track: amazon
+SKIP (already tailored): Manager, Customer Insights + Analytics (Ecommerce) at Pandora
+Track: amazon
+SKIP (already tailored): Junior Account Manager, Ecommerce at Tangle Teezer Ltd
+Track: amazon
+SKIP (already tailored): Junior Ecommerce Account Manager | Hybrid Role at BIC
+Track: amazon
+SKIP (already tailored): Senior Sales Account Manager, US LCS at Amazon
+Track: amazon
+SKIP (already tailored): Sr Client Account Manager, Amazon at Pinterest
+Track: ops
+SKIP (already tailored): Startup Operations Lead at Trekker Auto
+Track: ops
+SKIP (already tailored): Head of Operations ($150k-$195k + Equity) at well-funded healthtech startup at Jack & Jill
+Track: ops
+SKIP (already tailored): Amazon Advertising Manager at Cartograph
+Track: amazon
+SKIP (already tailored): Account Manager, Telecom at Amazon
+Track: amazon
+SKIP (already tailored): Strategic Account Manager, Amazon at Eaton Corporation
+Track: amazon
+SKIP (already tailored): Senior IT&S Project Manager at Northwell Careers
+Track: amazon
+SKIP (already tailored): Account Manager - E-Comm and Design at DADA Goldberg
+Track: amazon
+SKIP (already tailored): Ecommerce Account Manager, Amazon at Justrite Safety Group
+Track: amazon
+SKIP (already tailored): Senior Sales Account Manager, Sponsored Ads (Paid Search), Large Customer Sales Advertising at Amazon
+Track: ops
+SKIP (already tailored): Global SVP eCommerce Solutions at NielsenIQ
+Track: ops
+SKIP (already tailored): Director of International Ecommerce at Veronica Beard
+Track: ops
+SKIP (already tailored): Manager of Ecommerce at SBH Fashion
+Track: ops
+SKIP (already tailored): Chief Operations Officer, Marketing, Advertising & eCommerce at Confidential
+Track: amazon
+SKIP (already tailored): Sr. Marketing Manager, GTM, Amazon Flex, Amazon Flex at Amazon
+Track: amazon
+SKIP (already tailored): Director, Marketplace NAM at Pandora
+Track: amazon
+SKIP (already tailored): Senior eCommerce Analyst - Tommy Hilfiger at PVH
+Track: amazon
+SKIP (already tailored): E-Commerce Marketplace Specialist at JW Mobile
+Track: amazon
+SKIP (already tailored): LatAm Ecommerce Operations Manager Contract at Rad-Hires
+Track: amazon
+SKIP (already tailored): Senior Sales Account Manager, Sponsored Ads (Paid Search), Large Customer Sales Advertising at Amazon Advertising LLC
+Track: amazon
+SKIP (already tailored): TAM Manager, Video Advertising, Amazon Prime Video Ads at Amazon
+Track: ops
+SKIP (already tailored): Head of Operations / VP of Operations at Go Fractional
+Track: ops
+SKIP (already tailored): Business Operations Lead at Castle
+Track: ops
+SKIP (already tailored): People Operations Lead — Startup HR Leader (Hybrid) at Clarity Recruiting
+Track: ops
+SKIP (already tailored): Account Executive - Public Sector, Enterprise - New York, Amazon Web Services at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Sr. Amazon Brand Manager at Upwork
+Track: amazon
+SKIP (already tailored): Manager - Amazon eCommerce (WCB) at L'Oréal
+Track: amazon
+SKIP (already tailored): Senior Specialist, Customer Experience, Amazon - Marketplace Partnership at Front Row
+Track: amazon
+SKIP (already tailored): Amazon Marketplace Growth & Global Sourcing Manager (Full-Time, Remote) Full Time Posted on 2026-07-20 13:52:54 $7 per hour at Amazon Marketplace Growth & Global Sourcing Manager (Full-Time, Remote)
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at Outdoor Collective
+Track: amazon
+SKIP (already tailored): Director eCommerce Capabilities at TeHiring.com
+Track: ops
+SKIP (already tailored): Associate Tech Strategy and Business Operations at Fanatics Collectibles
+Track: ops
+SKIP (already tailored): Retail Media Account Manager (Amazon and TikTok Shop) at WITHIN
+Track: ops
+SKIP (already tailored): Programmatic Solutions Consultant, Amazon Ads at Amazon
+Track: ops
+SKIP (already tailored): Marketing Manager, Amazon Pickup Program , PARP Traffic at Amazon
+Track: amazon
+SKIP (already tailored): Amazon 1P Vendor Account Manager | Brooklyn, NY · $175K–$200K + Commission - 2447 at Bhired
+Track: amazon
+SKIP (already tailored): Amazon Marketplace Director – remote freelance at 24 Seven Talent
+Track: amazon
+SKIP (already tailored): Ecommerce Manager, Amazon & eRetailers (Hybrid Role - New York) at OLAPLEX
+Track: amazon
+SKIP (already tailored): US Market + Marketing Manager (m/f/d) - 3x German Shopify E-Commerce Brands - 100% remote at Lyto Brands Group GmbH
+Track: amazon
+SKIP (already tailored): Pandora Manager, Customer Insights + Analytics (Ecommerce) at Pandora
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Gold Accelerator at Amazon
+Track: ops
+SKIP (already tailored): Sr. Manager DTC Operations & Support at Ralph Lauren
+Track: ops
+SKIP (already tailored): COO - Integrator at 6AM City, LLC
+Track: ops
+SKIP (already tailored): Fractional CFO/CEO/COO/CIO/CRO - B.O. at Save with Denise
+Track: ops
+SKIP (already tailored): Head of Operations ($150k–$170k + Equity) at well-funded healthtech startup at CareersElite.com
+Track: ops
+SKIP (already tailored): Workplace & Talent Operations Specialist - AI Startup at BURKE + CO.
+Track: ops
+SKIP (already tailored): Revenue Operations Manager (B2B SaaS Startup) at PINATA New York, NY at PINATA
+Track: ops
+SKIP (already tailored): Senior Portfolio Growth Manager, Professional Services, AWS Worldwide Startups at Amazon Web Services (AWS)
+Track: ops
+SKIP (already tailored): Category Insights Account Manager at UNFI
+Track: ops
+SKIP (already tailored): Global Agency Development Manager, Amazon Ads at Amazon
+Track: ops
+SKIP (already tailored): Merchandising Manager, Amazon at AS Beauty Group
+Track: amazon
+SKIP (already tailored): Product Safety Compliance Manager, Amazon Private Brands, Amazon Private Brands, Product Safety and Compliance at Amazon
+Track: amazon
+SKIP (already tailored): National Account Manager, Amazon - US Stationery at BIC
+Track: amazon
+SKIP (already tailored): Sr. Industry Manager, Ecommerce at Pinterest
+Track: amazon
+SKIP (already tailored): Manager, Ecommerce Merchandising & AI at BIC Corporation
+Track: amazon
+SKIP (already tailored): Marketplace Operations Associate at Rokt
+Track: amazon
+SKIP (already tailored): E-Commerce Operations Manager at EmergencyMD
+Track: amazon
+SKIP (already tailored): Remote Ecommerce Operations Manager | Growth & Strategy at JobRack
+Track: ops
+SKIP (already tailored): DTC Operations Manager – E‑commerce (Hybrid) at Audio Network Group
+Track: amazon
+SKIP (already tailored): Senior Sales Account Manager, Live Sports at Amazon
+Track: amazon
+SKIP (already tailored): Director, Ecommerce & CRO at Create Wellness
+Track: amazon
+SKIP (already tailored): HEAD OF MARKETING - DTC GROWTH at Hē Labs
+Track: amazon
+SKIP (already tailored): Acne Studios DTC Operations Manager at Acne Studios
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Gold Accelerator at Amazon Advertising LLC
+Track: ops
+SKIP (already tailored): Chief of Staff, Office of the CEO at Coast
+Track: ops
+SKIP (already tailored): Supervisor, Operations- DTC Settlements (Hybrid - Newark, NJ or Edgewood, LI) at Broadridge
+Track: ops
+SKIP (already tailored): Category Insights Account Manager - Boston at UNFI
+Track: ops
+SKIP (already tailored): Visual Content Manager, Amazon Delivery Experience (ADX) at Amazon
+Track: amazon
+SKIP (already tailored): Sr Account Manager, ISV Greenfield at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Ecommerce Marketplace Manager (Amazon Experience Essential) at We Are Refyne
+Track: amazon
+SKIP (already tailored): Client Account Manager II, E-Commerce at Pinterest
+Track: amazon
+SKIP (already tailored): Associate Account Manager Amazon North America at Vestacy
+Track: ops
+SKIP (already tailored): On site - Head of eCommerce Sales - $150,000 + Bonus - Cedarhurst (Long Island), NY at R2 Global
+Track: amazon
+SKIP (already tailored): Sr. Analyst Relations Manager, Amazon Ads at Amazon
+Track: amazon
+SKIP (already tailored): Amazon Marketplace Coordinator at LHH
+Track: amazon
+SKIP (already tailored): Head of eCommerce at Danimás
+Track: amazon
+SKIP (already tailored): Growth Marketing Manager — DTC Paid Media at MOHR Talent
+Track: amazon
+SKIP (already tailored): Sr. Amazon Account Manager (Remote) at Envision Horizons LLC
+Track: amazon
+SKIP (already tailored): Sales Account Manager, Telecom (Advertising) at Amazon
+Track: amazon
+SKIP (already tailored): Principal Brand Strategist, Amazon Ads, Amazon Ads Marketing at Amazon Advertising LLC
+Track: amazon
+SKIP (already tailored): Senior Marketing Manager, Amazon Digital Advertising at Amazon
+Track: amazon
+SKIP (already tailored): Global eCommerce Manager at Fable and Mane
+Track: ops
+SKIP (already tailored): Fractional Chief Operating Officer/Operations Advisor at Via Logic LLC
+Track: amazon
+SKIP (already tailored): Sr. Content Strategist, Amazon Music Brand and Copy Strategy at Amazon Music
+Track: amazon
+SKIP (already tailored): Specialist, eCommerce Trading & Web Merchandising at Pandora
+Track: amazon
+SKIP (already tailored): DTC Growth Marketing Manager (CRO, Loyalty, AOV) at People Architects
+Track: ops
+SKIP (already tailored): Co-Founder & CEO - AI E-commerce Operations System at FutureSight
+Track: ops
+SKIP (already tailored): Growth Content Lead (SEO) at Valur
+Track: amazon
+SKIP (already tailored): Sr Manager Enterprise Systems Architecture, Amazon Leo at Amazon
+Track: amazon
+SKIP (already tailored): Specialist, Ecommerce (Category Growth) at Saks
+Track: amazon
+SKIP (already tailored): Director of eCommerce, Key Accounts at Mars
+Track: amazon
+SKIP (already tailored): Senior Manager of Strategy & Operations for Digital Commerce (Remote) at Lenovo
+Track: ops
+SKIP (already tailored): Performance Manager (Amazon Ads) at Aisle3
+Track: amazon
+SKIP (already tailored): Account Manager, Startups, AWS Early Startups, US East at Amazon Web Services (AWS)
+Track: amazon
+SKIP (already tailored): Head of  Amazon Brand Management at Heap
+Track: amazon
+SKIP (already tailored): Sr. Manager, Amazon Strategic Initiatives at Amazon
+Track: amazon
+SKIP (already tailored): Advertising Senior Manager, Amazon at AS Beauty Group
+Track: amazon
+SKIP (already tailored): Sr. Account Manager, Agency, Advertising, Account Management, Agency at Amazon
+Track: amazon
+SKIP (already tailored): Ecommerce Manager - B2B at Confidential
+Track: amazon
+SKIP (already tailored): ECOMMERCE OPERATIONS COORDINATOR at MCM WORLDWIDE
+Track: amazon
+SKIP (already tailored): Senior Growth Marketing Lead — DTC Brand Portfolio at People Architects
+Track: ops
+SKIP (already tailored): Fractional COO at FlexBoard
+Track: ops
+SKIP (already tailored): Client Success Manager - Trivium Group at Trivium Group
+Track: amazon
+SKIP (already tailored): Amazon Account Manager at Steve Madden
+Track: amazon
+SKIP (already tailored): Marketplace Ecommerce Specialist at Bloomingdale's
+Track: amazon
+SKIP (already tailored): Ecommerce Marketing Manager at Dr. Squatch
+Track: amazon
+SKIP (already tailored): Director of Ecommerce at Mondo
+Track: amazon
+SKIP (already tailored): Account Manager - Automotive, Automotive at Amazon
+Track: ops
+SKIP (already tailored): Head of eCommerce at Idea Nuova, Inc.
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Strategic Account Manager, Amazon Publisher Services at Amazon.com Services LLC
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Strategic Planning', 'Sales Strategy', 'Publisher Relations', 'Revenue Growth', 'Cross-Functional Leadership']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Account Management', 'Strategic Planning', 'Sales Strategy', 'Publisher Relations', 'Revenue Growth', 'Cross-Functional Leadership']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/amazon-com-services-llc_strategic-account-manager-amazon-publish.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Remote Senior Amazon Brand Manager High-Earning Growth at GNO Partners
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Brand Management', 'P&L Management', 'Amazon Seller Central', 'Sales Growth Strategy', 'Channel Optimization', 'Vendor Relations']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Brand Management', 'P&L Management', 'Amazon Seller Central', 'Sales Growth Strategy', 'Channel Optimization', 'Vendor Relations']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/gno-partners_remote-senior-amazon-brand-manager-high-.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Amazon Marketplace Manager at Rain Media/Organics Ocean
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Marketplace Management', 'P&L Management', 'Inventory Management', 'Channel Strategy', 'Performance Analytics']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Seller Central', 'Marketplace Management', 'P&L Management', 'Inventory Management', 'Channel Strategy', 'Performance Analytics']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/rain-media-organics-ocean_amazon-marketplace-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Amazon Channel Manager (digital marketplace) -  OPT Visa Accepted at Resiliency LLC
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Digital Marketplace Management', 'Channel Strategy', 'Vendor Management', 'Sales Analytics', 'P&L Management']
+
+Match score BEFORE tailoring: 83/100
+  Already in resume: ['Amazon Seller Central', 'Digital Marketplace Management', 'Channel Strategy', 'Vendor Management', 'P&L Management']
+  Missing: ['Sales Analytics']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/resiliency-llc_amazon-channel-manager-digital-marketpla.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Amazon Marketplace Brand Manager at 4DS Corp
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Amazon Seller Central', 'Brand Management', 'P&L Management', 'Marketplace Strategy', 'Performance Analytics', 'Vendor Relations']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Amazon Seller Central', 'Brand Management', 'P&L Management', 'Marketplace Strategy', 'Performance Analytics', 'Vendor Relations']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/4ds-corp_amazon-marketplace-brand-manager.docx
+Track: amazon
+Using resume: master_amazon.json
+
+Tailoring resume for: Account Manager, Strategy & Ecommerce Insights at Stackline
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Account Management', 'Ecommerce Strategy', 'Data Analytics', 'Amazon/Ecommerce Platforms', 'Cross-Functional Leadership', 'KPI Performance Tracking']
+
+Match score BEFORE tailoring: 66/100
+  Already in resume: ['Account Management', 'Ecommerce Strategy', 'Cross-Functional Leadership', 'KPI Performance Tracking']
+  Missing: ['Data Analytics', 'Amazon/Ecommerce Platforms']
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/stackline_account-manager-strategy-ecommerce-insig.docx
+Track: ops
+Using resume: master_ops.json
+
+Tailoring resume for: Client Success Manager at My Amazon Guy
+Extracting keywords via Claude Haiku...
+Top ATS keywords: ['Client Relationship Management', 'Account Management', 'Amazon Seller Central', 'KPI Tracking', 'Customer Success Strategy', 'Communication Skills']
+
+Match score BEFORE tailoring: 100/100
+  Already in resume: ['Client Relationship Management', 'Account Management', 'Amazon Seller Central', 'KPI Tracking', 'Customer Success Strategy', 'Communication Skills']
+  Missing: []
+
+Match score AFTER tailoring: 100/100
+
+Tailored resume saved: /Users/openclaw/job-search-agent/resumes/tailored/my-amazon-guy_client-success-manager.docx
+=== Tailor complete: 220 tailored, 0 failed at Mon Aug 17 03:36:03 EDT 2026 ===
+[main b2cf959] Sync tailored resumes 2026-08-17
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 resumes/tailored/4ds-corp_amazon-marketplace-brand-manager.docx
+ create mode 100644 resumes/tailored/amazon-com-services-llc_strategic-account-manager-amazon-publish.docx
+ create mode 100644 resumes/tailored/gno-partners_remote-senior-amazon-brand-manager-high-.docx
+ create mode 100644 resumes/tailored/my-amazon-guy_client-success-manager.docx
+ create mode 100644 resumes/tailored/rain-media-organics-ocean_amazon-marketplace-manager.docx
+ create mode 100644 resumes/tailored/resiliency-llc_amazon-channel-manager-digital-marketpla.docx
+ create mode 100644 resumes/tailored/stackline_account-manager-strategy-ecommerce-insig.docx
+failed to store: -61
+To https://gitlab.com/client-os/client-os.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://gitlab.com/client-os/client-os.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+To https://github.com/angieraja23/client-os.git
+   92f73e3..b2cf959  main -> main
+Vercel CLI 56.4.1 (Node.js 25.8.0)
+Retrieving project…
+Deploying angieraja23-9144s-projects/client-acquisition-os
+Uploading [--------------------] (0.0B/1.2MB)
+Uploading [=====---------------] (309.0KB/1.2MB)
+Uploading [==========----------] (619.1KB/1.2MB)
+Uploading [===============-----] (923.1KB/1.2MB)
+Uploading [====================] (1.2MB/1.2MB)
+  Inspect         https://vercel.com/angieraja23-9144s-projects/client-acquisition-os/6doeFMPMp2aWAQr8o3EXjRxNGfhi
+  Production      https://client-acquisition-75kfwxfp1-angieraja23-9144s-projects.vercel.app
+https://client-acquisition-75kfwxfp1-angieraja23-9144s-projects.vercel.appBuilding…
+Building…
+Running build in Washington, D.C., USA (East) – iad1
+Build machine configuration: 2 cores, 8 GB
+Retrieving list of deployment files...
+Previous build caches not available.
+Downloading 291 deployment files...
+[2K[1A[2K[G  Production      https://client-acquisition-75kfwxfp1-angieraja23-9144s-projects.vercel.app
+Completing…
+▲ Aliased         https://clientos.angieraja.com
+
+✓ Ready in 6s
+=== Resumes synced and deployed ===
+=== Digest sent ===
+=== Run finished: Mon Aug 17 03:36:15 EDT 2026 ===
+=== Run started: Wed Aug 19 03:00:00 EDT 2026 ===
+PATH=/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+GITLAB_TOKEN=SET
+GITHUB_TOKEN=SET
+ANTHROPIC_API_KEY=SET
+--- Running scraper ---
