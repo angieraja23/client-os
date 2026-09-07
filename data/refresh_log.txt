@@ -6127,3 +6127,155 @@ test
 [2026-09-04 03:08]   Deployed to Vercel
 [2026-09-04 03:08] Done.
 
+[2026-09-07 03:00] ==================================================
+[2026-09-07 03:00] Client Acquisition OS — Weekly Refresh
+[2026-09-07 03:00] ── JOBS ─────────────────────────────────
+[2026-09-07 03:00]   Amazon Account Manager — Remote
+[2026-09-07 03:00]     0 results
+[2026-09-07 03:00]   Amazon Account Manager — New York
+[2026-09-07 03:00]     0 results
+[2026-09-07 03:00]   Amazon Brand Manager — Remote
+[2026-09-07 03:00]     0 results
+[2026-09-07 03:00]   Amazon Brand Manager — New York
+[2026-09-07 03:00]     0 results
+[2026-09-07 03:00]   Senior Amazon Brand Manager — Remote
+[2026-09-07 03:00]     0 results
+[2026-09-07 03:00]   Senior Amazon Brand Manager — New York
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Amazon Marketplace Manager — Remote
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Amazon Marketplace Manager — New York
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Ecommerce Brand Manager — Remote
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Ecommerce Brand Manager — New York
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Ecommerce Account Manager — Remote
+[2026-09-07 03:01]     0 results
+[2026-09-07 03:01]   Ecommerce Account Manager — New York
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Marketplace Manager Walmart Amazon — Remote
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Marketplace Manager Walmart Amazon — New York
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Ecommerce Operations Manager — Remote
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Ecommerce Operations Manager — New York
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   DTC Brand Manager — Remote
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   DTC Brand Manager — New York
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Amazon Agency Account Manager — Remote
+[2026-09-07 03:02]     0 results
+[2026-09-07 03:02]   Amazon Agency Account Manager — New York
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff ecommerce — Remote
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff ecommerce — New York
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff startup — Remote
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff startup — New York
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff DTC — Remote
+[2026-09-07 03:03]     0 results
+[2026-09-07 03:03]   Chief of Staff DTC — New York
+[2026-09-07 03:04]     0 results
+[2026-09-07 03:04]   Head of Operations DTC — Remote
+[2026-09-07 03:04]     0 results
+[2026-09-07 03:04]   Head of Operations DTC — New York
+[2026-09-07 03:04]     0 results
+[2026-09-07 03:04]   Head of Operations ecommerce — Remote
+[2026-09-07 03:04]     0 results
+[2026-09-07 03:04]   Head of Operations ecommerce — New York
+[2026-09-07 03:04]   SerpAPI error: The read operation timed out
+[2026-09-07 03:04]     0 results
+[2026-09-07 03:04]   Director of Operations ecommerce — Remote
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   Director of Operations ecommerce — New York
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   EOS Integrator — Remote
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   EOS Integrator — New York
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   Fractional COO — Remote
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   Fractional COO — New York
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   VP Operations DTC — Remote
+[2026-09-07 03:05]     0 results
+[2026-09-07 03:05]   VP Operations DTC — New York
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Business Operations Lead startup — Remote
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Business Operations Lead startup — New York
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Amazon Account Manager agency client portfolio — Remote
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Amazon Account Manager agency client portfolio — New York
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Amazon Brand Manager Seller Central agency — Remote
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Amazon Brand Manager Seller Central agency — New York
+[2026-09-07 03:06]     0 results
+[2026-09-07 03:06]   Marketplace Account Manager consumer brands — Remote
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Marketplace Account Manager consumer brands — New York
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Ecommerce Account Manager client facing Amazon — New York
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Amazon Account Director agency — Remote
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Amazon Account Director agency — New York
+[2026-09-07 03:07]     0 results
+[2026-09-07 03:07]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Senior Account Manager Amazon marketplace agency — New York
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Client Success Manager Amazon agency — Remote
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Client Success Manager Amazon agency — New York
+[2026-09-07 03:08]     0 results
+[2026-09-07 03:08]   Wrote 269 jobs to data/jobs.json (0 new)
+[2026-09-07 03:08] ── CONTACTS ─────────────────────────────
+[2026-09-07 03:08]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-09-07 03:09]     + Mohsin Ali Shahid — Founder @ AMZOS, Full-Service ... @ 
+[2026-09-07 03:09]     + David Frasure — Founder/Owner @ 
+[2026-09-07 03:09]     + Mohammad Reza ACIM — ‏Founder of Brand Booster @ 
+[2026-09-07 03:09]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-09-07 03:09]     + Robin Hartey — Ex GB Gymnast, Co-Founder & CCO @ Big ...
+[2026-09-07 03:09]     + Sidra Fatima — Helping Amazon Brands Owners & Sellers ... @ 
+[2026-09-07 03:09]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-09-07 03:09]     + Dylan Lam — Chairman. President & CEO in Amazon Brands @ 
+[2026-09-07 03:09]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-09-07 03:09]     + Ethan Giffin — CEO @ The B2B eCommerce Agency @ 
+[2026-09-07 03:09]     + Shaheer Maqbool — I help eCommerce agency founders ... @ 
+[2026-09-07 03:09]   site:linkedin.com/in "FBA agency" founder...
+[2026-09-07 03:09]     + Daniel Fazio — Co-Founder Client Ascension. $30M+ on ... @ 
+[2026-09-07 03:09]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-09-07 03:09]     + Michael Uy — Customer-Centric Co-Founder & COO with ... @ 
+[2026-09-07 03:09]     + Malik Hammad Haider Ali — COO & Co-Founder ... @ 
+[2026-09-07 03:09]     + Md Arshad — 👉 COO In VNR Groups LLC @ 
+[2026-09-07 03:09]     + Jack Hershenov — COO @ E-Commerce Operator (Amazon, ...
+[2026-09-07 03:09]     + Lex Valentino — Co-Founder @ GOAT amazon experts
+[2026-09-07 03:09]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-09-07 03:09]     + Contact — ‏Founder & CEO @ UAE Amazon Brand ...
+[2026-09-07 03:09]     + Contact — ‏Founder & CEO @ iNNOVEX
+[2026-09-07 03:09]     + Syed Imad Hussain — Founder & CEO @ Madi Technologies
+[2026-09-07 03:09]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-09-07 03:10]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-09-07 03:10]     + Contact — ‏Founder & CEO at EagleCart @ E-commerce ...
+[2026-09-07 03:10]     + Contact — ‏Founder & CEO @ Farqon Ecom @ 
+[2026-09-07 03:10]     + Muhammad Ibrahim — Founder & CEO, Selltriva @ 
+[2026-09-07 03:10]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-09-07 03:10]     + Wade Zunker — Founder & CEO @ 
+[2026-09-07 03:10]     + Baljeet Singh — Founder – Apex Ecommerce Services @ 
+[2026-09-07 03:10]   Added 22 contacts (total 163)
+[2026-09-07 03:10] ── DEPLOYING via GitLab ──────────────────
