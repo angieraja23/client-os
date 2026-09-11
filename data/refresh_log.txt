@@ -6419,3 +6419,177 @@ test
 [2026-09-09 03:13] Nothing new — skipping deploy
 [2026-09-09 03:13] Done.
 
+[2026-09-11 03:00] ==================================================
+[2026-09-11 03:00] Client Acquisition OS — Weekly Refresh
+[2026-09-11 03:00] ── JOBS ─────────────────────────────────
+[2026-09-11 03:00]   Amazon Account Manager — Remote
+[2026-09-11 03:00]   SerpAPI error: The read operation timed out
+[2026-09-11 03:00]     0 results
+[2026-09-11 03:00]   Amazon Account Manager — New York
+[2026-09-11 03:00]   SerpAPI error: The read operation timed out
+[2026-09-11 03:00]     0 results
+[2026-09-11 03:00]   Amazon Brand Manager — Remote
+[2026-09-11 03:01]   SerpAPI error: The read operation timed out
+[2026-09-11 03:01]     0 results
+[2026-09-11 03:01]   Amazon Brand Manager — New York
+[2026-09-11 03:01]   SerpAPI error: The read operation timed out
+[2026-09-11 03:01]     0 results
+[2026-09-11 03:01]   Senior Amazon Brand Manager — Remote
+[2026-09-11 03:01]   SerpAPI error: The read operation timed out
+[2026-09-11 03:01]     0 results
+[2026-09-11 03:01]   Senior Amazon Brand Manager — New York
+[2026-09-11 03:02]   SerpAPI error: The read operation timed out
+[2026-09-11 03:02]     0 results
+[2026-09-11 03:02]   Amazon Marketplace Manager — Remote
+[2026-09-11 03:02]   SerpAPI error: The read operation timed out
+[2026-09-11 03:02]     0 results
+[2026-09-11 03:02]   Amazon Marketplace Manager — New York
+[2026-09-11 03:02]   SerpAPI error: The read operation timed out
+[2026-09-11 03:02]     0 results
+[2026-09-11 03:02]   Ecommerce Brand Manager — Remote
+[2026-09-11 03:03]   SerpAPI error: The read operation timed out
+[2026-09-11 03:03]     0 results
+[2026-09-11 03:03]   Ecommerce Brand Manager — New York
+[2026-09-11 03:03]   SerpAPI error: The read operation timed out
+[2026-09-11 03:03]     0 results
+[2026-09-11 03:03]   Ecommerce Account Manager — Remote
+[2026-09-11 03:03]   SerpAPI error: The read operation timed out
+[2026-09-11 03:03]     0 results
+[2026-09-11 03:03]   Ecommerce Account Manager — New York
+[2026-09-11 03:04]   SerpAPI error: The read operation timed out
+[2026-09-11 03:04]     0 results
+[2026-09-11 03:04]   Marketplace Manager Walmart Amazon — Remote
+[2026-09-11 03:04]   SerpAPI error: The read operation timed out
+[2026-09-11 03:04]     0 results
+[2026-09-11 03:04]   Marketplace Manager Walmart Amazon — New York
+[2026-09-11 03:04]   SerpAPI error: The read operation timed out
+[2026-09-11 03:04]     0 results
+[2026-09-11 03:04]   Ecommerce Operations Manager — Remote
+[2026-09-11 03:05]   SerpAPI error: The read operation timed out
+[2026-09-11 03:05]     0 results
+[2026-09-11 03:05]   Ecommerce Operations Manager — New York
+[2026-09-11 03:05]   SerpAPI error: The read operation timed out
+[2026-09-11 03:05]     0 results
+[2026-09-11 03:05]   DTC Brand Manager — Remote
+[2026-09-11 03:05]   SerpAPI error: The read operation timed out
+[2026-09-11 03:05]     0 results
+[2026-09-11 03:05]   DTC Brand Manager — New York
+[2026-09-11 03:06]   SerpAPI error: The read operation timed out
+[2026-09-11 03:06]     0 results
+[2026-09-11 03:06]   Amazon Agency Account Manager — Remote
+[2026-09-11 03:06]   SerpAPI error: The read operation timed out
+[2026-09-11 03:06]     0 results
+[2026-09-11 03:06]   Amazon Agency Account Manager — New York
+[2026-09-11 03:06]   SerpAPI error: The read operation timed out
+[2026-09-11 03:06]     0 results
+[2026-09-11 03:06]   Chief of Staff ecommerce — Remote
+[2026-09-11 03:07]   SerpAPI error: The read operation timed out
+[2026-09-11 03:07]     0 results
+[2026-09-11 03:07]   Chief of Staff ecommerce — New York
+[2026-09-11 03:07]   SerpAPI error: The read operation timed out
+[2026-09-11 03:07]     0 results
+[2026-09-11 03:07]   Chief of Staff startup — Remote
+[2026-09-11 03:07]   SerpAPI error: The read operation timed out
+[2026-09-11 03:07]     0 results
+[2026-09-11 03:07]   Chief of Staff startup — New York
+[2026-09-11 03:08]   SerpAPI error: The read operation timed out
+[2026-09-11 03:08]     0 results
+[2026-09-11 03:08]   Chief of Staff DTC — Remote
+[2026-09-11 03:08]   SerpAPI error: The read operation timed out
+[2026-09-11 03:08]     0 results
+[2026-09-11 03:08]   Chief of Staff DTC — New York
+[2026-09-11 03:08]   SerpAPI error: The read operation timed out
+[2026-09-11 03:08]     0 results
+[2026-09-11 03:09]   Head of Operations DTC — Remote
+[2026-09-11 03:09]   SerpAPI error: The read operation timed out
+[2026-09-11 03:09]     0 results
+[2026-09-11 03:09]   Head of Operations DTC — New York
+[2026-09-11 03:09]   SerpAPI error: The read operation timed out
+[2026-09-11 03:09]     0 results
+[2026-09-11 03:09]   Head of Operations ecommerce — Remote
+[2026-09-11 03:10]   SerpAPI error: The read operation timed out
+[2026-09-11 03:10]     0 results
+[2026-09-11 03:10]   Head of Operations ecommerce — New York
+[2026-09-11 03:10]   SerpAPI error: The read operation timed out
+[2026-09-11 03:10]     0 results
+[2026-09-11 03:10]   Director of Operations ecommerce — Remote
+[2026-09-11 03:10]   SerpAPI error: The read operation timed out
+[2026-09-11 03:10]     0 results
+[2026-09-11 03:10]   Director of Operations ecommerce — New York
+[2026-09-11 03:11]   SerpAPI error: The read operation timed out
+[2026-09-11 03:11]     0 results
+[2026-09-11 03:11]   EOS Integrator — Remote
+[2026-09-11 03:11]   SerpAPI error: The read operation timed out
+[2026-09-11 03:11]     0 results
+[2026-09-11 03:11]   EOS Integrator — New York
+[2026-09-11 03:11]   SerpAPI error: The read operation timed out
+[2026-09-11 03:11]     0 results
+[2026-09-11 03:11]   Fractional COO — Remote
+[2026-09-11 03:12]   SerpAPI error: The read operation timed out
+[2026-09-11 03:12]     0 results
+[2026-09-11 03:12]   Fractional COO — New York
+[2026-09-11 03:12]   SerpAPI error: The read operation timed out
+[2026-09-11 03:12]     0 results
+[2026-09-11 03:12]   VP Operations DTC — Remote
+[2026-09-11 03:12]   SerpAPI error: The read operation timed out
+[2026-09-11 03:12]     0 results
+[2026-09-11 03:12]   VP Operations DTC — New York
+[2026-09-11 03:13]   SerpAPI error: The read operation timed out
+[2026-09-11 03:13]     0 results
+[2026-09-11 03:13]   Business Operations Lead startup — Remote
+[2026-09-11 03:13]     0 results
+[2026-09-11 03:13]   Business Operations Lead startup — New York
+[2026-09-11 03:13]   SerpAPI error: The read operation timed out
+[2026-09-11 03:13]     0 results
+[2026-09-11 03:13]   Amazon Account Manager agency client portfolio — Remote
+[2026-09-11 03:13]   SerpAPI error: The read operation timed out
+[2026-09-11 03:13]     0 results
+[2026-09-11 03:13]   Amazon Account Manager agency client portfolio — New York
+[2026-09-11 03:14]   SerpAPI error: The read operation timed out
+[2026-09-11 03:14]     0 results
+[2026-09-11 03:14]   Amazon Brand Manager Seller Central agency — Remote
+[2026-09-11 03:14]   SerpAPI error: The read operation timed out
+[2026-09-11 03:14]     0 results
+[2026-09-11 03:14]   Amazon Brand Manager Seller Central agency — New York
+[2026-09-11 03:15]   SerpAPI error: The read operation timed out
+[2026-09-11 03:15]     0 results
+[2026-09-11 03:15]   Marketplace Account Manager consumer brands — Remote
+[2026-09-11 03:15]   SerpAPI error: The read operation timed out
+[2026-09-11 03:15]     0 results
+[2026-09-11 03:15]   Marketplace Account Manager consumer brands — New York
+[2026-09-11 03:15]   SerpAPI error: The read operation timed out
+[2026-09-11 03:15]     0 results
+[2026-09-11 03:15]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-09-11 03:16]   SerpAPI error: The read operation timed out
+[2026-09-11 03:16]     0 results
+[2026-09-11 03:16]   Ecommerce Account Manager client facing Amazon — New York
+[2026-09-11 03:16]   SerpAPI error: The read operation timed out
+[2026-09-11 03:16]     0 results
+[2026-09-11 03:16]   Amazon Account Director agency — Remote
+[2026-09-11 03:16]   SerpAPI error: The read operation timed out
+[2026-09-11 03:16]     0 results
+[2026-09-11 03:16]   Amazon Account Director agency — New York
+[2026-09-11 03:17]   SerpAPI error: The read operation timed out
+[2026-09-11 03:17]     0 results
+[2026-09-11 03:17]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-09-11 03:17]   SerpAPI error: The read operation timed out
+[2026-09-11 03:17]     0 results
+[2026-09-11 03:17]   Senior Account Manager Amazon marketplace agency — New York
+[2026-09-11 03:17]   SerpAPI error: The read operation timed out
+[2026-09-11 03:17]     0 results
+[2026-09-11 03:17]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-09-11 03:18]   SerpAPI error: The read operation timed out
+[2026-09-11 03:18]     0 results
+[2026-09-11 03:18]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-09-11 03:18]   SerpAPI error: The read operation timed out
+[2026-09-11 03:18]     0 results
+[2026-09-11 03:18]   Client Success Manager Amazon agency — Remote
+[2026-09-11 03:18]   SerpAPI error: The read operation timed out
+[2026-09-11 03:18]     0 results
+[2026-09-11 03:18]   Client Success Manager Amazon agency — New York
+[2026-09-11 03:19]   SerpAPI error: The read operation timed out
+[2026-09-11 03:19]     0 results
+[2026-09-11 03:19]   Wrote 269 jobs to data/jobs.json (0 new)
+[2026-09-11 03:19] Nothing new — skipping deploy
+[2026-09-11 03:19] Done.
+
