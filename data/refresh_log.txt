@@ -6765,3 +6765,149 @@ test
 [2026-09-14 03:16]   Deployed to Vercel
 [2026-09-14 03:16] Done.
 
+[2026-09-16 03:00] ==================================================
+[2026-09-16 03:00] Client Acquisition OS — Weekly Refresh
+[2026-09-16 03:00] ── JOBS ─────────────────────────────────
+[2026-09-16 03:00]   Amazon Account Manager — Remote
+[2026-09-16 03:00]   SerpAPI error: The read operation timed out
+[2026-09-16 03:00]     0 results
+[2026-09-16 03:00]   Amazon Account Manager — New York
+[2026-09-16 03:00]     10 results
+[2026-09-16 03:00]     + Sr. Amazon Ads Account Manager @ PetsWorld Inc (Brooklyn, NY)
+[2026-09-16 03:00]   Amazon Brand Manager — Remote
+[2026-09-16 03:00]   SerpAPI error: The read operation timed out
+[2026-09-16 03:00]     0 results
+[2026-09-16 03:00]   Amazon Brand Manager — New York
+[2026-09-16 03:01]     10 results
+[2026-09-16 03:01]   Senior Amazon Brand Manager — Remote
+[2026-09-16 03:01]   SerpAPI error: The read operation timed out
+[2026-09-16 03:01]     0 results
+[2026-09-16 03:01]   Senior Amazon Brand Manager — New York
+[2026-09-16 03:01]     10 results
+[2026-09-16 03:01]     + Sr. OEM Success Manager, Amazon Autos @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-16 03:01]     + Senior Program Manager, R2L Operations & Optimization Team (ROOT) @ Amazon (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-16 03:01]   Amazon Marketplace Manager — Remote
+[2026-09-16 03:01]   SerpAPI error: The read operation timed out
+[2026-09-16 03:01]     0 results
+[2026-09-16 03:01]   Amazon Marketplace Manager — New York
+[2026-09-16 03:02]   SerpAPI error: The read operation timed out
+[2026-09-16 03:02]     0 results
+[2026-09-16 03:02]   Ecommerce Brand Manager — Remote
+[2026-09-16 03:02]   SerpAPI error: The read operation timed out
+[2026-09-16 03:02]     0 results
+[2026-09-16 03:02]   Ecommerce Brand Manager — New York
+[2026-09-16 03:02]     10 results
+[2026-09-16 03:02]     + Director of Ecommerce @ Lola Blankets (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-16 03:02]     + eCommerce Project Manager I @ Aquent (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-16 03:02]     + Co-Founder, COO - E-Commerce DTC Women's Footwear Brand @ Double Standard (Anywhere) [LinkedIn · Easy Apply]
+[2026-09-16 03:02]   Ecommerce Account Manager — Remote
+[2026-09-16 03:02]     0 results
+[2026-09-16 03:02]   Ecommerce Account Manager — New York
+[2026-09-16 03:03]     10 results
+[2026-09-16 03:03]     + Senior eCommerce Account Manager-Omnichannel @ Implus (Anywhere) [LinkedIn · Easy Apply]
+[2026-09-16 03:03]   Marketplace Manager Walmart Amazon — Remote
+[2026-09-16 03:03]     0 results
+[2026-09-16 03:03]   Marketplace Manager Walmart Amazon — New York
+[2026-09-16 03:03]   SerpAPI error: The read operation timed out
+[2026-09-16 03:03]     0 results
+[2026-09-16 03:03]   Ecommerce Operations Manager — Remote
+[2026-09-16 03:03]   SerpAPI error: The read operation timed out
+[2026-09-16 03:03]     0 results
+[2026-09-16 03:03]   Ecommerce Operations Manager — New York
+[2026-09-16 03:03]     10 results
+[2026-09-16 03:03]     + Senior Retail Operations Manager @ Dôen (Anywhere) [LinkedIn · Easy Apply]
+[2026-09-16 03:03]     + Sr Manager eCommerce Fulfillment Operations (Pick/Pack/Ship) @ Entertainment Retail Enterprises, LLC (Florida, NY, United States)
+[2026-09-16 03:03]   DTC Brand Manager — Remote
+[2026-09-16 03:04]   SerpAPI error: The read operation timed out
+[2026-09-16 03:04]     0 results
+[2026-09-16 03:04]   DTC Brand Manager — New York
+[2026-09-16 03:04]   SerpAPI error: The read operation timed out
+[2026-09-16 03:04]     0 results
+[2026-09-16 03:04]   Amazon Agency Account Manager — Remote
+[2026-09-16 03:04]   SerpAPI error: The read operation timed out
+[2026-09-16 03:04]     0 results
+[2026-09-16 03:04]   Amazon Agency Account Manager — New York
+[2026-09-16 03:05]     10 results
+[2026-09-16 03:05]     + Advertising Sales Account Manager, Full Funnel Seller, Adapt @ Amazon (Anywhere) [LinkedIn · Easy Apply]
+[2026-09-16 03:05]   Chief of Staff ecommerce — Remote
+[2026-09-16 03:05]   SerpAPI error: The read operation timed out
+[2026-09-16 03:05]     0 results
+[2026-09-16 03:05]   Chief of Staff ecommerce — New York
+[2026-09-16 03:05]   SerpAPI error: The read operation timed out
+[2026-09-16 03:05]     0 results
+[2026-09-16 03:05]   Chief of Staff startup — Remote
+[2026-09-16 03:06]   SerpAPI error: The read operation timed out
+[2026-09-16 03:06]     0 results
+[2026-09-16 03:06]   Chief of Staff startup — New York
+[2026-09-16 03:06]     1 results
+[2026-09-16 03:06]     + Chief of Staff to Founder - New York @ The Talent Post (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-16 03:06]   Chief of Staff DTC — Remote
+[2026-09-16 03:06]     0 results
+[2026-09-16 03:06]   Chief of Staff DTC — New York
+[2026-09-16 03:06]     0 results
+[2026-09-16 03:06]   Head of Operations DTC — Remote
+[2026-09-16 03:06]     0 results
+[2026-09-16 03:06]   Head of Operations DTC — New York
+[2026-09-16 03:06]     10 results
+[2026-09-16 03:06]   Head of Operations ecommerce — Remote
+[2026-09-16 03:06]     0 results
+[2026-09-16 03:06]   Head of Operations ecommerce — New York
+[2026-09-16 03:07]     10 results
+[2026-09-16 03:07]   Director of Operations ecommerce — Remote
+[2026-09-16 03:07]     0 results
+[2026-09-16 03:07]   Director of Operations ecommerce — New York
+[2026-09-16 03:07]     10 results
+[2026-09-16 03:07]   EOS Integrator — Remote
+[2026-09-16 03:07]   SerpAPI error: The read operation timed out
+[2026-09-16 03:07]     0 results
+[2026-09-16 03:07]   EOS Integrator — New York
+[2026-09-16 03:07]     6 results
+[2026-09-16 03:07]   Fractional COO — Remote
+[2026-09-16 03:08]   SerpAPI error: The read operation timed out
+[2026-09-16 03:08]     0 results
+[2026-09-16 03:08]   Fractional COO — New York
+[2026-09-16 03:08]     8 results
+[2026-09-16 03:08]   VP Operations DTC — Remote
+[2026-09-16 03:08]   SerpAPI error: The read operation timed out
+[2026-09-16 03:08]     0 results
+[2026-09-16 03:08]   VP Operations DTC — New York
+[2026-09-16 03:09]   SerpAPI error: The read operation timed out
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Business Operations Lead startup — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Business Operations Lead startup — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Account Manager agency client portfolio — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Account Manager agency client portfolio — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Brand Manager Seller Central agency — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Brand Manager Seller Central agency — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Marketplace Account Manager consumer brands — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Marketplace Account Manager consumer brands — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Ecommerce Account Manager client facing Amazon — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Account Director agency — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Amazon Account Director agency — New York
+[2026-09-16 03:09]     5 results
+[2026-09-16 03:09]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Senior Account Manager Amazon marketplace agency — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:09]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-09-16 03:09]     0 results
+[2026-09-16 03:10]   Client Success Manager Amazon agency — Remote
+[2026-09-16 03:10]     0 results
+[2026-09-16 03:10]   Client Success Manager Amazon agency — New York
+[2026-09-16 03:10]     0 results
+[2026-09-16 03:10]   Wrote 283 jobs to data/jobs.json (11 new)
+[2026-09-16 03:10] ── DEPLOYING via GitLab ──────────────────
