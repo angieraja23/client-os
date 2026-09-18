@@ -29546,3 +29546,40 @@ ANTHROPIC_API_KEY=SET
 [2026-09-18 03:15]   SerpAPI error: The read operation timed out
 [2026-09-18 03:15]     0 results
 [2026-09-18 03:15]   Senior Account Manager Amazon marketplace agency — New York
+[main 3bd7de1] Weekly refresh 2026-09-18
+ Committer: OpenClaw <openclaw@Sovereigns-Mac-mini.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 1204 insertions(+), 1 deletion(-)
+[2026-09-18 03:16]   SerpAPI error: The read operation timed out
+[2026-09-18 03:16]     0 results
+[2026-09-18 03:16]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-09-18 03:16]   SerpAPI error: The read operation timed out
+[2026-09-18 03:16]     0 results
+[2026-09-18 03:16]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-09-18 03:16]   SerpAPI error: The read operation timed out
+[2026-09-18 03:16]     0 results
+[2026-09-18 03:16]   Client Success Manager Amazon agency — Remote
+[2026-09-18 03:17]   SerpAPI error: The read operation timed out
+[2026-09-18 03:17]     0 results
+[2026-09-18 03:17]   Client Success Manager Amazon agency — New York
+[2026-09-18 03:17]   SerpAPI error: The read operation timed out
+[2026-09-18 03:17]     0 results
+[2026-09-18 03:17]   Wrote 288 jobs to data/jobs.json (5 new)
+[2026-09-18 03:17] ── DEPLOYING via GitLab ──────────────────
+[2026-09-18 03:17]   Push done
+[2026-09-18 03:17]   Deployed to Vercel
+[2026-09-18 03:17] Done.
+
+Scraper exit code: 0
+--- Committing and pushing ---
