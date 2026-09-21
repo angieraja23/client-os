@@ -7082,3 +7082,186 @@ test
 [2026-09-18 03:17]   Deployed to Vercel
 [2026-09-18 03:17] Done.
 
+[2026-09-21 03:00] ==================================================
+[2026-09-21 03:00] Client Acquisition OS — Weekly Refresh
+[2026-09-21 03:00] ── JOBS ─────────────────────────────────
+[2026-09-21 03:00]   Amazon Account Manager — Remote
+[2026-09-21 03:00]   SerpAPI error: The read operation timed out
+[2026-09-21 03:00]     0 results
+[2026-09-21 03:00]   Amazon Account Manager — New York
+[2026-09-21 03:00]   SerpAPI error: The read operation timed out
+[2026-09-21 03:00]     0 results
+[2026-09-21 03:00]   Amazon Brand Manager — Remote
+[2026-09-21 03:00]     0 results
+[2026-09-21 03:00]   Amazon Brand Manager — New York
+[2026-09-21 03:01]   SerpAPI error: The read operation timed out
+[2026-09-21 03:01]     0 results
+[2026-09-21 03:01]   Senior Amazon Brand Manager — Remote
+[2026-09-21 03:01]   SerpAPI error: The read operation timed out
+[2026-09-21 03:01]     0 results
+[2026-09-21 03:01]   Senior Amazon Brand Manager — New York
+[2026-09-21 03:01]   SerpAPI error: The read operation timed out
+[2026-09-21 03:01]     0 results
+[2026-09-21 03:01]   Amazon Marketplace Manager — Remote
+[2026-09-21 03:02]   SerpAPI error: The read operation timed out
+[2026-09-21 03:02]     0 results
+[2026-09-21 03:02]   Amazon Marketplace Manager — New York
+[2026-09-21 03:02]     10 results
+[2026-09-21 03:02]   Ecommerce Brand Manager — Remote
+[2026-09-21 03:02]   SerpAPI error: The read operation timed out
+[2026-09-21 03:02]     0 results
+[2026-09-21 03:02]   Ecommerce Brand Manager — New York
+[2026-09-21 03:03]     10 results
+[2026-09-21 03:03]     + Ecommerce Manager @ SBH Fashion (New York, NY) [LinkedIn · Easy Apply]
+[2026-09-21 03:03]   Ecommerce Account Manager — Remote
+[2026-09-21 03:03]     0 results
+[2026-09-21 03:03]   Ecommerce Account Manager — New York
+[2026-09-21 03:03]   SerpAPI error: The read operation timed out
+[2026-09-21 03:03]     0 results
+[2026-09-21 03:03]   Marketplace Manager Walmart Amazon — Remote
+[2026-09-21 03:03]   SerpAPI error: The read operation timed out
+[2026-09-21 03:03]     0 results
+[2026-09-21 03:03]   Marketplace Manager Walmart Amazon — New York
+[2026-09-21 03:04]     4 results
+[2026-09-21 03:04]   Ecommerce Operations Manager — Remote
+[2026-09-21 03:04]   SerpAPI error: The read operation timed out
+[2026-09-21 03:04]     0 results
+[2026-09-21 03:04]   Ecommerce Operations Manager — New York
+[2026-09-21 03:04]     10 results
+[2026-09-21 03:04]     + Social Commerce Planning & Operations Intern @ AMOREPACIFIC (Nueva York, NY, Estados Unidos) [LinkedIn · Easy Apply]
+[2026-09-21 03:04]   DTC Brand Manager — Remote
+[2026-09-21 03:05]   SerpAPI error: The read operation timed out
+[2026-09-21 03:05]     0 results
+[2026-09-21 03:05]   DTC Brand Manager — New York
+[2026-09-21 03:05]   SerpAPI error: The read operation timed out
+[2026-09-21 03:05]     0 results
+[2026-09-21 03:05]   Amazon Agency Account Manager — Remote
+[2026-09-21 03:05]     0 results
+[2026-09-21 03:05]   Amazon Agency Account Manager — New York
+[2026-09-21 03:05]   SerpAPI error: The read operation timed out
+[2026-09-21 03:05]     0 results
+[2026-09-21 03:05]   Chief of Staff ecommerce — Remote
+[2026-09-21 03:06]   SerpAPI error: The read operation timed out
+[2026-09-21 03:06]     0 results
+[2026-09-21 03:06]   Chief of Staff ecommerce — New York
+[2026-09-21 03:06]   SerpAPI error: The read operation timed out
+[2026-09-21 03:06]     0 results
+[2026-09-21 03:06]   Chief of Staff startup — Remote
+[2026-09-21 03:06]   SerpAPI error: The read operation timed out
+[2026-09-21 03:06]     0 results
+[2026-09-21 03:06]   Chief of Staff startup — New York
+[2026-09-21 03:07]     0 results
+[2026-09-21 03:07]   Chief of Staff DTC — Remote
+[2026-09-21 03:07]   SerpAPI error: The read operation timed out
+[2026-09-21 03:07]     0 results
+[2026-09-21 03:07]   Chief of Staff DTC — New York
+[2026-09-21 03:07]   SerpAPI error: The read operation timed out
+[2026-09-21 03:07]     0 results
+[2026-09-21 03:07]   Head of Operations DTC — Remote
+[2026-09-21 03:08]     0 results
+[2026-09-21 03:08]   Head of Operations DTC — New York
+[2026-09-21 03:08]     10 results
+[2026-09-21 03:08]     + Sr Operations Manager for US DTC Brand (Remote, LatAmEE) @ Paired (Portland, OR)
+[2026-09-21 03:08]     + E-Commerce Operations Manager, DTC @ Figma (Anywhere)
+[2026-09-21 03:08]   Head of Operations ecommerce — Remote
+[2026-09-21 03:08]   SerpAPI error: The read operation timed out
+[2026-09-21 03:08]     0 results
+[2026-09-21 03:08]   Head of Operations ecommerce — New York
+[2026-09-21 03:08]   SerpAPI error: The read operation timed out
+[2026-09-21 03:08]     0 results
+[2026-09-21 03:08]   Director of Operations ecommerce — Remote
+[2026-09-21 03:09]   SerpAPI error: The read operation timed out
+[2026-09-21 03:09]     0 results
+[2026-09-21 03:09]   Director of Operations ecommerce — New York
+[2026-09-21 03:09]     10 results
+[2026-09-21 03:09]   EOS Integrator — Remote
+[2026-09-21 03:09]   SerpAPI error: The read operation timed out
+[2026-09-21 03:09]     0 results
+[2026-09-21 03:09]   EOS Integrator — New York
+[2026-09-21 03:09]   SerpAPI error: The read operation timed out
+[2026-09-21 03:09]     0 results
+[2026-09-21 03:09]   Fractional COO — Remote
+[2026-09-21 03:10]   SerpAPI error: The read operation timed out
+[2026-09-21 03:10]     0 results
+[2026-09-21 03:10]   Fractional COO — New York
+[2026-09-21 03:10]   SerpAPI error: The read operation timed out
+[2026-09-21 03:10]     0 results
+[2026-09-21 03:10]   VP Operations DTC — Remote
+[2026-09-21 03:10]   SerpAPI error: The read operation timed out
+[2026-09-21 03:10]     0 results
+[2026-09-21 03:11]   VP Operations DTC — New York
+[2026-09-21 03:11]   SerpAPI error: The read operation timed out
+[2026-09-21 03:11]     0 results
+[2026-09-21 03:11]   Business Operations Lead startup — Remote
+[2026-09-21 03:11]   SerpAPI error: The read operation timed out
+[2026-09-21 03:11]     0 results
+[2026-09-21 03:11]   Business Operations Lead startup — New York
+[2026-09-21 03:12]   SerpAPI error: The read operation timed out
+[2026-09-21 03:12]     0 results
+[2026-09-21 03:12]   Amazon Account Manager agency client portfolio — Remote
+[2026-09-21 03:12]   SerpAPI error: The read operation timed out
+[2026-09-21 03:12]     0 results
+[2026-09-21 03:12]   Amazon Account Manager agency client portfolio — New York
+[2026-09-21 03:12]   SerpAPI error: The read operation timed out
+[2026-09-21 03:12]     0 results
+[2026-09-21 03:12]   Amazon Brand Manager Seller Central agency — Remote
+[2026-09-21 03:13]   SerpAPI error: The read operation timed out
+[2026-09-21 03:13]     0 results
+[2026-09-21 03:13]   Amazon Brand Manager Seller Central agency — New York
+[2026-09-21 03:13]   SerpAPI error: The read operation timed out
+[2026-09-21 03:13]     0 results
+[2026-09-21 03:13]   Marketplace Account Manager consumer brands — Remote
+[2026-09-21 03:13]     0 results
+[2026-09-21 03:13]   Marketplace Account Manager consumer brands — New York
+[2026-09-21 03:14]   SerpAPI error: The read operation timed out
+[2026-09-21 03:14]     0 results
+[2026-09-21 03:14]   Ecommerce Account Manager client facing Amazon — Remote
+[2026-09-21 03:14]   SerpAPI error: The read operation timed out
+[2026-09-21 03:14]     0 results
+[2026-09-21 03:14]   Ecommerce Account Manager client facing Amazon — New York
+[2026-09-21 03:14]   SerpAPI error: The read operation timed out
+[2026-09-21 03:14]     0 results
+[2026-09-21 03:14]   Amazon Account Director agency — Remote
+[2026-09-21 03:15]   SerpAPI error: The read operation timed out
+[2026-09-21 03:15]     0 results
+[2026-09-21 03:15]   Amazon Account Director agency — New York
+[2026-09-21 03:15]   SerpAPI error: The read operation timed out
+[2026-09-21 03:15]     0 results
+[2026-09-21 03:15]   Senior Account Manager Amazon marketplace agency — Remote
+[2026-09-21 03:15]   SerpAPI error: The read operation timed out
+[2026-09-21 03:15]     0 results
+[2026-09-21 03:15]   Senior Account Manager Amazon marketplace agency — New York
+[2026-09-21 03:16]   SerpAPI error: The read operation timed out
+[2026-09-21 03:16]     0 results
+[2026-09-21 03:16]   Brand Strategy Manager Amazon ecommerce — Remote
+[2026-09-21 03:16]   SerpAPI error: The read operation timed out
+[2026-09-21 03:16]     0 results
+[2026-09-21 03:16]   Brand Strategy Manager Amazon ecommerce — New York
+[2026-09-21 03:16]   SerpAPI error: The read operation timed out
+[2026-09-21 03:16]     0 results
+[2026-09-21 03:16]   Client Success Manager Amazon agency — Remote
+[2026-09-21 03:17]   SerpAPI error: The read operation timed out
+[2026-09-21 03:17]     0 results
+[2026-09-21 03:17]   Client Success Manager Amazon agency — New York
+[2026-09-21 03:17]   SerpAPI error: The read operation timed out
+[2026-09-21 03:17]     0 results
+[2026-09-21 03:17]   Wrote 292 jobs to data/jobs.json (4 new)
+[2026-09-21 03:17] ── CONTACTS ─────────────────────────────
+[2026-09-21 03:17]   site:linkedin.com/in "amazon agency" "founder" operatio...
+[2026-09-21 03:17]   SerpAPI error: The read operation timed out
+[2026-09-21 03:17]   site:linkedin.com/in "amazon agency" "co-founder"...
+[2026-09-21 03:17]     + Contact — Founder & CEO, Nuanced Media @ 
+[2026-09-21 03:17]   site:linkedin.com/in "amazon agency" founder CEO...
+[2026-09-21 03:17]   site:linkedin.com/in "ecommerce agency" founder operati...
+[2026-09-21 03:17]   site:linkedin.com/in "FBA agency" founder...
+[2026-09-21 03:17]   site:linkedin.com/in "amazon seller" founder COO...
+[2026-09-21 03:18]     + Patricio Cobar — Co-Founder @ MEXUS SELLER @ 
+[2026-09-21 03:18]     + Ayman Farooq — Founder @ Brandeonix @ 75+ Amazon ...
+[2026-09-21 03:18]   site:linkedin.com/in "amazon brand" founder operations...
+[2026-09-21 03:18]     + Contact — Amazon Brand Owner @ 
+[2026-09-21 03:18]   site:linkedin.com/in "amazon marketing agency" founder...
+[2026-09-21 03:18]   site:linkedin.com/in "ecommerce operations" founder CEO...
+[2026-09-21 03:18]   site:linkedin.com/in "amazon consulting" founder OR co-...
+[2026-09-21 03:18]     + Raoul Bery — Owner @ Encompass Consulting @ 
+[2026-09-21 03:18]   Added 5 contacts (total 175)
+[2026-09-21 03:18] ── DEPLOYING via GitLab ──────────────────
